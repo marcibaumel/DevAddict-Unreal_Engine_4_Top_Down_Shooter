@@ -1280,3 +1280,13 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.22-17.48.46:183][929]LogUObjectGlobals: Warning: Failed to find object 'Object None.ActorDetails'
 [2021.09.22-17.48.57:132][565]LogSlate: Window 'Tutorials' being destroyed
 [2021.09.22-17.48.57:135][565]LogSlate: Window 'Tutorials' being destroyed
+[2021.09.22-18.05.58:594][111]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f9140aa9-c79e-45ad-b3b1-89f9e39f3e7e}.
+[2021.09.22-18.05.58:594][111]LogAudioMixer: Resetting audio stream to device id 
+[2021.09.22-18.05.58:596][111]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.22-18.05.58:596][111]LogAudioMixer: Display: 1: FrontRight
+[2021.09.22-18.13.04:233][485]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.09.22-18.13.04:736][490]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{32351533-35de-4127-ad27-782b7d2da3d5}.
+[2021.09.22-18.13.04:740][490]LogAudioMixer: Resetting audio stream to device id 
+[2021.09.22-18.13.04:810][490]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.22-18.13.04:810][490]LogAudioMixer: Display: 1: FrontRight
+[2021.09.22-18.14.25:336][944]LogSlate: Took 0.005273 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
