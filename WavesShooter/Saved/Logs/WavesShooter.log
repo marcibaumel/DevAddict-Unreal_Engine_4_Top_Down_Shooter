@@ -4607,3 +4607,288 @@ Script call stack:
 [2021.09.24-08.10.53:164][705]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMap_Auto352CCBBD04466B0C83A1779B3E51A4D2D.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
 [2021.09.24-08.10.53:165][705]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.048
 [2021.09.24-08.10.53:165][705]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
+[2021.09.24-08.27.09:024][724]LogWorld: UWorld::CleanupWorld for World_11, bSessionEnded=true, bCleanupResources=true
+[2021.09.24-08.27.09:024][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.24-08.27.09:036][724]LogWorld: UWorld::CleanupWorld for World_10, bSessionEnded=true, bCleanupResources=true
+[2021.09.24-08.27.09:036][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.24-08.27.09:116][724]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.09.24-08.27.09:116][724]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.24-08.27.24:545][581]LogWorld: UWorld::CleanupWorld for World_15, bSessionEnded=true, bCleanupResources=true
+[2021.09.24-08.27.24:545][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.24-08.27.24:587][581]LogWorld: UWorld::CleanupWorld for World_16, bSessionEnded=true, bCleanupResources=true
+[2021.09.24-08.27.24:587][581]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.24-08.28.47:842][191]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.09.24-08.30.02:541][627]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.09.24-08.30.02:546][627]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.09.24-08.30.02:558][627]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.09.24-08.30.20:023][665]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_Laser
+[2021.09.24-08.30.20:036][665]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.09.24-08.30.22:131][788]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Laser.BP_Laser
+[2021.09.24-08.31.31:266][376]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.09.24-08.33.03:252][508]BlueprintLog: New page: Compile BP_Laser
+[2021.09.24-08.33.03:341][508]LogUObjectHash: Compacting FUObjectHashTables data took   5.53ms
+[2021.09.24-08.36.59:807][212]LogContentBrowser: Deferred new asset file creation: NewMaterial
+[2021.09.24-08.36.59:822][212]LogContentBrowser: Creating deferred item: NewMaterial
+[2021.09.24-08.37.07:591][670]LogContentBrowser: Attempting asset rename: NewMaterial -> M_Emissive
+[2021.09.24-08.37.07:591][670]LogContentBrowser: End creating deferred item NewMaterial
+[2021.09.24-08.37.08:775][740]LogAssetEditorSubsystem: Opening Asset editor for Material /Game/M_Emissive.M_Emissive
+[2021.09.24-08.37.08:783][740]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 7C3719D5B070427A4F26767CE70EF0B8C6012965), compiling. 
+[2021.09.24-08.37.08:792][740]LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Normal' priority
+[2021.09.24-08.37.08:856][740]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: DA199DD13F9F0BE18EE1227E65ABF1DE06E4748F), compiling. 
+[2021.09.24-08.37.08:865][740]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.24-08.37.08:935][741]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.09.24-08.37.08:935][741]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.09.24-08.37.08:935][741]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.09.24-08.37.08:935][741]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-08.37.08:935][741]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.09.24-08.37.08:935][741]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.09.24-08.37.08:935][741]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.09.24-08.37.08:935][741]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-08.37.09:465][772]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.09.24-08.37.09:465][772]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-08.37.09:465][772]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.24-08.37.09:465][772]LogShaderCompilers: Display: Total job queries 86554, among them cache hits 79443 (91.78%)
+[2021.09.24-08.37.09:465][772]LogShaderCompilers: Display: Tracking 7092 distinct input hashes that result in 3946 distinct outputs (55.64%)
+[2021.09.24-08.37.09:466][772]LogShaderCompilers: Display: RAM used: 34.78 MB (0.03 GB) of 819.20 MB (0.80 GB) budget. Usage: 4.25%
+[2021.09.24-08.37.09:466][772]LogShaderCompilers: Display: ================================================
+[2021.09.24-08.37.09:570][779]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.09.24-08.37.09:570][779]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-08.37.09:598][780]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.37.10:448][831]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.09.24-08.37.10:448][831]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.09.24-08.37.10:448][831]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-08.37.10:448][831]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.37.16:644][202]LogMaterialEditor: Saving and Compiling material M_Emissive
+[2021.09.24-08.37.16:672][202]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_Emissive" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/M_Emissive.uasset" SILENT=true
+[2021.09.24-08.37.16:677][202]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/M_EmissiveFFD37A244973DEFC0C9DC39AB01550CA.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/M_Emissive.uasset'
+[2021.09.24-08.37.16:692][202]AssetCheck: New page: Asset Save: M_Emissive
+[2021.09.24-08.37.16:692][202]LogContentValidation: Display: Validating Material /Game/M_Emissive.M_Emissive
+[2021.09.24-08.37.26:874][724]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 264F60735CDF0A18E6C69CEE55115EB3D5468E8E), compiling. 
+[2021.09.24-08.37.26:876][724]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant4Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 74748AF4B1712E2768E33A5E971BA02D0EB59CEB), compiling. 
+[2021.09.24-08.37.26:878][724]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.24-08.37.26:903][726]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.09.24-08.37.26:909][726]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.09.24-08.37.26:909][726]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.09.24-08.37.26:909][726]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-08.37.26:909][726]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.09.24-08.37.26:909][726]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.09.24-08.37.26:909][726]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-08.37.26:909][726]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.37.36:268][168]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 8AC206A36BE78444662553203A773CFBD34BFDE7), compiling. 
+[2021.09.24-08.37.36:270][168]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant4Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 88A84738EBA6C66BA9BCCCA0137FD19B52284FB8), compiling. 
+[2021.09.24-08.37.36:272][168]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.24-08.37.36:301][170]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.09.24-08.37.36:301][170]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.09.24-08.37.36:301][170]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-08.37.36:301][170]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.37.37:969][270]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: F0366B1D026C66FE2B67DE2387AD73855242B58C), compiling. 
+[2021.09.24-08.37.37:970][270]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionConstant4Vector_0 in PCD3D_SM5, Default, SM5 (DDC key hash: BA8734BB3E6C331BB5DA136A203CFA93888425DC), compiling. 
+[2021.09.24-08.37.37:972][270]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.24-08.37.38:001][272]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.09.24-08.37.38:001][272]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.09.24-08.37.38:001][272]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-08.37.38:001][272]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.37.38:984][331]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.24-08.38.00:839][760]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 3573EE9EA680858E828610A6533871FCEDBB5806), compiling. 
+[2021.09.24-08.38.00:840][760]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 390DE4872F1D4D5AC8BC06DFFEBC06CD57AB7D57), compiling. 
+[2021.09.24-08.38.00:842][760]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B034748A80E1AB225D952DCF0B1AD25409F6D347), compiling. 
+[2021.09.24-08.38.00:848][760]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 6FE3C1ABECD5E1FF025BE8B30BBD97666A275996), compiling. 
+[2021.09.24-08.38.00:855][760]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.24-08.38.00:905][762]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.09.24-08.38.00:905][762]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.09.24-08.38.00:905][762]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.09.24-08.38.00:905][762]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-08.38.00:907][762]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.09.24-08.38.00:907][762]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.09.24-08.38.00:907][762]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-08.38.00:907][762]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.38.38:714][ 74]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: D372941E4377EA92466E94964046158EBA292305), compiling. 
+[2021.09.24-08.38.38:716][ 74]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: A5822FE787A42D611C5B67DCC859BB6BEE495541), compiling. 
+[2021.09.24-08.38.38:717][ 74]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A2A2EEF09CD54E00077FD833B1120A4972756C3), compiling. 
+[2021.09.24-08.38.38:718][ 74]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: E4F92AA723DBB87E33E4A82C74AA10C05FA38ACC), compiling. 
+[2021.09.24-08.38.38:721][ 74]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.24-08.38.38:742][ 76]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.38.38:759][ 77]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.09.24-08.38.38:759][ 77]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.09.24-08.38.38:759][ 77]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-08.38.38:759][ 77]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.38.40:410][176]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 208B4AC15A43443C9931C9B75CF673780C471696), compiling. 
+[2021.09.24-08.38.40:411][176]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 3F5FB5E33CC6AB613636985D3E650F6494B41701), compiling. 
+[2021.09.24-08.38.40:413][176]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B6AAAB0054987CD5698946B5EF2B6196DE47C552), compiling. 
+[2021.09.24-08.38.40:414][176]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 81CB08DED934C1D5CA1761FE62973C1BFD74F677), compiling. 
+[2021.09.24-08.38.40:415][176]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.24-08.38.40:443][178]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.09.24-08.38.40:443][178]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.09.24-08.38.40:443][178]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-08.38.40:443][178]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.38.43:792][377]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: AF4A3D882672FF44B332F48D2B357C5A818BA233), compiling. 
+[2021.09.24-08.38.43:793][377]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 87F7AA39B4C04142F6A8C6089EA297328366BBF1), compiling. 
+[2021.09.24-08.38.43:795][377]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 9344998F01D674F69871B500E361466389779444), compiling. 
+[2021.09.24-08.38.43:796][377]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 1F46C5D1C87124272F61E4D113207785CD0601C5), compiling. 
+[2021.09.24-08.38.43:798][377]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.24-08.38.43:824][379]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.09.24-08.38.43:824][379]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.09.24-08.38.43:824][379]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-08.38.43:824][379]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.38.43:975][388]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 4B301F8C25A0D4ECF4C67C43476DCF4D299E17C2), compiling. 
+[2021.09.24-08.38.43:976][388]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 2DA4210BCEC63B21B46E4BFDAC1C5F07B911653A), compiling. 
+[2021.09.24-08.38.43:977][388]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: B6F1FD30658297155D5845990661548BE466F117), compiling. 
+[2021.09.24-08.38.43:978][388]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 47959303F595326768E49E0CC1F5055B9A0B76CE), compiling. 
+[2021.09.24-08.38.43:979][388]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.24-08.38.43:985][388]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.24-08.38.44:008][390]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.38.44:025][391]MaterialEditorStats: Base pass shader: 117 instructions
+[2021.09.24-08.38.44:025][391]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 191 instructions
+[2021.09.24-08.38.44:025][391]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-08.38.44:025][391]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.38.47:437][540]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: D663FD8D86675E69215C36915A226DDED329F5F8), compiling. 
+[2021.09.24-08.38.47:440][540]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 64EA1431ABE35324035DC4F9A7E877C37A1F0D82), compiling. 
+[2021.09.24-08.38.47:443][540]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.24-08.38.47:447][541]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.09.24-08.38.47:453][542]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.09.24-08.38.47:453][542]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.09.24-08.38.47:453][542]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-08.38.47:455][542]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.09.24-08.38.47:462][542]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.09.24-08.38.47:462][542]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.09.24-08.38.47:462][542]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-08.38.47:937][566]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.09.24-08.38.47:937][566]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-08.38.48:055][573]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.09.24-08.38.48:055][573]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-08.38.48:064][573]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.38.49:570][625]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.09.24-08.38.49:570][625]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.09.24-08.38.49:570][625]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-08.38.49:570][625]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.39.05:624][974]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 9DE1B392828628387BF5973468E91B5B9138D6EF), compiling. 
+[2021.09.24-08.39.05:626][974]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.24-08.39.05:657][976]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.09.24-08.39.05:657][976]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.09.24-08.39.05:657][976]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-08.39.05:657][976]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.39.13:935][265]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 3BB191FB6D784694D4B32D07F197309DA91FEE42), compiling. 
+[2021.09.24-08.39.13:936][265]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionVectorParameter_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 51322566CAB85CA9286E517A884A6CD7D1BE3622), compiling. 
+[2021.09.24-08.39.13:940][265]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.24-08.39.13:968][267]MaterialEditorStats: Base pass shader: 119 instructions
+[2021.09.24-08.39.13:968][267]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 193 instructions
+[2021.09.24-08.39.13:968][267]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-08.39.13:968][267]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.39.17:442][445]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 266061CC8476ED38C1B77D24EF54EF9DCFB44AFC), compiling. 
+[2021.09.24-08.39.17:446][445]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.24-08.39.17:449][446]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.09.24-08.39.17:456][447]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.09.24-08.39.17:457][447]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.09.24-08.39.17:457][447]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.09.24-08.39.17:457][447]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.09.24-08.39.17:457][447]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.09.24-08.39.17:457][447]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-08.39.17:457][447]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-08.39.17:910][473]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.09.24-08.39.17:910][473]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-08.39.18:016][479]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.09.24-08.39.18:016][479]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-08.39.18:053][480]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.39.18:771][523]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.09.24-08.39.18:771][523]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.09.24-08.39.18:771][523]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-08.39.18:771][523]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.39.24:764][866]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 4A4CF55E164E9D032BC4C54E5921D974019552C0), compiling. 
+[2021.09.24-08.39.24:766][866]LogMaterial: Display: Missing cached shadermap for FMatExpressionPreview MaterialExpressionBumpOffset_0 in PCD3D_SM5, Default, SM5 (DDC key hash: 0A89A3EC18E824AF30F1FE87C708D6F84740A443), compiling. 
+[2021.09.24-08.39.24:767][866]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.24-08.39.24:802][868]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.09.24-08.39.24:802][868]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.09.24-08.39.24:802][868]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-08.39.24:802][868]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.39.29:713][160]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 144C7F0696CEBAB25AD52BD69E8EC35AD9554FEA), compiling. 
+[2021.09.24-08.39.29:715][160]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.24-08.39.29:758][162]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.09.24-08.39.29:758][162]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.09.24-08.39.29:758][162]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-08.39.29:758][162]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.40.03:888][423]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 4B0321ECFE398854BB958782FDA18349B7FE6999), compiling. 
+[2021.09.24-08.40.03:890][423]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: B16D47FAE09CCAF6A2BA05C3CAEFCD3EF5117405), compiling. 
+[2021.09.24-08.40.03:894][423]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.24-08.40.03:923][424]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'ForceLocal' priority
+[2021.09.24-08.40.03:923][424]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.09.24-08.40.03:923][424]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1
+[2021.09.24-08.40.03:923][424]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-08.40.03:923][424]LogShaderCompilers: Display: Submitted 8 shader compile jobs with 'Normal' priority
+[2021.09.24-08.40.03:923][424]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 8
+[2021.09.24-08.40.03:923][424]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5
+[2021.09.24-08.40.03:923][424]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-08.40.04:362][451]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.09.24-08.40.04:363][451]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-08.40.04:465][456]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.09.24-08.40.04:465][456]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-08.40.04:475][456]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.40.05:580][503]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.09.24-08.40.05:580][503]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.09.24-08.40.05:580][503]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-08.40.05:580][503]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.40.35:409][196]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 310792E4F90F498BBC816F85B04B1B9E5EA67829), compiling. 
+[2021.09.24-08.40.35:411][196]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 6FFB9E2F890041FFF217399DFBA6DFDC01E7BAAB), compiling. 
+[2021.09.24-08.40.35:413][196]MaterialEditorStats: Texture samplers: 0/16
+[2021.09.24-08.40.35:421][197]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.24-08.40.35:421][197]LogShaderCompilers: Display: Total job queries 86740, among them cache hits 79595 (91.76%)
+[2021.09.24-08.40.35:421][197]LogShaderCompilers: Display: Tracking 7135 distinct input hashes that result in 3972 distinct outputs (55.67%)
+[2021.09.24-08.40.35:421][197]LogShaderCompilers: Display: RAM used: 34.94 MB (0.03 GB) of 819.20 MB (0.80 GB) budget. Usage: 4.27%
+[2021.09.24-08.40.35:421][197]LogShaderCompilers: Display: ================================================
+[2021.09.24-08.40.35:436][198]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.40.35:452][199]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.09.24-08.40.35:452][199]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.09.24-08.40.35:452][199]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-08.40.35:452][199]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.40.39:219][410]LogMaterialEditor: Saving and Compiling material M_Emissive
+[2021.09.24-08.40.41:422][410]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: D0187ACD2339475BF4C8F33720F9A8B6476E4A84), compiling. 
+[2021.09.24-08.40.41:446][410]LogMaterial: Display: Missing cached shadermap for M_Emissive in PCD3D_SM5, Default, SM5 (DDC key hash: 9F2AF79892D23841E2AAF24FB830F958E8D1C128), compiling. 
+[2021.09.24-08.40.41:562][410]LogUObjectHash: Compacting FUObjectHashTables data took   5.78ms
+[2021.09.24-08.40.41:571][410]LogShaderCompilers: Display: Submitted 1 shader compile jobs with 'ForceLocal' priority
+[2021.09.24-08.40.41:917][410]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.09.24-08.40.41:917][410]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-08.40.41:917][410]LogUObjectHash: Compacting FUObjectHashTables data took   3.49ms
+[2021.09.24-08.40.41:961][410]LogShaderCompilers: Display: Submitted 5 shader compile jobs with 'Normal' priority
+[2021.09.24-08.40.41:969][410]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.09.24-08.40.41:969][410]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 3
+[2021.09.24-08.40.41:969][410]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1
+[2021.09.24-08.40.41:969][410]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-08.40.41:996][410]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/M_Emissive" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/M_Emissive.uasset" SILENT=true
+[2021.09.24-08.40.42:002][410]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/M_EmissiveA669935340465B1B3684EC9521939A4E.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/M_Emissive.uasset'
+[2021.09.24-08.40.42:025][410]AssetCheck: New page: Asset Save: M_Emissive
+[2021.09.24-08.40.42:025][410]LogContentValidation: Display: Validating Material /Game/M_Emissive.M_Emissive
+[2021.09.24-08.40.42:041][410]MaterialEditorStats: Texture samplers: 2/16
+[2021.09.24-08.40.42:953][464]MaterialEditorStats: Base pass shader: 120 instructions
+[2021.09.24-08.40.42:953][464]MaterialEditorStats: Base pass shader with Volumetric Lightmap: 194 instructions
+[2021.09.24-08.40.42:953][464]MaterialEditorStats: Base pass vertex shader: 42 instructions
+[2021.09.24-08.40.42:953][464]MaterialEditorStats: Texture samplers: 3/16
+[2021.09.24-08.40.53:696][ 86]LogContentBrowser: Deferred new asset file creation: M_Emissive_Inst
+[2021.09.24-08.40.53:707][ 86]LogContentBrowser: Creating deferred item: M_Emissive_Inst
+[2021.09.24-08.41.03:395][663]LogContentBrowser: Attempting asset rename: M_Emissive_Inst -> MI_RedLaser
+[2021.09.24-08.41.03:396][663]LogContentBrowser: End creating deferred item M_Emissive_Inst
+[2021.09.24-08.41.04:128][706]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/MI_RedLaser.MI_RedLaser
+[2021.09.24-08.41.04:242][706]LogRenderer: Reallocating scene render targets to support 1784x924 Format 10 NumSamples 1 (Frame:1).
+[2021.09.24-08.41.23:513][854]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MI_RedLaser" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/MI_RedLaser.uasset" SILENT=true
+[2021.09.24-08.41.23:556][854]LogUObjectHash: Compacting FUObjectHashTables data took   4.89ms
+[2021.09.24-08.41.23:595][854]LogUObjectHash: Compacting FUObjectHashTables data took   0.80ms
+[2021.09.24-08.41.23:599][854]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/MI_RedLaserAFF7CC9A42F55F1A1FE8A3BE06CF291C.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/MI_RedLaser.uasset'
+[2021.09.24-08.41.23:611][854]AssetCheck: New page: Asset Save: MI_RedLaser
+[2021.09.24-08.41.23:611][854]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/MI_RedLaser.MI_RedLaser
+[2021.09.24-08.42.04:822][353]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.24-08.42.56:454][608]LogContentBrowser: Deferred new asset file creation: MI_RedLaser1
+[2021.09.24-08.42.56:473][608]LogContentBrowser: Creating deferred item: MI_RedLaser1
+[2021.09.24-08.43.03:624][ 31]LogContentBrowser: Attempting asset rename: MI_RedLaser1 -> MI_BlueLase
+[2021.09.24-08.43.03:632][ 31]LogContentBrowser: End creating deferred item MI_RedLaser1
+[2021.09.24-08.43.04:974][109]LogAssetEditorSubsystem: Opening Asset editor for MaterialInstanceConstant /Game/MI_BlueLase.MI_BlueLase
+[2021.09.24-08.43.09:344][359]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.24-08.43.12:627][545]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MI_BlueLase" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/MI_BlueLase.uasset" SILENT=true
+[2021.09.24-08.43.12:661][545]LogUObjectHash: Compacting FUObjectHashTables data took   3.76ms
+[2021.09.24-08.43.12:698][545]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.09.24-08.43.12:702][545]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/MI_BlueLaseF65BF5F446438DCC1245EA905441FA1A.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/MI_BlueLase.uasset'
+[2021.09.24-08.43.12:717][545]AssetCheck: New page: Asset Save: MI_BlueLase
+[2021.09.24-08.43.12:718][545]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/MI_BlueLase.MI_BlueLase
+[2021.09.24-08.43.14:322][630]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/MI_RedLaser" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/MI_RedLaser.uasset" SILENT=true
+[2021.09.24-08.43.14:352][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.77ms
+[2021.09.24-08.43.14:382][630]LogUObjectHash: Compacting FUObjectHashTables data took   0.76ms
+[2021.09.24-08.43.14:386][630]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/MI_RedLaser459ECDA64455661E22C91C8387D283B2.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/MI_RedLaser.uasset'
+[2021.09.24-08.43.14:399][630]AssetCheck: New page: Asset Save: MI_RedLaser
+[2021.09.24-08.43.14:399][630]LogContentValidation: Display: Validating MaterialInstanceConstant /Game/MI_RedLaser.MI_RedLaser
