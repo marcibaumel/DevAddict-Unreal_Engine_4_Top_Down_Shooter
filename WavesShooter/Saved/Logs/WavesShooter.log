@@ -954,3 +954,1448 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.09.24-06.12.56:616][430]LogAudioMixer: Resetting audio stream to device id 
 [2021.09.24-06.12.56:816][430]LogAudioMixer: Display: 0: FrontLeft
 [2021.09.24-06.12.56:816][430]LogAudioMixer: Display: 1: FrontRight
+[2021.09.24-07.21.18:896][137]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.24-07.21.18:907][137]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.24-07.21.18:924][137]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 24. 11:21:18)
+[2021.09.24-07.21.18:930][137]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.09.24-07.21.18:932][137]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.09.24-07.21.18:934][137]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.24-07.21.18:962][137]LogPlayLevel: PIE: StaticDuplicateObject took: (0.028089s)
+[2021.09.24-07.21.18:966][137]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.24-07.21.18:967][137]LogPlayLevel: PIE: World Init took: (0.005329s)
+[2021.09.24-07.21.18:968][137]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.034385s)
+[2021.09.24-07.21.18:977][137]LogUObjectHash: Compacting FUObjectHashTables data took   1.12ms
+[2021.09.24-07.21.18:982][137]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.09.24-07.21.18:982][137]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.24-07.21.18:982][137]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.24-07.21.18:982][137]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.24-07.21.18:982][137]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.24-07.21.18:982][137]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.24-07.21.18:982][137]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.24-07.21.18:982][137]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.24-07.21.18:982][137]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.24-07.21.18:982][137]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.24-07.21.18:982][137]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.24-07.21.18:982][137]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.24-07.21.18:982][137]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.24-07.21.18:986][137]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.24-07.21.18:986][137]LogAudioMixer: Display: 1: FrontRight
+[2021.09.24-07.21.18:992][137]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.24-07.21.18:992][137]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.24-07.21.18:992][137]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.24-07.21.18:992][137]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.24-07.21.18:993][137]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.24-07.21.18:993][137]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.24-07.21.18:993][137]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.24-07.21.18:994][137]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.24-07.21.18:994][137]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.24-07.21.18:994][137]LogInit: FAudioDevice initialized.
+[2021.09.24-07.21.18:994][137]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.09.24-07.21.19:018][137]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.24-07.21.19:029][137]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.24-09.21.19
+[2021.09.24-07.21.19:032][137]LogWorld: Bringing up level for play took: 0.006093
+[2021.09.24-07.21.19:033][137]LogOnline: OSS: Creating online subsystem instance for: :Context_3
+[2021.09.24-07.21.19:055][137]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0004 seconds. Added 20 classes and 0 folders.
+[2021.09.24-07.21.19:057][137]PIE: Server logged in
+[2021.09.24-07.21.19:062][137]PIE: Play in editor total start time 0,16 seconds.
+[2021.09.24-07.21.26:802][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.24-07.21.26:802][595]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.24-07.21.26:804][595]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.24-07.21.26:805][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.24-07.21.26:813][595]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.24-07.21.26:830][595]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.24-07.21.26:839][595]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.24-07.21.26:841][595]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.24-07.21.26:842][595]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.24-07.21.26:846][595]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.24-07.21.26:851][595]LogUObjectHash: Compacting FUObjectHashTables data took   1.07ms
+[2021.09.24-07.21.26:887][596]LogPlayLevel: Display: Destroying online subsystem :Context_3
+[2021.09.24-07.21.30:635][820]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.09.24-07.21.34:467][ 28]LogSlate: Took 0.004716 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.24-07.21.34:492][ 28]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.09.24-07.21.35:243][ 28]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.09.24-07.21.36:159][ 28]LogSlate: Took 0.004913 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.24-07.23.38:396][ 56]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.09.24-07.23.38:530][ 56]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.09.24-07.23.39:668][104]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonCharacter6EB276514D50A32F4BE250A95BB16F79.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.09.24-07.23.39:682][104]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.09.24-07.23.39:682][104]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.09.24-07.23.47:581][560]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.09.24-07.23.47:584][560]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.09.24-07.23.47:608][560]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.09.24-07.23.47:608][560]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.24-07.23.50:340][717]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.24-07.23.50:343][717]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.24-07.23.50:343][717]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 24. 11:23:50)
+[2021.09.24-07.23.50:344][717]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.24-07.23.50:353][717]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008782s)
+[2021.09.24-07.23.50:354][717]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.24-07.23.50:354][717]LogPlayLevel: PIE: World Init took: (0.001479s)
+[2021.09.24-07.23.50:354][717]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010428s)
+[2021.09.24-07.23.50:374][717]LogUObjectHash: Compacting FUObjectHashTables data took   2.19ms
+[2021.09.24-07.23.50:376][717]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.09.24-07.23.50:376][717]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.24-07.23.50:376][717]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.24-07.23.50:376][717]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.24-07.23.50:376][717]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.24-07.23.50:376][717]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.24-07.23.50:376][717]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.24-07.23.50:376][717]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.24-07.23.50:376][717]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.24-07.23.50:376][717]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.24-07.23.50:376][717]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.24-07.23.50:376][717]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.24-07.23.50:376][717]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.24-07.23.50:378][717]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.24-07.23.50:378][717]LogAudioMixer: Display: 1: FrontRight
+[2021.09.24-07.23.50:384][717]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.24-07.23.50:384][717]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.24-07.23.50:384][717]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.24-07.23.50:384][717]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.24-07.23.50:385][717]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.24-07.23.50:385][717]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.24-07.23.50:385][717]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.24-07.23.50:386][717]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.24-07.23.50:386][717]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.24-07.23.50:386][717]LogInit: FAudioDevice initialized.
+[2021.09.24-07.23.50:386][717]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.09.24-07.23.50:395][717]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.24-07.23.50:396][717]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.24-09.23.50
+[2021.09.24-07.23.50:396][717]LogWorld: Bringing up level for play took: 0.001123
+[2021.09.24-07.23.50:397][717]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.09.24-07.23.50:398][717]PIE: Server logged in
+[2021.09.24-07.23.50:399][717]PIE: Play in editor total start time 0,055 seconds.
+[2021.09.24-07.23.59:491][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.24-07.23.59:491][259]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.24-07.23.59:491][259]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.24-07.23.59:491][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.24-07.23.59:501][259]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.24-07.23.59:533][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.24-07.23.59:545][259]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.24-07.23.59:545][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.24-07.23.59:546][259]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.24-07.23.59:548][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.24-07.23.59:551][259]LogUObjectHash: Compacting FUObjectHashTables data took   1.56ms
+[2021.09.24-07.23.59:586][260]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.09.24-07.24.59:429][483]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.09.24-07.24.59:453][483]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMap_Auto1210D597341CE70FA85AD57BD541FDE8A.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.09.24-07.24.59:455][483]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.040
+[2021.09.24-07.24.59:455][483]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.040
+[2021.09.24-07.32.04:448][749]LogDirectoryWatcher: Display: A directory notification failed for 'C:/REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/Collections/' because it could not be accessed. Aborting watch request...
+[2021.09.24-07.32.04:448][749]LogDirectoryWatcher: Display: A directory notification failed for 'C:/REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/Developers/BaumelMárton/Collections/' because it could not be accessed. Aborting watch request...
+[2021.09.24-07.32.04:448][749]LogDirectoryWatcher: Display: A directory notification failed for 'C:/REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Collections/' because it could not be accessed. Aborting watch request...
+[2021.09.24-07.33.13:031][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.55ms
+[2021.09.24-07.33.20:233][604]LogSlate: Window 'Save Content' being destroyed
+[2021.09.24-07.33.20:264][604]LogUObjectHash: Compacting FUObjectHashTables data took   0.48ms
+[2021.09.24-07.33.20:278][604]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMapA1C8611E4BDC5989127C3589ACAADF2D.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.24-07.33.20:282][604]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.033
+[2021.09.24-07.33.21:335][604]LogTexture: Display: Building textures: T_Belica_UE4_Demo_Eye_Iris (OODLE_AutoDXT, 512X512)
+[2021.09.24-07.33.21:335][604]LogTexture: Display: Building textures: T_Hair_grad_01 (G8, 4096X4096)
+[2021.09.24-07.33.21:335][604]LogTexture: Display: Building textures: T_Blank_N (OODLE_BC5, 128X128)
+[2021.09.24-07.33.21:335][604]LogTexture: Display: Building textures: T_Belica_Hair_D (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.33.21:335][604]LogTexture: Display: Building textures: T_Belica_Eye_D (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.33.21:335][604]LogTexture: Display: Building textures: T_HairClump02_Depth (G8, 2048X2048)
+[2021.09.24-07.33.21:335][604]LogTexture: Display: Building textures: T_EyeScleraBaseColor_Example_1B (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.33.21:335][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.21:335][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.21:335][604]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/ParagonLtBelica/Characters/Global/Eyes/Textures/T_EpicQuadPanorama_CC.T_EpicQuadPanorama_CC', its maximum texture size has been explicitly set to 512.
+[2021.09.24-07.33.21:466][604]LogTexture: Display: Building textures: T_gradient_stasis (OODLE_AutoDXT, 256X256)
+[2021.09.24-07.33.21:466][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.21:466][604]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/ParagonLtBelica/Characters/Maps/BackGroundAssets/T_HDRI_Epic_Courtyard_Daylight.T_HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2021.09.24-07.33.21:566][604]LogMaterial: Display: Missing cached shadermap for M_GreyBall in PCD3D_SM5, Default, SM5 (DDC key hash: EED536CE3D9D5136495C87E0E3782CCDD50B657C), compiling. 
+[2021.09.24-07.33.21:667][604]LogTexture: Display: Building textures: T_Belica_Lowerbody_BiohazardMask (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.21:667][604]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.33.21:764][604]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 25
+[2021.09.24-07.33.21:764][604]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 18
+[2021.09.24-07.33.21:764][604]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 11
+[2021.09.24-07.33.21:764][604]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4
+[2021.09.24-07.33.21:764][604]LogShaderCompilers: Display: Started 25 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.33.21:764][604]LogSkeletalMesh: Display: [AssetLog] C:\REPOS\DevAddict-Unreal_Engine_4_Top_Down_Shooter\WavesShooter\Content\ParagonLtBelica\Characters\Heroes\Belica\Skins\Biohazard\Meshes\Belica_Biohazard.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2021.09.24-07.33.21:765][604]LogSkeletalMesh: Building Skeletal Mesh Belica_Biohazard...
+[2021.09.24-07.33.22:099][604]LogTexture: Display: Building textures: T_HairClump02_Alpha (G8, 2048X2048)
+[2021.09.24-07.33.22:099][604]LogSkeletalMesh: Built Skeletal Mesh [0.33s] /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/Biohazard/Meshes/Belica_Biohazard.Belica_Biohazard
+[2021.09.24-07.33.22:122][604]LogSkeletalMesh: Display: [AssetLog] C:\REPOS\DevAddict-Unreal_Engine_4_Top_Down_Shooter\WavesShooter\Content\ParagonLtBelica\Characters\Heroes\Belica\Skins\Everfrost\Meshes\Belica_Everfrost.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2021.09.24-07.33.22:122][604]LogSkeletalMesh: Building Skeletal Mesh Belica_Everfrost...
+[2021.09.24-07.33.22:376][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.22:376][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.22:376][604]LogTexture: Display: Building textures: T_Master_Mouth_1_RGB (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.33.22:376][604]LogSkeletalMesh: Built Skeletal Mesh [0.25s] /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/Everfrost/Meshes/Belica_Everfrost.Belica_Everfrost
+[2021.09.24-07.33.23:232][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.23:232][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.23:232][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.23:232][604]LogTexture: Display: Building textures: T_Master_Mouth_1_N (OODLE_BC5, 2048X2048)
+[2021.09.24-07.33.23:232][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.23:232][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.23:232][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.23:232][604]LogTexture: Display: Building textures: T_TestML_Mask (OODLE_AutoDXT, 512X512)
+[2021.09.24-07.33.23:630][604]LogTexture: Display: Building textures: T_ShieldImpact_HexReaction_Hexes (OODLE_AutoDXT, 1024X1024)
+[2021.09.24-07.33.23:630][604]LogTexture: Display: Building textures: T_spiritplane_arcs (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.33.23:630][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.23:630][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.23:630][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.23:630][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.23:630][604]LogTexture: Display: Building textures: T_GradientLaserSoft_M (OODLE_AutoDXT, 1024X32)
+[2021.09.24-07.33.23:630][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 32 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.23:630][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.23:760][604]LogTexture: Display: Building textures: T_EyeIrisBaseColor_Example_4 (OODLE_AutoDXT, 512X512)
+[2021.09.24-07.33.23:761][604]LogTexture: Display: Building textures: T_AtmosphericCloudNoise03 (BGRA8, 2048X2048)
+[2021.09.24-07.33.24:465][604]LogTexture: Display: Building textures: T_Belica_ArmHolo (OODLE_AutoDXT, 1024X2048)
+[2021.09.24-07.33.24:465][604]LogTexture: Display: Building textures: T_Belica_UpperBody_PolarStrikeDecals (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.24:465][604]LogTexture: Display: Building textures: T_AtmosphericCloudNoise04 (OODLE_DXT1, 2048X2048)
+[2021.09.24-07.33.24:465][604]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin002_MASK03 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.24:465][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.24:465][604]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin002_MASK01 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.24:465][604]LogTexture: Display: Building textures: T_Working_Belica_Face_Diff_PolarStrike2 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.24:580][604]LogTexture: Display: Building textures: T_AtmosphericCloudNoise01_N (OODLE_BC5, 2048X2048)
+[2021.09.24-07.33.25:110][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.25:110][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.25:110][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.25:110][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.25:406][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.25:406][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.25:406][604]LogTextureFormatOodle: Display: non-RDO encode 512 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.25:406][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.25:406][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.25:635][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.25:635][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.25:635][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.25:635][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.25:635][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.25:819][604]LogTexture: Display: Building textures: T_AtmosphericCloudNoise01 (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.33.27:019][604]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK03 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.27:019][604]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK02 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.27:019][604]LogTexture: Display: Building textures: T_Belica_LowerBody_PolarStrikeDecals (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.27:019][604]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK01 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.27:019][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.27:494][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.27:494][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.27:494][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.27:494][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.27:494][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.27:494][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.28:162][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.28:162][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.28:162][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.28:162][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.28:162][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.28:163][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.28:163][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.28:163][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.28:163][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.28:163][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.28:413][604]LogTexture: Display: Building textures: T_LOWERBODY_MASK01 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.28:413][604]LogTexture: Display: Building textures: T_Blue_Metal02 (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.33.28:506][604]LogTexture: Display: Building textures: T_FACEMASK_MASK01 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.28:506][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.30:548][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.30:548][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.30:548][604]LogTexture: Display: Building textures: T_HeavyArmorUpperbody_N (OODLE_BC5, 4096X4096)
+[2021.09.24-07.33.30:548][604]LogTexture: Display: Building textures: T_UPPERBODY_RGBA (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.30:548][604]LogTexture: Display: Building textures: T_ARMS_RGBA (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.30:548][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.30:548][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.30:548][604]LogTexture: Display: Building textures: T_Belica10HeavyArmorLowerbody_N (OODLE_BC5, 4096X4096)
+[2021.09.24-07.33.30:548][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.30:548][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.30:548][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.30:548][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.34:109][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.34:109][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.34:109][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.34:109][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.34:109][604]LogTexture: Display: Building textures: T_ARMS_MASK02 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.34:109][604]LogTexture: Display: Building textures: T_ARMS_MASK01 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.34:109][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.34:109][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.34:109][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.34:109][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.34:109][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.34:109][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.34:109][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.34:109][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.34:109][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.34:109][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.34:182][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.34:182][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.34:182][604]LogTexture: Display: Building textures: T_HairClump02_Roots (G8, 2048X2048)
+[2021.09.24-07.33.34:381][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.34:381][604]LogTexture: Display: Building textures: T_HairClump02_ID (G8, 2048X2048)
+[2021.09.24-07.33.34:517][604]LogTexture: Display: Building textures: T_Gray_Flat_Black (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.33.34:521][604]LogTexture: Display: Building textures: T_Black_Linear (OODLE_AutoDXT, 32X32)
+[2021.09.24-07.33.34:593][604]LogTexture: Display: Building textures: T_HairClump02_DyeMask (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.33.34:649][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.36:106][604]LogTexture: Display: Building textures: T_ML_Gold_Metal01 (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.33.36:106][604]LogTexture: Display: Building textures: T_Snow_Crystals_N (OODLE_BC5, 2048X2048)
+[2021.09.24-07.33.36:106][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.36:106][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.36:106][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.36:106][604]LogTexture: Display: Building textures: T_Snow_Crystals_MASK (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.33.36:106][604]LogTexture: Display: Building textures: T_Working_Belica_Face_Diff_Biohazard (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.36:106][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.38:125][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.38:125][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.38:125][604]LogTexture: Display: Building textures: T_LinearUVs (OODLE_AutoDXT, 512X512)
+[2021.09.24-07.33.38:125][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.38:125][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.38:125][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.38:125][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.38:133][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.38:133][604]LogTexture: Display: Building textures: T_Caustics_2 (OODLE_DXT1, 512X512)
+[2021.09.24-07.33.38:617][604]LogTexture: Display: Building textures: T_CF_Nor (OODLE_BC5, 1024X1024)
+[2021.09.24-07.33.38:617][604]LogTexture: Display: Building textures: T_Carbon_Color (OODLE_AutoDXT, 1024X1024)
+[2021.09.24-07.33.38:617][604]LogTexture: Display: Building textures: T_RockFlakes (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.33.38:617][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.38:617][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.38:617][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.38:617][604]LogTexture: Display: Building textures: T_Cream_Painted_Metal_N (OODLE_BC5, 2048X2048)
+[2021.09.24-07.33.38:617][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.38:621][604]LogMaterial: Display: Missing cached shadermap for M_HairSheet_Master2 in PCD3D_SM5, Default, SM5 (DDC key hash: 6C6A922DA54D856B20265E816E006AEEB8D93B5E), compiling. 
+[2021.09.24-07.33.38:899][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.38:899][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.38:899][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.38:899][604]LogTexture: Display: Building textures: T_UPPERBODY_MASK02 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.38:899][604]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 52
+[2021.09.24-07.33.38:899][604]LogShaderCompilers: Display: Submitted 215 shader compile jobs with 'Low' priority
+[2021.09.24-07.33.38:927][604]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 205
+[2021.09.24-07.33.38:927][604]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 195
+[2021.09.24-07.33.38:927][604]LogShaderCompilers: Display: Started 30 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.33.38:927][604]LogTexture: Display: Building textures: T_SparrowHair_Flow (BGRA8, 1024X1024)
+[2021.09.24-07.33.39:148][604]LogTexture: Display: Building textures: T_UPPERBODY_MASK01 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.39:148][604]LogTexture: Display: Building textures: T_Hair_Alpha_01 (G8, 4096X4096)
+[2021.09.24-07.33.39:753][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.39:753][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.39:753][604]LogTexture: Display: Building textures: T_LOWERBODY_MASK02 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.40:006][604]LogTexture: Display: Building textures: T_LOWERBODY_RGBA (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.40:006][604]LogTexture: Display: Building textures: T_Hair_depth_01 (G8, 4096X4096)
+[2021.09.24-07.33.40:722][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.40:722][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.40:722][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.40:722][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.40:722][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.40:722][604]LogTexture: Display: Building textures: T_Hair_ID_01 (G8, 4096X4096)
+[2021.09.24-07.33.41:085][604]LogMaterial: Display: Missing cached shadermap for MIC_Belica_Hair in PCD3D_SM5, Default, SM5 (DDC key hash: 5ED7C060E50EB8166564C22CC88D0CB3F0323994), compiling. 
+[2021.09.24-07.33.41:275][604]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 185
+[2021.09.24-07.33.41:275][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.33.41:275][604]LogShaderCompilers: Display: Submitted 215 shader compile jobs with 'Low' priority
+[2021.09.24-07.33.41:293][604]LogTexture: Display: Building textures: T_EyeMidPlaneDisplacement_Example (RGBA16F, 1024X1024)
+[2021.09.24-07.33.41:394][604]LogTexture: Display: Building textures: T_Eye_Wet_Normal (OODLE_BC5, 1024X1024)
+[2021.09.24-07.33.42:592][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.42:592][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.42:592][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.42:592][604]LogTexture: Display: Building textures: T_Belica_Plastic_04_N (OODLE_BC5, 2048X2048)
+[2021.09.24-07.33.42:592][604]LogTexture: Display: Building textures: T_ML_FineLeather01_N (OODLE_BC5, 2048X2048)
+[2021.09.24-07.33.42:592][604]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin00_MASK01 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.42:592][604]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin00_MASK02 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.42:592][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.43:279][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.43:279][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.43:279][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.43:279][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.43:279][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.43:279][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.43:279][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.43:279][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.43:291][604]LogTexture: Display: Building textures: T_EyeIrisBaseColor_Example_2 (OODLE_AutoDXT, 512X512)
+[2021.09.24-07.33.43:573][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.43:573][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.43:573][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.43:573][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.43:573][604]LogTexture: Display: Building textures: T_Belica_Eye_Cateract (OODLE_AutoDXT, 512X512)
+[2021.09.24-07.33.43:573][604]LogTexture: Display: Building textures: T_IceZombieEYe (OODLE_AutoDXT, 512X512)
+[2021.09.24-07.33.43:573][604]LogTexture: Display: Building textures: T_Belica_Body_Color_Overlay (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.43:726][604]LogTexture: Display: Building textures: T_Primer_Black_Metal (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.33.43:726][604]LogTexture: Display: Building textures: T_EyeScleraBaseColor_Example_2 (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.33.43:763][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.44:901][604]LogTexture: Display: Building textures: T_Rough_Plastic_N (OODLE_BC5, 2048X2048)
+[2021.09.24-07.33.44:901][604]LogTexture: Display: Building textures: T_Belica_m03_Belica_guns_skin03_MASK02 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.44:901][604]LogTexture: Display: Building textures: T_Belica_m03_Belica_guns_skin03_MASK01 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.44:901][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.44:901][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.44:901][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.44:901][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.45:136][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.45:136][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.45:136][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.45:136][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.45:136][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.45:145][604]LogTexture: Display: Building textures: T_EYE_NORMALS (OODLE_BC5, 512X512)
+[2021.09.24-07.33.45:265][604]LogTexture: Display: Building textures: T_Sphere_EYE_NORMALS (OODLE_BC5, 1024X1024)
+[2021.09.24-07.33.45:586][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.45:586][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.45:586][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.45:756][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.45:756][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.46:523][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.46:523][604]LogTexture: Display: Building textures: T_Belica_m03_Belica_guns_skin03_N (OODLE_BC5, 4096X4096)
+[2021.09.24-07.33.46:523][604]LogTexture: Display: Building textures: T_Belica_m03_Belica_guns_skin03_RGB (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.46:523][604]LogTexture: Display: Building textures: T_Rubber_2_N (OODLE_BC5, 2048X2048)
+[2021.09.24-07.33.46:524][604]LogTexture: Display: Building textures: T_EpicQuadPanorama_CC (RGBA16F, 7372X3686)
+[2021.09.24-07.33.48:163][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.48:163][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.48:163][604]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_N (OODLE_BC5, 4096X4096)
+[2021.09.24-07.33.48:163][604]LogTexture: Display: Building textures: T_Belica_upperbody_skin00_RGB (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.48:163][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.48:163][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.48:163][604]LogTexture: Display: Building textures: T_Rough_Metal_N (OODLE_BC5, 4096X4096)
+[2021.09.24-07.33.48:163][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.48:163][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.48:163][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.48:276][604]LogTexture: Display: Building textures: T_Belica_Corona_D (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.33.50:901][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.50:901][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.50:901][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.50:901][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.50:901][604]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 390
+[2021.09.24-07.33.50:901][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.33.50:901][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.50:901][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.51:996][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.51:996][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.51:996][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.51:996][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.51:996][604]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK03 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.51:996][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.52:324][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.52:324][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.52:324][604]LogTexture: Display: Building textures: T_Lame_N (OODLE_BC5, 1024X1024)
+[2021.09.24-07.33.52:328][604]LogTexture: Display: Building textures: T_DecalMask_Radial03 (G8, 512X512)
+[2021.09.24-07.33.52:384][604]LogTexture: Display: Building textures: T_Swirly_Noise (OODLE_AutoDXT, 1024X1024)
+[2021.09.24-07.33.52:890][604]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK02 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.52:890][604]LogTexture: Display: Building textures: T_BelicaScreen (OODLE_AutoDXT, 1024X1024)
+[2021.09.24-07.33.52:890][604]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK01 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.52:890][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.52:890][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.53:598][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.53:598][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.53:598][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.53:598][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.53:598][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.53:598][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.53:602][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.53:602][604]LogMaterial: Display: Missing cached shadermap for M_EyeRefractive in PCD3D_SM5, Default, SM5 (DDC key hash: AD71B0416896606C7A8E64864B79BD7AF78C19B8), compiling. 
+[2021.09.24-07.33.53:857][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.53:857][604]LogTexture: Display: Building textures: T_Universal_Eyelashes_D (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.33.53:858][604]LogTexture: Display: Building textures: T_Belica_LowerBody_Decals (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.53:858][604]LogShaderCompilers: Display: Submitted 205 shader compile jobs with 'Low' priority
+[2021.09.24-07.33.53:860][604]LogMaterial: Display: Missing cached shadermap for M_AssetPlatform in PCD3D_SM5, Default, SM5 (DDC key hash: 300C99F75A5A739D0F82C2D2978343033379502B), compiling. 
+[2021.09.24-07.33.53:900][604]LogTexture: Display: Building textures: T_TeethAndTongue_N (OODLE_BC5, 1024X1024)
+[2021.09.24-07.33.53:900][604]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.33.54:040][604]LogTexture: Display: Building textures: T_Alfa (G8, 2048X2048)
+[2021.09.24-07.33.54:272][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.54:272][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.54:272][604]LogTexture: Display: Building textures: T_TeethAndTongue_D (OODLE_AutoDXT, 1024X1024)
+[2021.09.24-07.33.54:272][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.54:272][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.54:272][604]LogTexture: Display: Building textures: T_Depth (G8, 2048X2048)
+[2021.09.24-07.33.54:485][604]LogTexture: Display: Building textures: T_Roots (G8, 2048X2048)
+[2021.09.24-07.33.54:689][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.54:689][604]LogTexture: Display: Building textures: T_ID (G8, 2048X2048)
+[2021.09.24-07.33.54:764][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.54:764][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.54:819][604]LogStaticMesh: Building static mesh SM_WitchHat...
+[2021.09.24-07.33.54:982][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.55:280][604]LogTexture: Display: Building textures: T_Pore_Normals2 (OODLE_BC5, 1024X1024)
+[2021.09.24-07.33.55:280][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.55:280][604]LogTexture: Display: Building textures: T_Pore_Specular (OODLE_AutoDXT, 1024X1024)
+[2021.09.24-07.33.55:280][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.33.55:280][604]LogTexture: Display: Building textures: T_Belica_Face_New_spec (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.55:524][604]LogStaticMesh: Built static mesh [0.71s] /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/SpiderWitch/Meshes/SM_WitchHat.SM_WitchHat
+[2021.09.24-07.33.55:868][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.55:868][604]LogTexture: Display: Building textures: T_Rubber_LowContrast (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.33.59:333][604]LogTexture: Display: Building textures: T_Belica_Face_RGB (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.59:333][604]LogTexture: Display: Building textures: T_Belica_UpperBody_Decals (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.33.59:334][604]LogTexture: Display: Building textures: T_Belica_UpperBody_new_head_N (OODLE_BC5, 4096X4096)
+[2021.09.24-07.33.59:334][604]LogTexture: Display: Building textures: T_Belica_upperbody_skin00_N (OODLE_BC5, 4096X4096)
+[2021.09.24-07.33.59:334][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.59:334][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.59:334][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.59:334][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.59:334][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.59:334][604]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 610
+[2021.09.24-07.33.59:334][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.33.59:334][604]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 600
+[2021.09.24-07.33.59:334][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.33.59:334][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.59:334][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.33.59:334][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.59:334][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.33.59:334][604]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 590
+[2021.09.24-07.33.59:334][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.33.59:334][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.00:297][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.00:297][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.00:297][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.00:297][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.00:298][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.01:984][604]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin00_MASK03 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.34.01:984][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.01:984][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.34.01:984][604]LogTexture: Display: Building textures: T_SpiderwebPattern_NRM (OODLE_BC5, 2048X2048)
+[2021.09.24-07.34.01:984][604]LogTexture: Display: Building textures: T_SpiderwebPattern_COLOR (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.34.01:984][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.01:984][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.34.01:984][604]LogTexture: Display: Building textures: T_Belica_Face_SpiderWitch (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.34.01:984][604]LogTexture: Display: Building textures: T_Diffuse (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.34.01:984][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.01:984][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.34.01:984][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.01:984][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.34.02:313][604]LogTexture: Display: Building textures: T_EyeIrisBaseColor_Example_6 (OODLE_AutoDXT, 512X512)
+[2021.09.24-07.34.02:313][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.34.02:313][604]LogTexture: Display: Building textures: T_Cream_Paint_D (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.34.04:544][604]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 580
+[2021.09.24-07.34.04:544][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.04:544][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.34.04:544][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.04:544][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.34.04:544][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.05:685][604]LogTexture: Display: Building textures: T_ID_Belica_weapon_Decals (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.34.05:685][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.05:685][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.34.05:685][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.07:153][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.34.07:153][604]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 570
+[2021.09.24-07.34.07:153][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.07:153][604]LogTexture: Display: Building textures: T_Belica_m03_Belica_guns_Biohazard_MASK (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.34.07:153][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.07:153][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.34.07:153][604]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 256X256)
+[2021.09.24-07.34.07:153][604]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK03 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.34.07:153][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.34.07:153][604]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 64X64)
+[2021.09.24-07.34.07:153][604]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 256X256)
+[2021.09.24-07.34.07:153][604]LogTexture: Display: Building textures: T_Hair_D_01 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.34.07:153][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.07:153][604]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 64X64)
+[2021.09.24-07.34.07:165][604]LogMaterial: Display: Missing cached shadermap for M_Belica_UpperBody_PolarStrike in PCD3D_SM5, Default, SM5 (DDC key hash: A8EEDE99A545C4E108E3DD66730758F0DC609FBA), compiling. 
+[2021.09.24-07.34.07:453][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.34.07:453][604]LogShaderCompilers: Display: Submitted 138 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.07:457][604]LogMaterial: Display: Missing cached shadermap for M_Belica_Head_PolarStrike in PCD3D_SM5, Default, SM5 (DDC key hash: 0890477DA0135726F38D29DCA65B5E27D8E88711), compiling. 
+[2021.09.24-07.34.07:600][604]LogTexture: Display: Building textures: T_Master_Mouth_1_COLOR (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.34.07:600][604]LogShaderCompilers: Display: Submitted 129 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.07:605][604]LogMaterial: Display: Missing cached shadermap for M_Belica_Guns_PolarStrike in PCD3D_SM5, Default, SM5 (DDC key hash: BBEBBBFE2A96C000B27B53FC12AE5E3FE36B2B66), compiling. 
+[2021.09.24-07.34.07:765][604]LogTexture: Display: Building textures: T_UnpleasentGrime_D (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.34.07:765][604]LogShaderCompilers: Display: Submitted 138 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.08:067][604]LogTexture: Display: Building textures: T_Rubber_2 (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.34.09:245][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.34.09:245][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.09:246][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.09:246][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.09:246][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.09:246][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.10:688][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.10:688][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.34.10:688][604]LogTexture: Display: Building textures: T_Belica_UpperBody_N (OODLE_BC5, 4096X4096)
+[2021.09.24-07.34.10:688][604]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 965
+[2021.09.24-07.34.10:688][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.10:688][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.34.10:688][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.24-07.34.10:688][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.10:688][604]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 955
+[2021.09.24-07.34.10:688][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.10:688][604]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 945
+[2021.09.24-07.34.10:688][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.10:688][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.12:785][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.12:785][604]LogTexture: Display: Building textures: T_ML_SmoothTech_01_D (OODLE_AutoDXT, 512X512)
+[2021.09.24-07.34.12:785][604]LogTexture: Display: Building textures: T_Belica_UpperBody_Decals_Flatblack (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.34.12:785][604]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin00_MASK01 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.34.12:785][604]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin00_MASK02 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.34.12:785][604]LogTexture: Display: Building textures: T_Belica_Upperbody_BiohazardMask (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.34.12:785][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.12:785][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.12:785][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.12:785][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.12:785][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.12:813][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.12:813][604]LogTexture: Display: Building textures: T_Lame_D (OODLE_AutoDXT, 1024X1024)
+[2021.09.24-07.34.13:855][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.13:855][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.13:855][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.13:855][604]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK02 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.34.13:855][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.13:855][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.13:855][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.14:731][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.14:732][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.14:732][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.14:732][604]LogTexture: Display: Building textures: T_EyeOcclusion2 (G8, 512X512)
+[2021.09.24-07.34.14:732][604]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_MASK01 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.34.14:732][604]LogTexture: Display: Building textures: T_HDRI_Epic_Courtyard_Daylight (RGBA16F, 4096X2048)
+[2021.09.24-07.34.14:732][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.15:067][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.15:067][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.15:067][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.15:067][604]LogTexture: Display: Building textures: T_ML_FineLeather01 (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.34.16:032][604]LogTexture: Display: Building textures: T_EyeIrisBaseColor_Example_7 (OODLE_AutoDXT, 512X512)
+[2021.09.24-07.34.16:032][604]LogTexture: Display: Building textures: T_Rust01_N (OODLE_BC5, 2048X2048)
+[2021.09.24-07.34.16:032][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.16:032][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.16:032][604]LogTexture: Display: Building textures: T_Belica_m01_Belica_lowerbody_skin01_RGB (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.34.16:032][604]LogTexture: Display: Building textures: T_RoughMetal01_N2 (OODLE_BC5, 2048X2048)
+[2021.09.24-07.34.16:032][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.16:032][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.16:032][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.17:660][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.17:660][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.17:660][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.17:660][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.19:101][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.19:101][604]LogTexture: Display: Building textures: T_RoughMetal01_N (OODLE_BC5, 2048X2048)
+[2021.09.24-07.34.19:101][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.19:101][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.19:101][604]LogTexture: Display: Building textures: T_ZombieSkin_N2 (OODLE_BC5, 4096X4096)
+[2021.09.24-07.34.19:101][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.19:101][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.19:104][604]LogMaterial: Display: Missing cached shadermap for M_Belica_HeavyArmor_LowerBody in PCD3D_SM5, Default, SM5 (DDC key hash: 1E4CB85102065995CF027B9A0C87789925E47A2B), compiling. 
+[2021.09.24-07.34.19:276][604]LogShaderCompilers: Display: Submitted 138 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.19:701][604]LogTexture: Display: Building textures: T_Belica_Machine_Base_RGB (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.34.19:701][604]LogTexture: Display: Building textures: T_ZombieSkin_N (OODLE_BC5, 4096X4096)
+[2021.09.24-07.34.19:701][604]LogTexture: Display: Building textures: T_ZombieSkin_MASK (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.34.19:701][604]LogTexture: Display: Building textures: T_Rough_Plastic_D (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.34.23:710][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.23:710][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.23:710][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.23:710][604]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1073
+[2021.09.24-07.34.23:710][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.23:710][604]LogTexture: Display: Building textures: T_ZombieSkin_Diff (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.34.23:710][604]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1063
+[2021.09.24-07.34.23:710][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.23:710][604]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1053
+[2021.09.24-07.34.23:710][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.23:710][604]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1043
+[2021.09.24-07.34.23:710][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.23:710][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.23:710][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.23:710][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.23:710][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.23:710][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.23:710][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.25:841][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.25:841][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.25:841][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.26:915][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.26:915][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.26:915][604]LogTexture: Display: Building textures: T_WitchHat_MASK (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.34.26:916][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.26:916][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.26:916][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.26:916][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.26:919][604]LogMaterial: Display: Missing cached shadermap for M_Belica_HeavyArmor_Guns in PCD3D_SM5, Default, SM5 (DDC key hash: 21E20C1D82241F5DDFD96C632A1866C930B71E3F), compiling. 
+[2021.09.24-07.34.27:093][604]LogTexture: Display: Building textures: T_silkroughness (OODLE_AutoDXT, 512X512)
+[2021.09.24-07.34.27:093][604]LogShaderCompilers: Display: Submitted 138 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.27:097][604]LogMaterial: Display: Missing cached shadermap for M_Belica_HeavyArmor_FaceMask in PCD3D_SM5, Default, SM5 (DDC key hash: 595422C1C18C3DB0FD4CB4E736C22F4A37789DDF), compiling. 
+[2021.09.24-07.34.27:304][604]LogTexture: Display: Building textures: T_Dark_Leather_N (OODLE_BC5, 2048X2048)
+[2021.09.24-07.34.27:304][604]LogTexture: Display: Building textures: T_Belica_m00_Belica_upperbody_skin00_MASK03 (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.34.27:304][604]LogShaderCompilers: Display: Submitted 138 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.27:309][604]LogMaterial: Display: Missing cached shadermap for M_Belica_UpperBody_Biohazard in PCD3D_SM5, Default, SM5 (DDC key hash: 744C3AED6323206C1F6C56E82A173EF4C4D59D37), compiling. 
+[2021.09.24-07.34.27:512][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.27:512][604]LogShaderCompilers: Display: Submitted 138 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.28:825][604]LogTexture: Display: Building textures: T_Belica_SpiderWitch_Hat_normals (OODLE_BC5, 4096X4096)
+[2021.09.24-07.34.28:825][604]LogTexture: Display: Building textures: T_GoldFabric01_N (OODLE_BC5, 2048X2048)
+[2021.09.24-07.34.28:825][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.28:826][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.28:826][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.28:826][604]LogTexture: Display: Building textures: T_Belica_UpperBody_N4 (OODLE_BC5, 4096X4096)
+[2021.09.24-07.34.28:826][604]LogTexture: Display: Building textures: T_Belica_Face_D (OODLE_AutoDXT, 4096X4096)
+[2021.09.24-07.34.31:836][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.31:836][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.31:836][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.31:836][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.31:836][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.31:836][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.31:836][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.31:836][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.31:836][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_BC5 (Oodle OodleTex_BC5U) lambda=0 effort=20 
+[2021.09.24-07.34.31:836][604]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1447
+[2021.09.24-07.34.31:836][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.31:836][604]LogTextureFormatOodle: Display: non-RDO encode 4096 x 4096 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.31:836][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.31:836][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.31:836][604]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1437
+[2021.09.24-07.34.31:836][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.31:836][604]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1427
+[2021.09.24-07.34.31:836][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.31:836][604]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1417
+[2021.09.24-07.34.31:836][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.31:858][604]LogMaterial: Display: Missing cached shadermap for M_Belica_New_Head_Everfrost in PCD3D_SM5, Default, SM5 (DDC key hash: 6ABDB78D7F52F474A0541F283D631D917611C129), compiling. 
+[2021.09.24-07.34.32:024][604]LogShaderCompilers: Display: Submitted 129 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.32:409][604]LogTexture: Display: Building textures: T_hardmetal2_D (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.34.33:262][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.33:262][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.33:265][604]LogMaterial: Display: Missing cached shadermap for M_Belica_Guns_Everfrost in PCD3D_SM5, Default, SM5 (DDC key hash: B41FBE1DABC6EBA2752CBB267E9119D5923844F3), compiling. 
+[2021.09.24-07.34.33:434][604]LogShaderCompilers: Display: Submitted 138 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.33:437][604]LogMaterial: Display: Missing cached shadermap for M_Belica_ArmComputer_PolarStrike in PCD3D_SM5, Default, SM5 (DDC key hash: F063F05A9D08DFDEB3DD4155104CD5C652183532), compiling. 
+[2021.09.24-07.34.33:638][604]LogShaderCompilers: Display: Submitted 138 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.33:663][604]LogSkeletalMesh: Display: [AssetLog] C:\REPOS\DevAddict-Unreal_Engine_4_Top_Down_Shooter\WavesShooter\Content\ParagonLtBelica\Characters\Heroes\Belica\Skins\PolarStrike\Meshes\Belica_PolarStrike.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2021.09.24-07.34.33:664][604]LogSkeletalMesh: Building Skeletal Mesh Belica_PolarStrike...
+[2021.09.24-07.34.33:959][604]LogSkeletalMesh: Built Skeletal Mesh [0.30s] /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/PolarStrike/Meshes/Belica_PolarStrike.Belica_PolarStrike
+[2021.09.24-07.34.33:965][604]LogMaterial: Display: Missing cached shadermap for M_Belica_HeavyArmor_UpperBod in PCD3D_SM5, Default, SM5 (DDC key hash: 31FE2B5F3D2A9621C8AA0A38E356A5F18EB796B8), compiling. 
+[2021.09.24-07.34.34:117][604]LogShaderCompilers: Display: Submitted 138 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.34:123][604]LogMaterial: Display: Missing cached shadermap for M_Belica_HeavyArmor_Arms in PCD3D_SM5, Default, SM5 (DDC key hash: E616161F20B1EABA050702748DF8F58168FCEBC5), compiling. 
+[2021.09.24-07.34.34:286][604]LogShaderCompilers: Display: Submitted 138 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.34:304][604]LogSkeletalMesh: Display: [AssetLog] C:\REPOS\DevAddict-Unreal_Engine_4_Top_Down_Shooter\WavesShooter\Content\ParagonLtBelica\Characters\Heroes\Belica\Skins\HeavyArmor\Meshes\Belica_HeavyArmor.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2021.09.24-07.34.34:304][604]LogSkeletalMesh: Building Skeletal Mesh Belica_HeavyArmor...
+[2021.09.24-07.34.34:588][604]LogSkeletalMesh: Built Skeletal Mesh [0.28s] /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/HeavyArmor/Meshes/Belica_HeavyArmor.Belica_HeavyArmor
+[2021.09.24-07.34.34:943][604]LogTexture: Display: Building textures: T_RoughMetal01 (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.34.36:173][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.36:174][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.36:563][604]LogTexture: Display: Building textures: T_Rust01 (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.34.37:818][604]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2088
+[2021.09.24-07.34.37:818][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.37:818][604]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2078
+[2021.09.24-07.34.37:818][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.37:818][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.37:818][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.37:818][604]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2068
+[2021.09.24-07.34.37:818][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.37:821][604]LogMaterial: Display: Missing cached shadermap for M_Belica_UpperBody_Everfrost in PCD3D_SM5, Default, SM5 (DDC key hash: B5C405A0597CAF7FC94AB5FA46747D22FAF5435B), compiling. 
+[2021.09.24-07.34.38:018][604]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2058
+[2021.09.24-07.34.38:018][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.38:018][604]LogShaderCompilers: Display: Submitted 138 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.38:022][604]LogMaterial: Display: Missing cached shadermap for M_Belica_Everfrost_Eye_RightEye in PCD3D_SM5, Default, SM5 (DDC key hash: BFF03C61EA786A1FEBDF0119CF7F79A95BFCA688), compiling. 
+[2021.09.24-07.34.38:241][604]LogShaderCompilers: Display: Submitted 205 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.38:245][604]LogMaterial: Display: Missing cached shadermap for M_Belica_Everfrost_Eye_Left in PCD3D_SM5, Default, SM5 (DDC key hash: 056D9347FAA0C77BE8496E931DC7B0593F3DBF55), compiling. 
+[2021.09.24-07.34.38:453][604]LogShaderCompilers: Display: Submitted 205 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.38:457][604]LogMaterial: Display: Missing cached shadermap for M_Belica-Hair_brown_Everfrost in PCD3D_SM5, Default, SM5 (DDC key hash: C0C8DF0AA1BF5A0A16B1249ADFF4C31DDF930095), compiling. 
+[2021.09.24-07.34.38:665][604]LogShaderCompilers: Display: Submitted 215 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.39:878][604]LogTexture: Display: Building textures: T_Primer_Black_Metal2 (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.34.41:021][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.41:021][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.41:032][604]LogMaterial: Display: Missing cached shadermap for M_Belica_Guns in PCD3D_SM5, Default, SM5 (DDC key hash: 864F516D7D9FE657F2D0E645F16A924C5129EFC6), compiling. 
+[2021.09.24-07.34.41:185][604]LogShaderCompilers: Display: Submitted 138 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.41:234][604]LogTexture: Display: Building textures: T_Lame_D (OODLE_AutoDXT, 1024X1024)
+[2021.09.24-07.34.41:482][604]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2949
+[2021.09.24-07.34.41:482][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.41:482][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.41:486][604]LogMaterial: Display: Missing cached shadermap for M_EyelashMaster in PCD3D_SM5, Default, SM5 (DDC key hash: 7AB48E64CCE8251BF5F7E940D87C26A2F5D8E864), compiling. 
+[2021.09.24-07.34.41:663][604]LogShaderCompilers: Display: Submitted 131 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.41:665][604]LogMaterial: Display: Missing cached shadermap for M_Mouth_Master in PCD3D_SM5, Default, SM5 (DDC key hash: 60B595882966D7D01ED77DAEC9552E612EBCC327), compiling. 
+[2021.09.24-07.34.41:782][604]LogShaderCompilers: Display: Submitted 129 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.41:786][604]LogMaterial: Display: Missing cached shadermap for M_Belica_UpperBody in PCD3D_SM5, Default, SM5 (DDC key hash: 90086446BA2CC46036EFEB6768679A21CB78A2CA), compiling. 
+[2021.09.24-07.34.41:929][604]LogShaderCompilers: Display: Submitted 138 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.41:932][604]LogMaterial: Display: Missing cached shadermap for M_TacArmHoloMesh in PCD3D_SM5, Default, SM5 (DDC key hash: 15441C49F168ED35B069A218139152A42EC02AE9), compiling. 
+[2021.09.24-07.34.41:977][604]LogShaderCompilers: Display: Submitted 56 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.41:982][604]LogMaterial: Display: Missing cached shadermap for M_Belica_Head_SpiderWitch in PCD3D_SM5, Default, SM5 (DDC key hash: 3B2E614A7405784B0E26E05ADBB51F7434319915), compiling. 
+[2021.09.24-07.34.42:111][604]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3393
+[2021.09.24-07.34.42:111][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.42:111][604]LogShaderCompilers: Display: Submitted 129 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.42:115][604]LogMaterial: Display: Missing cached shadermap for M_Belica_Guns_SpiderWitch in PCD3D_SM5, Default, SM5 (DDC key hash: 3EA06DFFFAD3CAFA31F6DE7F46667CD296ADFBB8), compiling. 
+[2021.09.24-07.34.42:252][604]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3512
+[2021.09.24-07.34.42:252][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.42:252][604]LogShaderCompilers: Display: Submitted 138 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.42:256][604]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3640
+[2021.09.24-07.34.42:256][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.42:256][604]LogMaterial: Display: Missing cached shadermap for M_Belica_ArmComputer_SpiderWitch in PCD3D_SM5, Default, SM5 (DDC key hash: AB9CAC29294CDC10158F182E0898B9962D7E07AA), compiling. 
+[2021.09.24-07.34.42:393][604]LogShaderCompilers: Display: Submitted 138 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.42:415][604]LogSkeletalMesh: Display: [AssetLog] C:\REPOS\DevAddict-Unreal_Engine_4_Top_Down_Shooter\WavesShooter\Content\ParagonLtBelica\Characters\Heroes\Belica\Skins\SpiderWitch\Meshes\Belica_SpiderWitch.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2021.09.24-07.34.42:415][604]LogSkeletalMesh: Building Skeletal Mesh Belica_SpiderWitch...
+[2021.09.24-07.34.42:665][604]LogSkeletalMesh: Built Skeletal Mesh [0.25s] /Game/ParagonLtBelica/Characters/Heroes/Belica/Skins/SpiderWitch/Meshes/Belica_SpiderWitch.Belica_SpiderWitch
+[2021.09.24-07.34.42:669][604]LogMaterial: Display: Missing cached shadermap for M_Belica_New_Head in PCD3D_SM5, Default, SM5 (DDC key hash: 70A2DD6EFB84021939DD04047F5E6A4563373139), compiling. 
+[2021.09.24-07.34.42:788][604]LogShaderCompilers: Display: Submitted 129 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.42:791][604]LogMaterial: Display: Missing cached shadermap for M_Belica_Head_Biohazard in PCD3D_SM5, Default, SM5 (DDC key hash: 9AA091978B4F0CF5E824E52B9207EF1656CCC98C), compiling. 
+[2021.09.24-07.34.42:916][604]LogShaderCompilers: Display: Submitted 129 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.42:919][604]LogMaterial: Display: Missing cached shadermap for M_Belica_Guns_Biohazard in PCD3D_SM5, Default, SM5 (DDC key hash: A6F27BF5FF800FE4FC90329F0EF8E703AF32F8FC), compiling. 
+[2021.09.24-07.34.43:065][604]LogShaderCompilers: Display: Submitted 138 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.43:069][604]LogMaterial: Display: Missing cached shadermap for M_Belica_ArmComputer in PCD3D_SM5, Default, SM5 (DDC key hash: 39039743F82566E59C5353A1ACA7AE53A8F9C2C2), compiling. 
+[2021.09.24-07.34.43:214][604]LogShaderCompilers: Display: Submitted 138 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.43:216][604]LogMaterial: Display: Missing cached shadermap for M_ColorGrid in PCD3D_SM5, Default, SM5 (DDC key hash: 2F7A22EAC3B2B3F949F3B7E3A7FADFF47FB22593), compiling. 
+[2021.09.24-07.34.43:240][604]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.43:242][604]LogMaterial: Display: Missing cached shadermap for M_ClearCoatBlack in PCD3D_SM5, Default, SM5 (DDC key hash: 7251D59505F4E773E81E49C5FBDC77F9453A3D47), compiling. 
+[2021.09.24-07.34.43:272][604]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.43:278][604]LogTexture: Display: Building textures: DeprecatedTexture4DAEC1CD45ED4A6C2C49168160C04312 (BGRA8, 128X128)
+[2021.09.24-07.34.43:776][604]LogMaterial: Display: Missing cached shadermap for M_Belica_ArmComputer_Biohazard in PCD3D_SM5, Default, SM5 (DDC key hash: 91BA1D819C617C11CE56CEE2BCEA9851F20EA72E), compiling. 
+[2021.09.24-07.34.43:918][604]LogShaderCompilers: Display: Submitted 138 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.43:921][604]LogMaterial: Display: Missing cached shadermap for M_TearLine in PCD3D_SM5, Default, SM5 (DDC key hash: D253FA20FA73C647911B6021D8E7DD844DE5012B), compiling. 
+[2021.09.24-07.34.44:131][604]LogShaderCompilers: Display: Submitted 233 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.44:149][604]LogSkeletalMesh: Display: [AssetLog] C:\REPOS\DevAddict-Unreal_Engine_4_Top_Down_Shooter\WavesShooter\Content\ParagonLtBelica\Characters\Heroes\Belica\Meshes\Belica.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2021.09.24-07.34.44:149][604]LogSkeletalMesh: Building Skeletal Mesh Belica...
+[2021.09.24-07.34.44:375][604]LogSkeletalMesh: Built Skeletal Mesh [0.23s] /Game/ParagonLtBelica/Characters/Heroes/Belica/Meshes/Belica.Belica
+[2021.09.24-07.34.44:379][604]LogMaterial: Display: Missing cached shadermap for M_ClearCoat in PCD3D_SM5, Default, SM5 (DDC key hash: 50ACDFFCCC09DC0928202652A339AD4F78C4250B), compiling. 
+[2021.09.24-07.34.44:407][604]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.44:415][604]LogMaterial: Display: Missing cached shadermap for M_Belica-Hair_brown_01 in PCD3D_SM5, Default, SM5 (DDC key hash: D2661BDA15E9D407601ED3B7ECBDCA91881C31DF), compiling. 
+[2021.09.24-07.34.44:625][604]LogShaderCompilers: Display: Submitted 215 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.44:628][604]LogMaterial: Display: Missing cached shadermap for M_Eye_Occlusion in PCD3D_SM5, High, SM5 (DDC key hash: C10E1B4063D985485335295E1C77ED71EAB55B19), compiling. 
+[2021.09.24-07.34.44:714][604]LogShaderCompilers: Display: Submitted 115 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.44:716][604]LogMaterial: Display: Missing cached shadermap for M_HDRSky in PCD3D_SM5, Default, SM5 (DDC key hash: 116FAC35A1DFEBEA087F538FF618DA4C1A73C655), compiling. 
+[2021.09.24-07.34.44:723][604]LogShaderCompilers: Display: Submitted 6 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.44:727][604]LogMaterial: Display: Missing cached shadermap for MIC_Belica_Hair_hidden in PCD3D_SM5, Default, SM5 (DDC key hash: F6EEB5DB8FA96615486D219B04AE11D11FDBCC90), compiling. 
+[2021.09.24-07.34.44:926][604]LogShaderCompilers: Display: Submitted 215 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.44:930][604]LogMaterial: Display: Missing cached shadermap for M_Belica_UpperBody_SpiderWitch in PCD3D_SM5, Default, SM5 (DDC key hash: 66EA97E9DD14EA8F0A0EB39CA58BFAB5B9A120E1), compiling. 
+[2021.09.24-07.34.45:071][604]LogShaderCompilers: Display: Submitted 138 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.45:554][604]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5437
+[2021.09.24-07.34.45:554][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.45:554][604]LogTexture: Display: Building textures: T_Synthetic_Leather01_D (OODLE_AutoDXT, 2048X2048)
+[2021.09.24-07.34.46:582][604]LogTextureFormatOodle: Display: non-RDO encode 2048 x 2048 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.46:582][604]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.24-07.34.46:582][604]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5427
+[2021.09.24-07.34.46:582][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.46:587][604]LogMaterial: Display: Missing cached shadermap for M_WitchHat in PCD3D_SM5, Default, SM5 (DDC key hash: ED720ABF06BDB740CFDAB0FCFA869543465354B0), compiling. 
+[2021.09.24-07.34.46:697][604]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5417
+[2021.09.24-07.34.46:697][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.46:697][604]LogShaderCompilers: Display: Submitted 97 shader compile jobs with 'Low' priority
+[2021.09.24-07.34.46:784][604]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.24-07.34.46:784][604]LogShaderCompilers: Display: Total job queries 5849, among them cache hits 0 (0.00%)
+[2021.09.24-07.34.46:784][604]LogShaderCompilers: Display: Tracking 305 distinct input hashes that result in 244 distinct outputs (80.00%)
+[2021.09.24-07.34.46:784][604]LogShaderCompilers: Display: RAM used: 1.91 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.23%
+[2021.09.24-07.34.46:784][604]LogShaderCompilers: Display: ================================================
+[2021.09.24-07.34.46:817][604]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ParagonLtBelica/Characters/Maps/LtBelica.LtBelica
+[2021.09.24-07.34.46:817][604]Cmd: MAP LOAD FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ParagonLtBelica/Characters/Maps/LtBelica.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.24-07.34.46:817][604]LightingResults: New page: Lighting Build
+[2021.09.24-07.34.46:818][604]LoadErrors: New page: Loading map: LtBelica.umap
+[2021.09.24-07.34.46:827][604]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.24-07.34.46:827][604]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.24-07.34.46:827][604]MapCheck: New page: Map Check
+[2021.09.24-07.34.46:827][604]LightingResults: New page: Lighting Build
+[2021.09.24-07.34.46:855][604]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.24-07.34.46:870][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.68ms
+[2021.09.24-07.34.46:894][604]LogAudio: Display: Audio Device (ID: 1) registered with world 'LtBelica'.
+[2021.09.24-07.34.47:112][604]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5504
+[2021.09.24-07.34.47:112][604]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.34.47:117][604]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.24-07.34.47:118][604]LogAIModule: Creating AISystem for world LtBelica
+[2021.09.24-07.34.47:150][604]LogUObjectHash: Compacting FUObjectHashTables data took   3.16ms
+[2021.09.24-07.34.47:154][604]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.24-07.34.47:154][604]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,181ms to complete.
+[2021.09.24-07.34.47:154][604]LogFileHelpers: Loading map 'LtBelica' took 0.338
+[2021.09.24-07.34.47:179][604]AssetCheck: New page: Asset Save: ThirdPersonExampleMap
+[2021.09.24-07.34.47:179][604]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.24-07.34.50:889][715]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 271
+[2021.09.24-07.34.50:889][715]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.34.51:853][765]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 261
+[2021.09.24-07.34.51:853][765]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.34.52:577][781]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 251
+[2021.09.24-07.34.52:577][781]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.34.53:272][805]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 241
+[2021.09.24-07.34.53:272][805]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.34.55:214][885]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 231
+[2021.09.24-07.34.55:214][885]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.34.56:810][938]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 221
+[2021.09.24-07.34.56:810][938]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.34.57:032][943]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 211
+[2021.09.24-07.34.57:032][943]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.34.57:078][945]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 201
+[2021.09.24-07.34.57:078][945]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.34.58:739][998]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 191
+[2021.09.24-07.34.58:739][998]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.34.59:945][ 36]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 181
+[2021.09.24-07.34.59:945][ 36]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.00:214][ 44]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 171
+[2021.09.24-07.35.00:214][ 44]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.00:291][ 46]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 161
+[2021.09.24-07.35.00:291][ 46]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.03:556][148]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 151
+[2021.09.24-07.35.03:556][148]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.06:259][235]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 141
+[2021.09.24-07.35.06:259][235]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.07:945][289]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 131
+[2021.09.24-07.35.07:945][289]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.08:946][319]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 121
+[2021.09.24-07.35.08:946][319]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.11:902][418]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 111
+[2021.09.24-07.35.11:902][418]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.13:132][453]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 101
+[2021.09.24-07.35.13:132][453]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.14:719][499]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 91
+[2021.09.24-07.35.14:719][499]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.15:224][509]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 81
+[2021.09.24-07.35.15:224][509]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.17:372][577]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 71
+[2021.09.24-07.35.17:372][577]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.19:449][649]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 61
+[2021.09.24-07.35.19:449][649]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.19:982][668]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 51
+[2021.09.24-07.35.19:982][668]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.21:985][743]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 41
+[2021.09.24-07.35.21:985][743]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.22:974][770]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 31
+[2021.09.24-07.35.22:974][770]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.26:736][881]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 23
+[2021.09.24-07.35.26:736][881]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.26:898][885]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 17
+[2021.09.24-07.35.26:898][885]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.27:063][888]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 12
+[2021.09.24-07.35.27:063][888]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.29:037][942]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.09.24-07.35.29:037][942]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.29:209][947]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.09.24-07.35.29:209][947]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.29:593][957]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.09.24-07.35.29:593][957]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.30:400][981]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 2
+[2021.09.24-07.35.30:400][981]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.30:402][981]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1
+[2021.09.24-07.35.30:402][981]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.30:510][983]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 338
+[2021.09.24-07.35.30:510][983]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.35.30:751][984]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 328
+[2021.09.24-07.35.30:751][984]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.35.31:012][989]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 318
+[2021.09.24-07.35.31:012][989]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.35.31:539][  5]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 308
+[2021.09.24-07.35.31:539][  5]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.35.34:005][ 85]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 298
+[2021.09.24-07.35.34:006][ 85]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.35.35:504][137]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 288
+[2021.09.24-07.35.35:504][137]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.35.36:010][161]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 278
+[2021.09.24-07.35.36:010][161]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.35.36:257][173]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 268
+[2021.09.24-07.35.36:257][173]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.35.39:742][338]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 258
+[2021.09.24-07.35.39:742][338]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.35.39:746][338]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 248
+[2021.09.24-07.35.39:746][338]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.35.41:073][382]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 238
+[2021.09.24-07.35.41:073][382]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.35.41:436][398]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 228
+[2021.09.24-07.35.41:436][398]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.35.43:122][480]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 218
+[2021.09.24-07.35.43:122][480]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.35.44:822][559]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 208
+[2021.09.24-07.35.44:822][559]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.35.46:705][649]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.09.24-07.35.47:573][649]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 198
+[2021.09.24-07.35.47:573][649]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.35.47:988][649]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 188
+[2021.09.24-07.35.47:988][649]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.35.48:390][649]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 178
+[2021.09.24-07.35.48:390][649]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.35.48:390][649]LogTexture: Display: Building textures: DeprecatedTexture43ADA98049DD7D3E0EABF7B175F6CC97 (BGRA8, 128X128)
+[2021.09.24-07.35.48:397][649]LogTexture: Display: Building textures: DeprecatedTexture34034B4C417D9B375A592E9A23C11137 (BGRA8, 128X128)
+[2021.09.24-07.35.48:405][649]LogTexture: Display: Building textures: DeprecatedTexture310E58554010446A08107499F126CE3D (BGRA8, 128X128)
+[2021.09.24-07.35.48:413][649]LogTexture: Display: Building textures: DeprecatedTextureF6495ADB4998903A4DCD9AAEAD18E643 (BGRA8, 128X128)
+[2021.09.24-07.35.48:420][649]LogTexture: Display: Building textures: DeprecatedTexture286B71FD456BBC57D3B875B63A2AF0AA (BGRA8, 128X128)
+[2021.09.24-07.35.48:427][649]LogTexture: Display: Building textures: DeprecatedTexture617F078740EB0F77ABFB678038ACFCA7 (BGRA8, 128X128)
+[2021.09.24-07.35.48:435][649]LogTexture: Display: Building textures: DeprecatedTexture2A05A5254D431981518674B220E5E1A1 (BGRA8, 128X128)
+[2021.09.24-07.35.48:443][649]LogTexture: Display: Building textures: DeprecatedTexture23F9881A4F7D09FA85B8FFBAC56882BF (BGRA8, 128X128)
+[2021.09.24-07.35.48:450][649]LogTexture: Display: Building textures: DeprecatedTextureB91D75A74080657D8AF886A1EE756E94 (BGRA8, 128X128)
+[2021.09.24-07.35.48:457][649]LogTexture: Display: Building textures: DeprecatedTexture3AD1786A42EB6F981CB7E1847869C35B (BGRA8, 128X128)
+[2021.09.24-07.35.48:485][649]LogMaterial: Display: Missing cached shadermap for M_Brick_Clay_Beveled in PCD3D_SM5, Default, SM5 (DDC key hash: 8E224FE64189BA90AF57DF1788A47AFEF0E55672), compiling. 
+[2021.09.24-07.35.48:512][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.48:526][649]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Smooth in PCD3D_SM5, Default, SM5 (DDC key hash: 9C4F47910A1A81D5EFF90F2D95737B2633D523EE), compiling. 
+[2021.09.24-07.35.48:556][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.48:558][649]LogMaterial: Display: Missing cached shadermap for M_Concrete_Poured in PCD3D_SM5, Default, SM5 (DDC key hash: 4E2C2B40D75E95F0E5A64B847D2049A8BAABF44B), compiling. 
+[2021.09.24-07.35.48:584][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.48:654][649]LogStaticMesh: Building static mesh Floor_400x400...
+[2021.09.24-07.35.48:655][649]LogStaticMesh: Built static mesh [0.00s] /Game/StarterContent/Architecture/Floor_400x400.Floor_400x400
+[2021.09.24-07.35.48:661][649]LogMaterial: Display: Missing cached shadermap for M_Wood_Walnut in PCD3D_SM5, Default, SM5 (DDC key hash: E25FC85464A874F3CFDFA0BF7511EE001B98AF30), compiling. 
+[2021.09.24-07.35.48:688][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.48:689][649]LogMaterial: Display: Missing cached shadermap for M_Radial_Gradient in PCD3D_SM5, Default, SM5 (DDC key hash: C2841E0F8E4F4CD1405007261DBF6D4E41A213EC), compiling. 
+[2021.09.24-07.35.48:734][649]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.48:736][649]LogMaterial: Display: Missing cached shadermap for M_Water_Lake in PCD3D_SM5, Default, SM5 (DDC key hash: B55EE3F997C9F658711328D4860A0949C5258641), compiling. 
+[2021.09.24-07.35.48:764][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.48:766][649]LogMaterial: Display: Missing cached shadermap for M_Tech_Panel in PCD3D_SM5, Default, SM5 (DDC key hash: 3A71C27845D7A3B1768EB2300ED9101D8D4B126E), compiling. 
+[2021.09.24-07.35.48:790][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.48:791][649]LogMaterial: Display: Missing cached shadermap for M_Rock_Basalt in PCD3D_SM5, Default, SM5 (DDC key hash: 0091620460B24D55F39111A3F54AB51BFF01FA09), compiling. 
+[2021.09.24-07.35.48:816][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.48:818][649]LogMaterial: Display: Missing cached shadermap for M_Metal_Steel in PCD3D_SM5, Default, SM5 (DDC key hash: D7102CB9A6373B313A44E2C6EB23CCEA6EB027C8), compiling. 
+[2021.09.24-07.35.48:841][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.48:843][649]LogMaterial: Display: Missing cached shadermap for M_Metal_Rust in PCD3D_SM5, Default, SM5 (DDC key hash: 22BF179E654F1528BC361D3673D7306758B3E88B), compiling. 
+[2021.09.24-07.35.48:871][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.48:872][649]LogMaterial: Display: Missing cached shadermap for M_Concrete_Grime in PCD3D_SM5, Default, SM5 (DDC key hash: 069393C1B9D9B78CE86AE0BF2C05ADDF9C62A041), compiling. 
+[2021.09.24-07.35.48:895][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.48:898][649]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: E9B499C1AD4CF349287883E79BD6EAA9079C11D7), compiling. 
+[2021.09.24-07.35.48:924][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.48:926][649]LogMaterial: Display: Missing cached shadermap for M_Water_Ocean in PCD3D_SM5, Default, SM5 (DDC key hash: 4B83190CD99349A9D012CDCD6C5C3F7D7B100F1F), compiling. 
+[2021.09.24-07.35.48:953][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.48:955][649]LogMaterial: Display: Missing cached shadermap for M_Brick_Cut_Stone in PCD3D_SM5, Default, SM5 (DDC key hash: 47B48F9739F7B79836CFB2F527FBE5DE4901BE4E), compiling. 
+[2021.09.24-07.35.48:983][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.49:000][649]LogMaterial: Display: Missing cached shadermap for M_Brick_Hewn_Stone in PCD3D_SM5, Default, SM5 (DDC key hash: 29DED82354460230456CC7803CF9EA5816A47B83), compiling. 
+[2021.09.24-07.35.49:027][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.49:038][649]LogMaterial: Display: Missing cached shadermap for M_Fire_SubUV in PCD3D_SM5, Default, SM5 (DDC key hash: B56B1E9EAB1AA325F6F927E45362DB6C77154A07), compiling. 
+[2021.09.24-07.35.49:073][649]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.49:084][649]LogMaterial: Display: Missing cached shadermap for M_Heat_Distortion in PCD3D_SM5, Default, SM5 (DDC key hash: B053E766DFB02277C274685DA5E2D6521F4ECD72), compiling. 
+[2021.09.24-07.35.49:130][649]LogShaderCompilers: Display: Submitted 48 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.49:132][649]LogMaterial: Display: Missing cached shadermap for M_Concrete_Tiles in PCD3D_SM5, Default, SM5 (DDC key hash: 8D3A47E3B31D151D9859C1242DD76DD2BA1385AD), compiling. 
+[2021.09.24-07.35.49:161][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.49:163][649]LogMaterial: Display: Missing cached shadermap for M_Ground_Gravel in PCD3D_SM5, Default, SM5 (DDC key hash: 5F66A7E67CB9CAEFD7F64689304A1F04BE96527A), compiling. 
+[2021.09.24-07.35.49:189][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.49:190][649]LogMaterial: Display: Missing cached shadermap for M_Ground_Grass in PCD3D_SM5, Default, SM5 (DDC key hash: E83B7D2E8C95DC614807C3C7CE0535F07650DDA8), compiling. 
+[2021.09.24-07.35.49:216][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.49:218][649]LogMaterial: Display: Missing cached shadermap for M_Rock_Slate in PCD3D_SM5, Default, SM5 (DDC key hash: 8BDFAAD561E3D4F1D180F5F7C830EF85C66F2718), compiling. 
+[2021.09.24-07.35.49:247][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.49:295][649]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Rough in PCD3D_SM5, Default, SM5 (DDC key hash: 89B7FBBAFCF6AA28FDEA79DF694B2AABD3A2E5BE), compiling. 
+[2021.09.24-07.35.49:325][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.49:328][649]LogMaterial: Display: Missing cached shadermap for M_CobbleStone_Pebble in PCD3D_SM5, Default, SM5 (DDC key hash: 0C25B61D37561A7E0E0FDD56EAC3F9BD2BE71B54), compiling. 
+[2021.09.24-07.35.49:357][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.49:359][649]LogMaterial: Display: Missing cached shadermap for M_Spark in PCD3D_SM5, Default, SM5 (DDC key hash: C198A6D0B1339B861238B3099EF3252CE1E69234), compiling. 
+[2021.09.24-07.35.49:391][649]LogShaderCompilers: Display: Submitted 36 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.49:393][649]LogMaterial: Display: Missing cached shadermap for M_Brick_Clay_Old in PCD3D_SM5, Default, SM5 (DDC key hash: 71E1F6624E010C12D556A8332FFD2949FB4726AD), compiling. 
+[2021.09.24-07.35.49:423][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.49:425][649]LogMaterial: Display: Missing cached shadermap for M_Concrete_Panels in PCD3D_SM5, Default, SM5 (DDC key hash: DA369B21A11B560AF6CB626925B104D0B98552A2), compiling. 
+[2021.09.24-07.35.49:453][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.49:506][649]LogMaterial: Display: Missing cached shadermap for M_Brick_Clay_New in PCD3D_SM5, Default, SM5 (DDC key hash: 8EFAF3F6C8E795802FA74D2C47315472AC971489), compiling. 
+[2021.09.24-07.35.49:532][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.49:534][649]LogMaterial: Display: Missing cached shadermap for M_Metal_Gold in PCD3D_SM5, Default, SM5 (DDC key hash: 6A356364B70631467CD60DE5982E6E2D9D724462), compiling. 
+[2021.09.24-07.35.49:560][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.49:717][649]LogMaterial: Display: Missing cached shadermap for M_Glass in PCD3D_SM5, Default, SM5 (DDC key hash: 8D71DF1DD3C1A0244276B6CC29A5E4E506EB3B72), compiling. 
+[2021.09.24-07.35.49:761][649]LogShaderCompilers: Display: Submitted 46 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.49:776][649]LogMaterial: Display: Missing cached shadermap for M_Frame in PCD3D_SM5, Default, SM5 (DDC key hash: A7BEDD3D6D22E5019CB87B3612FB7973C7DFDBDA), compiling. 
+[2021.09.24-07.35.49:803][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.49:844][649]LogMaterial: Display: Missing cached shadermap for M_Dust_Particle in PCD3D_SM5, Default, SM5 (DDC key hash: 78ADCF286D2D6307B216349C2F2431D43EB01C91), compiling. 
+[2021.09.24-07.35.49:969][649]LogShaderCompilers: Display: Submitted 128 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.49:972][649]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile_Pulse in PCD3D_SM5, Default, SM5 (DDC key hash: 4056ABD3EE6CD6F53DFF6BAC6CBF919CF69960C0), compiling. 
+[2021.09.24-07.35.50:000][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.50:001][649]LogMaterial: Display: Missing cached shadermap for M_Tech_Hex_Tile in PCD3D_SM5, Default, SM5 (DDC key hash: 514E48D771E4CF046088A3F9D243D5BE754074C2), compiling. 
+[2021.09.24-07.35.50:023][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.50:025][649]LogMaterial: Display: Missing cached shadermap for M_Tech_Checker_Dot in PCD3D_SM5, Default, SM5 (DDC key hash: A621A60AE02F20EFC8017507571032E59920F313), compiling. 
+[2021.09.24-07.35.50:051][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.50:053][649]LogMaterial: Display: Missing cached shadermap for M_Wood_Oak in PCD3D_SM5, Default, SM5 (DDC key hash: 2D9E86BA73F1E798F65B94E74CE88B5776B43E08), compiling. 
+[2021.09.24-07.35.50:080][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.50:081][649]LogMaterial: Display: Missing cached shadermap for M_Wood_Floor_Walnut_Worn in PCD3D_SM5, Default, SM5 (DDC key hash: 56A1E7E0A8A45A830042FBA07B5D1BBE8FDD6037), compiling. 
+[2021.09.24-07.35.50:106][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.50:108][649]LogMaterial: Display: Missing cached shadermap for M_Rock_Sandstone in PCD3D_SM5, Default, SM5 (DDC key hash: 6BF7FA05F7964AB0DC1BB105CDECF2F0BAF3643E), compiling. 
+[2021.09.24-07.35.50:135][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.50:137][649]LogMaterial: Display: Missing cached shadermap for M_Rock_Marble_Polished in PCD3D_SM5, Default, SM5 (DDC key hash: B6D464688E125B712068DA2E43973225FD83B530), compiling. 
+[2021.09.24-07.35.50:162][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.50:163][649]LogMaterial: Display: Missing cached shadermap for M_Ceramic_Tile_Checker in PCD3D_SM5, Default, SM5 (DDC key hash: 054EC83A29273A7C905A51307FEDBE40E21D12B3), compiling. 
+[2021.09.24-07.35.50:188][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.50:216][649]LogMaterial: Display: Missing cached shadermap for M_Metal_Chrome in PCD3D_SM5, Default, SM5 (DDC key hash: B388B0A48D80EE0998F9151D592B6231A28B531A), compiling. 
+[2021.09.24-07.35.50:242][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.50:252][649]LogMaterial: Display: Missing cached shadermap for M_Ground_Moss in PCD3D_SM5, Default, SM5 (DDC key hash: 9DFEB649FD8AFF244A0E669B14B227AB6B8AD9B7), compiling. 
+[2021.09.24-07.35.50:280][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.50:282][649]LogMaterial: Display: Missing cached shadermap for M_Wood_Pine in PCD3D_SM5, Default, SM5 (DDC key hash: 26F8D070E10C50D027E3DFE34872290D0777D06E), compiling. 
+[2021.09.24-07.35.50:311][649]LogShaderCompilers: Display: Submitted 25 shader compile jobs with 'Low' priority
+[2021.09.24-07.35.50:477][649]LogAssetEditorSubsystem: Opening Asset editor for World /Game/StarterContent/Maps/StarterMap.StarterMap
+[2021.09.24-07.35.50:477][649]Cmd: MAP LOAD FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/StarterContent/Maps/StarterMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.24-07.35.50:478][649]LightingResults: New page: Lighting Build
+[2021.09.24-07.35.50:478][649]LoadErrors: New page: Loading map: StarterMap.umap
+[2021.09.24-07.35.50:481][649]LogWorld: UWorld::CleanupWorld for LtBelica, bSessionEnded=true, bCleanupResources=true
+[2021.09.24-07.35.50:481][649]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.24-07.35.50:481][649]MapCheck: New page: Map Check
+[2021.09.24-07.35.50:481][649]LightingResults: New page: Lighting Build
+[2021.09.24-07.35.50:502][649]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.24-07.35.50:511][649]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.09.24-07.35.50:543][649]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.09.24-07.35.50:570][649]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2021.09.24-07.35.50:570][649]LogAudio: Display: Audio Device (ID: 1) registered with world 'StarterMap'.
+[2021.09.24-07.35.50:649][649]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.24-07.35.50:649][649]LogAIModule: Creating AISystem for world StarterMap
+[2021.09.24-07.35.50:679][649]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.09.24-07.35.50:683][649]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.24-07.35.50:683][649]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,194ms to complete.
+[2021.09.24-07.35.50:683][649]LogFileHelpers: Loading map 'StarterMap' took 0.206
+[2021.09.24-07.35.50:874][652]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 156
+[2021.09.24-07.35.50:874][652]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.52:393][705]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 148
+[2021.09.24-07.35.52:393][705]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.52:687][720]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 138
+[2021.09.24-07.35.52:687][720]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.53:987][795]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 128
+[2021.09.24-07.35.53:987][795]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.56:069][915]LogUObjectHash: Compacting FUObjectHashTables data took   0.98ms
+[2021.09.24-07.35.56:143][915]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.24-07.35.56:143][915]Cmd: MAP LOAD FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.24-07.35.56:143][915]LightingResults: New page: Lighting Build
+[2021.09.24-07.35.56:143][915]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2021.09.24-07.35.56:148][915]LogWorld: UWorld::CleanupWorld for StarterMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.24-07.35.56:148][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.24-07.35.56:148][915]MapCheck: New page: Map Check
+[2021.09.24-07.35.56:148][915]LightingResults: New page: Lighting Build
+[2021.09.24-07.35.56:166][915]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.24-07.35.56:176][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.82ms
+[2021.09.24-07.35.56:177][915]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.09.24-07.35.56:181][915]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.24-07.35.56:181][915]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.24-07.35.56:209][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.09.24-07.35.56:212][915]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.24-07.35.56:212][915]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,143ms to complete.
+[2021.09.24-07.35.56:212][915]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.069
+[2021.09.24-07.35.57:497][986]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 118
+[2021.09.24-07.35.57:498][986]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.57:629][994]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 108
+[2021.09.24-07.35.57:629][994]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.58:360][ 37]LogEditorViewport: Clicking on Actor (LMB): StaticMeshActor (Floor)
+[2021.09.24-07.35.58:484][ 40]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 98
+[2021.09.24-07.35.58:484][ 40]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.58:594][ 47]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 88
+[2021.09.24-07.35.58:594][ 47]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.35.59:205][ 83]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.09.24-07.36.01:036][171]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.09.24-07.36.02:233][197]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 78
+[2021.09.24-07.36.02:233][197]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.36.02:598][215]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 68
+[2021.09.24-07.36.02:598][215]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.36.03:455][257]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 58
+[2021.09.24-07.36.03:455][257]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.36.03:497][259]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 48
+[2021.09.24-07.36.03:497][259]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.36.04:067][292]LogSlate: Window 'ThirdPersonCharacter' being destroyed
+[2021.09.24-07.36.07:092][453]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 38
+[2021.09.24-07.36.07:092][453]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.36.07:438][474]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 28
+[2021.09.24-07.36.07:438][474]LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.36.08:165][510]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.09.24-07.36.08:222][510]LogTexture: Display: Building textures: DeprecatedTexture4DAEC1CD45ED4A6C2C49168160C04312 (BGRA8, 128X128)
+[2021.09.24-07.36.08:224][510]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 20
+[2021.09.24-07.36.08:225][510]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.36.08:240][510]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ParagonLtBelica/Characters/Maps/LtBelica.LtBelica
+[2021.09.24-07.36.08:240][510]Cmd: MAP LOAD FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ParagonLtBelica/Characters/Maps/LtBelica.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.24-07.36.08:240][510]LightingResults: New page: Lighting Build
+[2021.09.24-07.36.08:240][510]LoadErrors: New page: Loading map: LtBelica.umap
+[2021.09.24-07.36.08:243][510]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.24-07.36.08:243][510]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.24-07.36.08:243][510]MapCheck: New page: Map Check
+[2021.09.24-07.36.08:243][510]LightingResults: New page: Lighting Build
+[2021.09.24-07.36.08:267][510]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.24-07.36.08:273][510]LogUObjectHash: Compacting FUObjectHashTables data took   4.13ms
+[2021.09.24-07.36.08:274][510]LogAudio: Display: Audio Device (ID: 1) registered with world 'LtBelica'.
+[2021.09.24-07.36.08:279][510]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.24-07.36.08:279][510]LogAIModule: Creating AISystem for world LtBelica
+[2021.09.24-07.36.08:310][510]LogUObjectHash: Compacting FUObjectHashTables data took   3.08ms
+[2021.09.24-07.36.08:314][510]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.24-07.36.08:315][510]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,159ms to complete.
+[2021.09.24-07.36.08:315][510]LogFileHelpers: Loading map 'LtBelica' took 0.075
+[2021.09.24-07.36.08:375][510]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 14
+[2021.09.24-07.36.08:375][510]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.36.10:769][569]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 10
+[2021.09.24-07.36.10:769][569]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.36.12:165][606]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 7
+[2021.09.24-07.36.12:165][606]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.36.12:265][609]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5
+[2021.09.24-07.36.12:265][609]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.36.12:760][622]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 3
+[2021.09.24-07.36.12:760][622]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.36.13:084][631]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.09.24-07.36.13:085][631]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.36.13:245][635]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.09.24-07.36.13:245][635]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'ForceLocal' priority
+[2021.09.24-07.36.13:426][637]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1092
+[2021.09.24-07.36.13:426][637]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.13:499][639]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1082
+[2021.09.24-07.36.13:499][639]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.13:641][642]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1072
+[2021.09.24-07.36.13:641][642]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.13:728][644]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1062
+[2021.09.24-07.36.13:728][644]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.16:576][729]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1052
+[2021.09.24-07.36.16:576][729]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.16:576][729]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 1042
+[2021.09.24-07.36.16:576][729]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.16:711][736]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1032
+[2021.09.24-07.36.16:711][736]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.17:622][777]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 1022
+[2021.09.24-07.36.17:622][777]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.18:658][821]LogRenderer: Reallocating scene render targets to support 1616x900 Format 10 NumSamples 1 (Frame:1).
+[2021.09.24-07.36.20:205][863]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1012
+[2021.09.24-07.36.20:205][863]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.20:426][870]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 1002
+[2021.09.24-07.36.20:426][870]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.20:678][882]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 992
+[2021.09.24-07.36.20:678][882]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.21:121][894]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 982
+[2021.09.24-07.36.21:121][894]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.23:599][983]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 972
+[2021.09.24-07.36.23:600][983]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.24:706][ 18]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 962
+[2021.09.24-07.36.24:706][ 18]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.25:190][ 36]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 952
+[2021.09.24-07.36.25:190][ 36]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.25:281][ 39]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 942
+[2021.09.24-07.36.25:281][ 39]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.30:327][210]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 932
+[2021.09.24-07.36.30:327][210]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.32:309][267]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 922
+[2021.09.24-07.36.32:309][267]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.32:388][270]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 912
+[2021.09.24-07.36.32:388][270]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.32:418][271]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 902
+[2021.09.24-07.36.32:418][271]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.37:681][443]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 892
+[2021.09.24-07.36.37:681][443]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.39:423][507]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 882
+[2021.09.24-07.36.39:423][507]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.39:769][517]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 872
+[2021.09.24-07.36.39:769][517]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.40:332][545]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 862
+[2021.09.24-07.36.40:332][545]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.44:873][701]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 852
+[2021.09.24-07.36.44:873][701]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.45:757][724]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 842
+[2021.09.24-07.36.45:757][724]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.46:064][732]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 832
+[2021.09.24-07.36.46:064][732]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.46:903][757]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 822
+[2021.09.24-07.36.46:903][757]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.51:564][887]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 812
+[2021.09.24-07.36.51:564][887]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.51:834][895]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 802
+[2021.09.24-07.36.51:834][895]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.53:441][945]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 792
+[2021.09.24-07.36.53:441][945]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.53:611][950]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 782
+[2021.09.24-07.36.53:611][950]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.59:161][134]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 772
+[2021.09.24-07.36.59:161][134]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.36.59:911][162]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 762
+[2021.09.24-07.36.59:911][162]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.00:554][180]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 752
+[2021.09.24-07.37.00:554][180]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.01:316][207]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 742
+[2021.09.24-07.37.01:316][207]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.06:160][372]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 732
+[2021.09.24-07.37.06:160][372]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.06:244][375]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 722
+[2021.09.24-07.37.06:244][375]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.07:594][428]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 712
+[2021.09.24-07.37.07:594][428]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.07:663][431]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 702
+[2021.09.24-07.37.07:663][431]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.11:891][583]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 692
+[2021.09.24-07.37.11:891][583]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.12:043][588]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 682
+[2021.09.24-07.37.12:043][588]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.12:869][617]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 672
+[2021.09.24-07.37.12:869][617]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.13:169][630]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 662
+[2021.09.24-07.37.13:169][630]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.17:609][771]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 652
+[2021.09.24-07.37.17:609][771]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.18:373][799]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 642
+[2021.09.24-07.37.18:373][799]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.18:762][810]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 632
+[2021.09.24-07.37.18:762][810]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.20:006][854]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 622
+[2021.09.24-07.37.20:006][854]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.23:195][956]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 612
+[2021.09.24-07.37.23:195][956]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.23:637][974]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 602
+[2021.09.24-07.37.23:637][974]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.25:988][ 50]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 592
+[2021.09.24-07.37.25:988][ 50]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.26:540][ 67]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 582
+[2021.09.24-07.37.26:540][ 67]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.29:310][163]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 572
+[2021.09.24-07.37.29:310][163]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.29:925][187]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 562
+[2021.09.24-07.37.29:926][187]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.31:824][256]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 552
+[2021.09.24-07.37.31:824][256]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.32:845][289]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 542
+[2021.09.24-07.37.32:845][289]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.35:097][362]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 532
+[2021.09.24-07.37.35:097][362]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.37:342][436]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 522
+[2021.09.24-07.37.37:342][436]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.38:134][463]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 512
+[2021.09.24-07.37.38:134][463]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.40:036][526]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 502
+[2021.09.24-07.37.40:037][526]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.44:291][673]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 492
+[2021.09.24-07.37.44:291][673]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.46:793][761]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.24-07.37.46:793][761]LogShaderCompilers: Display: Total job queries 56060, among them cache hits 48969 (87.35%)
+[2021.09.24-07.37.46:793][761]LogShaderCompilers: Display: Tracking 1524 distinct input hashes that result in 1110 distinct outputs (72.83%)
+[2021.09.24-07.37.46:793][761]LogShaderCompilers: Display: RAM used: 8.31 MB (0.01 GB) of 819.20 MB (0.80 GB) budget. Usage: 1.01%
+[2021.09.24-07.37.46:793][761]LogShaderCompilers: Display: ================================================
+[2021.09.24-07.37.52:688][957]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 482
+[2021.09.24-07.37.52:688][957]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.55:115][ 32]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 472
+[2021.09.24-07.37.55:115][ 32]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.58:461][146]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 462
+[2021.09.24-07.37.58:461][146]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.37.58:589][150]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 452
+[2021.09.24-07.37.58:589][150]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.01:504][254]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 442
+[2021.09.24-07.38.01:505][254]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.03:968][333]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 432
+[2021.09.24-07.38.03:968][333]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.04:711][362]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 422
+[2021.09.24-07.38.04:712][362]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.04:905][368]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 412
+[2021.09.24-07.38.04:905][368]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.07:055][441]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 402
+[2021.09.24-07.38.07:055][441]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.10:138][542]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 392
+[2021.09.24-07.38.10:138][542]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.10:764][562]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 382
+[2021.09.24-07.38.10:764][562]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.11:195][578]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 372
+[2021.09.24-07.38.11:196][578]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.12:986][638]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 362
+[2021.09.24-07.38.12:986][638]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.18:440][809]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 352
+[2021.09.24-07.38.18:440][809]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.19:326][835]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 342
+[2021.09.24-07.38.19:326][835]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.19:547][844]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 332
+[2021.09.24-07.38.19:547][844]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.20:032][858]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 322
+[2021.09.24-07.38.20:032][858]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.24:961][ 23]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 312
+[2021.09.24-07.38.24:961][ 23]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.25:994][ 60]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 302
+[2021.09.24-07.38.25:994][ 60]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.28:191][133]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 292
+[2021.09.24-07.38.28:191][133]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.30:453][214]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 282
+[2021.09.24-07.38.30:453][214]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.30:572][218]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 272
+[2021.09.24-07.38.30:572][218]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.32:119][271]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 262
+[2021.09.24-07.38.32:119][271]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.33:765][324]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 252
+[2021.09.24-07.38.33:765][324]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.36:219][405]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 242
+[2021.09.24-07.38.36:219][405]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.37:226][434]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 232
+[2021.09.24-07.38.37:226][434]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.39:249][498]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 222
+[2021.09.24-07.38.39:249][498]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.40:226][529]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 212
+[2021.09.24-07.38.40:226][529]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.43:760][629]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 202
+[2021.09.24-07.38.43:760][629]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.43:983][636]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 192
+[2021.09.24-07.38.43:983][636]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.46:336][709]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 182
+[2021.09.24-07.38.46:336][709]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.46:877][725]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 172
+[2021.09.24-07.38.46:877][725]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.50:312][831]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 162
+[2021.09.24-07.38.50:312][831]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.51:198][862]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 152
+[2021.09.24-07.38.51:198][862]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.53:620][941]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 142
+[2021.09.24-07.38.53:620][941]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.38.53:831][942]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 132
+[2021.09.24-07.38.53:831][942]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.39.01:715][196]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 122
+[2021.09.24-07.39.01:716][196]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.39.01:716][196]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 112
+[2021.09.24-07.39.01:716][196]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.39.02:516][201]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 102
+[2021.09.24-07.39.02:516][201]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.39.05:353][267]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 92
+[2021.09.24-07.39.05:353][267]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.39.08:871][340]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 82
+[2021.09.24-07.39.08:871][340]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.39.09:375][342]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 72
+[2021.09.24-07.39.09:375][342]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.39.10:951][373]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 62
+[2021.09.24-07.39.10:953][373]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.39.14:665][476]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 52
+[2021.09.24-07.39.14:665][476]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.39.14:818][477]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 42
+[2021.09.24-07.39.14:818][477]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.39.16:158][492]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 32
+[2021.09.24-07.39.16:158][492]LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.39.17:021][495]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 23
+[2021.09.24-07.39.17:021][495]LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.39.19:019][590]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 17
+[2021.09.24-07.39.19:019][590]LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.39.19:868][626]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 12
+[2021.09.24-07.39.19:868][626]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.39.20:230][631]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 8
+[2021.09.24-07.39.20:230][631]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.39.21:131][674]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.09.24-07.39.21:131][674]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.39.21:131][674]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 3
+[2021.09.24-07.39.21:131][674]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.39.21:131][674]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.09.24-07.39.21:131][674]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.39.21:414][682]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.09.24-07.39.21:414][682]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Normal' priority
+[2021.09.24-07.39.21:570][683]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 5045
+[2021.09.24-07.39.21:570][683]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.21:721][684]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5035
+[2021.09.24-07.39.21:721][684]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.21:875][685]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 5025
+[2021.09.24-07.39.21:875][685]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.22:115][690]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5015
+[2021.09.24-07.39.22:115][690]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.26:012][905]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 5005
+[2021.09.24-07.39.26:012][905]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.26:621][941]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4995
+[2021.09.24-07.39.26:621][941]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.27:131][971]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4985
+[2021.09.24-07.39.27:131][971]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.27:218][976]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4975
+[2021.09.24-07.39.27:218][976]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.30:893][193]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4965
+[2021.09.24-07.39.30:893][193]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.31:238][213]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4955
+[2021.09.24-07.39.31:238][213]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.32:166][266]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4945
+[2021.09.24-07.39.32:166][266]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.32:557][289]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4935
+[2021.09.24-07.39.32:557][289]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.35:742][477]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4925
+[2021.09.24-07.39.35:742][477]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.36:129][500]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4915
+[2021.09.24-07.39.36:129][500]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.37:490][571]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4905
+[2021.09.24-07.39.37:490][571]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.38:276][614]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4895
+[2021.09.24-07.39.38:276][614]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.40:418][736]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4885
+[2021.09.24-07.39.40:418][736]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.40:654][748]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4875
+[2021.09.24-07.39.40:654][748]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.40:915][762]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4865
+[2021.09.24-07.39.40:915][762]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.42:265][835]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4855
+[2021.09.24-07.39.42:265][835]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.46:609][ 30]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4845
+[2021.09.24-07.39.46:609][ 30]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.49:008][159]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4835
+[2021.09.24-07.39.49:008][159]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.50:632][244]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4825
+[2021.09.24-07.39.50:632][244]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.50:779][251]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4815
+[2021.09.24-07.39.50:779][251]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.54:489][463]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4805
+[2021.09.24-07.39.54:489][463]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.55:480][522]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4795
+[2021.09.24-07.39.55:480][522]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.55:907][546]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4785
+[2021.09.24-07.39.55:907][546]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.59:384][741]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4775
+[2021.09.24-07.39.59:384][741]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.39.59:767][763]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4765
+[2021.09.24-07.39.59:767][763]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.01:310][848]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4755
+[2021.09.24-07.40.01:310][848]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.03:078][948]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4745
+[2021.09.24-07.40.03:078][948]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.04:595][ 33]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4735
+[2021.09.24-07.40.04:595][ 33]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.05:305][ 75]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4725
+[2021.09.24-07.40.05:305][ 75]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.05:996][113]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4715
+[2021.09.24-07.40.05:996][113]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.11:979][443]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4705
+[2021.09.24-07.40.11:979][443]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.12:643][476]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4695
+[2021.09.24-07.40.12:643][476]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.12:974][494]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4685
+[2021.09.24-07.40.12:974][494]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.15:046][613]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4675
+[2021.09.24-07.40.15:046][613]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.17:396][750]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4665
+[2021.09.24-07.40.17:396][750]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.17:435][752]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4655
+[2021.09.24-07.40.17:435][752]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.19:518][871]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4645
+[2021.09.24-07.40.19:518][871]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.20:189][911]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4635
+[2021.09.24-07.40.20:190][911]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.24:911][188]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4625
+[2021.09.24-07.40.24:911][188]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.25:271][208]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4615
+[2021.09.24-07.40.25:271][208]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.27:075][314]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4605
+[2021.09.24-07.40.27:075][314]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.32:178][605]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4595
+[2021.09.24-07.40.32:178][605]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.32:409][616]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 4585
+[2021.09.24-07.40.32:409][616]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.33:105][651]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4575
+[2021.09.24-07.40.33:105][651]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.36:849][858]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 4565
+[2021.09.24-07.40.36:850][858]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.37:705][904]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4555
+[2021.09.24-07.40.37:705][904]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
+[2021.09.24-07.40.38:092][924]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 4545
+[2021.09.24-07.40.38:092][924]LogShaderCompilers: Display: Started 10 'Local' shader compile jobs with 'Low' priority
