@@ -4603,3 +4603,7 @@ Script call stack:
 [2021.09.24-08.10.01:877][432]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
 [2021.09.24-08.10.01:884][432]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
 [2021.09.24-08.10.01:901][433]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.09.24-08.10.53:152][705]LogUObjectHash: Compacting FUObjectHashTables data took   3.51ms
+[2021.09.24-08.10.53:164][705]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMap_Auto352CCBBD04466B0C83A1779B3E51A4D2D.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2021.09.24-08.10.53:165][705]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.048
+[2021.09.24-08.10.53:165][705]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.048
