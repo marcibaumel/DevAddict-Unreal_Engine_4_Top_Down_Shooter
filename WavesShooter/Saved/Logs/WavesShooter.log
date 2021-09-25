@@ -1197,3 +1197,14 @@ Script call stack:
 [2021.09.25-12.54.22:729][651]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonCharacterCD2D5B5F44020AFD218290BDC7F984F3.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
 [2021.09.25-12.54.22:760][651]AssetCheck: New page: Asset Save: ThirdPersonCharacter
 [2021.09.25-12.54.22:760][651]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.09.25-12.55.20:779][868]LogUObjectHash: Compacting FUObjectHashTables data took   2.29ms
+[2021.09.25-12.55.20:792][868]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMap_Auto126151A20455F27B15ADCC9BD02E8004A.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.09.25-12.55.20:793][868]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.039
+[2021.09.25-12.55.20:793][868]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.039
+[2021.09.25-12.58.40:873][490]LogSlate: Took 0.000153 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.25-12.58.45:765][764]LogUObjectHash: Compacting FUObjectHashTables data took   0.69ms
+[2021.09.25-12.58.45:779][764]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMap95CFB627437ECA59968D869D29A84547.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.25-12.58.45:864][764]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMap_BuiltDataCC40547E4BFA397CA0C9E6A1AE87123F.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.09.25-12.58.45:874][764]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.25-12.58.45:874][764]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.09.25-12.58.45:874][764]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
