@@ -1901,3 +1901,9 @@ Script call stack:
 [2021.09.25-08.00.01:673][839]LogAudioMixer: Display: 1: FrontRight
 [2021.09.25-08.29.27:970][210]LogSlate: Window 'Tutorials' being destroyed
 [2021.09.25-08.29.27:974][210]LogSlate: Window 'Tutorials' being destroyed
+[2021.09.25-09.32.03:253][379]LogUObjectHash: Compacting FUObjectHashTables data took  12.72ms
+[2021.09.25-09.32.03:298][379]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMap575AF55B4BBBBA970D251082AA2AD14E.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.25-09.32.03:460][379]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMap_BuiltData478656224876DEE5BD4CE3B50A044F9F.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.09.25-09.32.03:475][379]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.25-09.32.03:475][379]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.09.25-09.32.03:476][379]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
