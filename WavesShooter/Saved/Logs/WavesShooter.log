@@ -1895,3 +1895,9 @@ Script call stack:
 [2021.09.25-07.12.37:969][352]LogAudioMixer: Resetting audio stream to device id 
 [2021.09.25-07.12.38:040][352]LogAudioMixer: Display: 0: FrontLeft
 [2021.09.25-07.12.38:040][352]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-08.00.01:596][839]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{32351533-35de-4127-ad27-782b7d2da3d5}.
+[2021.09.25-08.00.01:596][839]LogAudioMixer: Resetting audio stream to device id 
+[2021.09.25-08.00.01:673][839]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-08.00.01:673][839]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-08.29.27:970][210]LogSlate: Window 'Tutorials' being destroyed
+[2021.09.25-08.29.27:974][210]LogSlate: Window 'Tutorials' being destroyed
