@@ -1181,3 +1181,22 @@ Script call stack:
 [2021.09.25-14.44.15:793][795]LogContentValidation: Display: Validating Blueprint /Game/_AI/BP_EnemyBase.BP_EnemyBase
 [2021.09.25-14.44.16:652][846]BlueprintLog: New page: Compile BP_EnemyBase
 [2021.09.25-14.44.16:731][846]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
+[2021.09.25-14.44.47:449][391]Cmd: TRANSACTION UNDO
+[2021.09.25-14.44.47:449][391]LogEditorTransaction: Undo Delete current selection
+[2021.09.25-14.44.51:529][605]LogSlate: Window 'Class Defaults' being destroyed
+[2021.09.25-14.44.53:513][712]LogSlate: Window 'Class Defaults' being destroyed
+[2021.09.25-14.44.53:515][712]LogSlate: Window 'Class Defaults' being destroyed
+[2021.09.25-14.44.53:518][712]LogWorld: UWorld::CleanupWorld for World_3, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-14.44.53:518][712]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-14.44.55:999][855]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/BP_EnemyBase" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset" SILENT=true
+[2021.09.25-14.44.56:008][855]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_EnemyBase1112840146613DD6D9F5D38EB48514D0.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset'
+[2021.09.25-14.44.56:023][855]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2021.09.25-14.44.56:023][855]LogContentValidation: Display: Validating Blueprint /Game/_AI/BP_EnemyBase.BP_EnemyBase
+[2021.09.25-14.46.16:269][664]BlueprintLog: New page: Compile BP_EnemyBase
+[2021.09.25-14.46.16:330][664]LogUObjectHash: Compacting FUObjectHashTables data took   3.25ms
+[2021.09.25-14.46.30:743][966]BlueprintLog: New page: Compile BP_EnemyBase
+[2021.09.25-14.46.30:793][966]LogUObjectHash: Compacting FUObjectHashTables data took   3.15ms
+[2021.09.25-14.46.31:551][  4]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/BP_EnemyBase" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset" SILENT=true
+[2021.09.25-14.46.31:560][  4]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_EnemyBaseA2294B8D46B472E803BFAEBBA2A1AE05.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset'
+[2021.09.25-14.46.31:574][  4]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2021.09.25-14.46.31:574][  4]LogContentValidation: Display: Validating Blueprint /Game/_AI/BP_EnemyBase.BP_EnemyBase
