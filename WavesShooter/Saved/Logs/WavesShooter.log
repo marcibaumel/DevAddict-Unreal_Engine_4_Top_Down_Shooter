@@ -2098,3 +2098,114 @@ Script call stack:
 [2021.09.25-13.22.08:134][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy_Green]
 [2021.09.25-13.22.08:138][808]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Enemy_Green_Auto30CE890D0408DF5CD32B51290CDFB45B6.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Autosaves/Game/Enemy_Green_Auto3.uasset'
 [2021.09.25-13.22.08:138][808]LogFileHelpers: Auto-saving content packages took 0.004
+[2021.09.25-13.27.34:528][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.81ms
+[2021.09.25-13.27.38:008][217]LogSlate: Window 'Save Content' being destroyed
+[2021.09.25-13.27.38:027][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_EnemyBase" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/BP_EnemyBase.uasset" SILENT=true
+[2021.09.25-13.27.38:031][217]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_EnemyBaseA341B10F4B4846443FBE3394A32795A0.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/BP_EnemyBase.uasset'
+[2021.09.25-13.27.38:032][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy_Green" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/Enemy_Green.uasset" SILENT=true
+[2021.09.25-13.27.38:036][217]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Enemy_GreenE0AE003742A085414637F080A03AEF43.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/Enemy_Green.uasset'
+[2021.09.25-13.27.38:059][217]LogUObjectHash: Compacting FUObjectHashTables data took   0.61ms
+[2021.09.25-13.27.38:072][217]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMapB114A22C40FCEB11A7632DAF3AECF72A.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.25-13.27.38:077][217]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.041
+[2021.09.25-13.27.39:178][217]LogTexture: Default maximum texture size for cubemaps generated from long-lat sources has been changed from 512 to unlimited. In order to preserve old behaiour for '/Game/ParagonLtBelica/Characters/Maps/BackGroundAssets/T_HDRI_Epic_Courtyard_Daylight.T_HDRI_Epic_Courtyard_Daylight', its maximum texture size has been explicitly set to 512.
+[2021.09.25-13.27.39:198][217]LogSkeletalMesh: Display: [AssetLog] C:\REPOS\DevAddict-Unreal_Engine_4_Top_Down_Shooter\WavesShooter\Content\ParagonLtBelica\Characters\Heroes\Belica\Skins\HeavyArmor\Meshes\Belica_HeavyArmor.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2021.09.25-13.27.39:259][217]LogSkeletalMesh: Display: [AssetLog] C:\REPOS\DevAddict-Unreal_Engine_4_Top_Down_Shooter\WavesShooter\Content\ParagonLtBelica\Characters\Heroes\Belica\Skins\Everfrost\Meshes\Belica_Everfrost.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2021.09.25-13.27.39:398][217]LogTexture: Display: Building textures: DeprecatedTexture4DAEC1CD45ED4A6C2C49168160C04312 (BGRA8, 128X128)
+[2021.09.25-13.27.39:556][217]LogSkeletalMesh: Display: [AssetLog] C:\REPOS\DevAddict-Unreal_Engine_4_Top_Down_Shooter\WavesShooter\Content\ParagonLtBelica\Characters\Heroes\Belica\Skins\SpiderWitch\Meshes\Belica_SpiderWitch.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2021.09.25-13.27.39:598][217]LogSkeletalMesh: Display: [AssetLog] C:\REPOS\DevAddict-Unreal_Engine_4_Top_Down_Shooter\WavesShooter\Content\ParagonLtBelica\Characters\Heroes\Belica\Skins\PolarStrike\Meshes\Belica_PolarStrike.uasset: Find and fix some bad tangent! please re-import this skeletal mesh asset to fix the issue. The shading of the skeletal mesh will be bad and faceted.
+[2021.09.25-13.27.39:675][217]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ParagonLtBelica/Characters/Maps/LtBelica.LtBelica
+[2021.09.25-13.27.39:675][217]Cmd: MAP LOAD FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ParagonLtBelica/Characters/Maps/LtBelica.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.25-13.27.39:675][217]LightingResults: New page: Lighting Build
+[2021.09.25-13.27.39:675][217]LoadErrors: New page: Loading map: LtBelica.umap
+[2021.09.25-13.27.39:679][217]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-13.27.39:680][217]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.27.39:680][217]MapCheck: New page: Map Check
+[2021.09.25-13.27.39:680][217]LightingResults: New page: Lighting Build
+[2021.09.25-13.27.39:703][217]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.25-13.27.39:711][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.81ms
+[2021.09.25-13.27.39:715][217]LogAudio: Display: Audio Device (ID: 1) registered with world 'LtBelica'.
+[2021.09.25-13.27.39:720][217]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.25-13.27.39:720][217]LogAIModule: Creating AISystem for world LtBelica
+[2021.09.25-13.27.39:749][217]LogUObjectHash: Compacting FUObjectHashTables data took   2.32ms
+[2021.09.25-13.27.39:752][217]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.25-13.27.39:752][217]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,117ms to complete.
+[2021.09.25-13.27.39:752][217]LogFileHelpers: Loading map 'LtBelica' took 0.076
+[2021.09.25-13.27.39:771][217]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.25-13.27.39:771][217]LogContentValidation: Display: Validating Blueprint /Game/Enemy_Green.Enemy_Green
+[2021.09.25-13.27.39:771][217]LogContentValidation: Display: Validating Blueprint /Game/BP_EnemyBase.BP_EnemyBase
+[2021.09.25-13.27.39:771][217]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.25-13.27.39:784][217]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.27.45:808][570]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Everfrost Lt. Belica)
+[2021.09.25-13.27.48:518][725]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Heavy Armor Lt. Belica)
+[2021.09.25-13.31.01:545][777]LogContentBrowser: Deferred new asset folder creation: NewFolder
+[2021.09.25-13.31.01:567][777]LogContentBrowser: Creating deferred item: NewFolder
+[2021.09.25-13.31.03:722][903]LogContentBrowser: Attempting asset rename: NewFolder -> _AI
+[2021.09.25-13.31.03:723][903]LogContentBrowser: End creating deferred item NewFolder
+[2021.09.25-13.31.10:802][283]LogMetaData: Removing '/Game/_AI/BP_EnemyBase.BP_EnemyBase:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/BP_EnemyBase.PackageMetaData'
+[2021.09.25-13.31.10:802][283]LogMetaData: Removing '/Game/_AI/BP_EnemyBase.SKEL_BP_EnemyBase_C:UserConstructionScript' ref from Metadata '/Game/BP_EnemyBase.PackageMetaData'
+[2021.09.25-13.31.10:802][283]LogMetaData: Removing '/Game/_AI/BP_EnemyBase.SKEL_BP_EnemyBase_C' ref from Metadata '/Game/BP_EnemyBase.PackageMetaData'
+[2021.09.25-13.31.10:802][283]LogMetaData: Removing '/Game/_AI/BP_EnemyBase.BP_EnemyBase_C' ref from Metadata '/Game/BP_EnemyBase.PackageMetaData'
+[2021.09.25-13.31.10:802][283]LogMetaData: Removing '/Game/_AI/BP_EnemyBase.BP_EnemyBase:EventGraph.K2Node_Event_0' ref from Metadata '/Game/BP_EnemyBase.PackageMetaData'
+[2021.09.25-13.31.10:802][283]LogMetaData: Removing '/Game/_AI/BP_EnemyBase.BP_EnemyBase:EventGraph.K2Node_Event_1' ref from Metadata '/Game/BP_EnemyBase.PackageMetaData'
+[2021.09.25-13.31.10:802][283]LogMetaData: Removing '/Game/_AI/BP_EnemyBase.BP_EnemyBase:EventGraph.K2Node_Event_2' ref from Metadata '/Game/BP_EnemyBase.PackageMetaData'
+[2021.09.25-13.31.10:815][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/BP_EnemyBase" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset" SILENT=true
+[2021.09.25-13.31.10:819][283]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_EnemyBaseAEC7ABF443606251EB7726AE8FD48535.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset'
+[2021.09.25-13.31.10:892][283]LogUObjectHash: Compacting FUObjectHashTables data took   3.59ms
+[2021.09.25-13.31.10:923][283]LogUObjectHash: Compacting FUObjectHashTables data took   1.93ms
+[2021.09.25-13.31.10:947][283]LogUObjectHash: Compacting FUObjectHashTables data took   0.89ms
+[2021.09.25-13.31.10:968][283]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy_Green" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/Enemy_Green.uasset" SILENT=true
+[2021.09.25-13.31.10:971][283]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Enemy_Green7099990F41530FD1AEFAA0BC452D885F.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/Enemy_Green.uasset'
+[2021.09.25-13.31.11:030][283]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.25-13.31.11:030][283]LogContentValidation: Display: Validating Blueprint /Game/Enemy_Green.Enemy_Green
+[2021.09.25-13.31.11:031][283]LogContentValidation: Display: Validating Blueprint /Game/_AI/BP_EnemyBase.BP_EnemyBase
+[2021.09.25-13.31.40:678][386]LogContentBrowser: Attempting asset rename: Enemy_Green -> Enemy_Forest
+[2021.09.25-13.31.40:695][386]LogMetaData: Removing '/Game/Enemy_Forest.Enemy_Forest:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Enemy_Green.PackageMetaData'
+[2021.09.25-13.31.40:695][386]LogMetaData: Removing '/Game/Enemy_Forest.SKEL_Enemy_Forest_C:UserConstructionScript' ref from Metadata '/Game/Enemy_Green.PackageMetaData'
+[2021.09.25-13.31.40:695][386]LogMetaData: Removing '/Game/Enemy_Forest.SKEL_Enemy_Forest_C' ref from Metadata '/Game/Enemy_Green.PackageMetaData'
+[2021.09.25-13.31.40:695][386]LogMetaData: Removing '/Game/Enemy_Forest.Enemy_Forest_C' ref from Metadata '/Game/Enemy_Green.PackageMetaData'
+[2021.09.25-13.31.40:695][386]LogMetaData: Removing '/Game/Enemy_Forest.Enemy_Forest:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Enemy_Green.PackageMetaData'
+[2021.09.25-13.31.40:695][386]LogMetaData: Removing '/Game/Enemy_Forest.Enemy_Forest:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Enemy_Green.PackageMetaData'
+[2021.09.25-13.31.40:695][386]LogMetaData: Removing '/Game/Enemy_Forest.Enemy_Forest:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Enemy_Green.PackageMetaData'
+[2021.09.25-13.31.40:711][386]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Enemy_Forest" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/Enemy_Forest.uasset" SILENT=true
+[2021.09.25-13.31.40:715][386]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Enemy_Forest5FCCBFC74214FDB29264C5B05EEF83F7.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/Enemy_Forest.uasset'
+[2021.09.25-13.31.40:785][386]LogUObjectHash: Compacting FUObjectHashTables data took   3.11ms
+[2021.09.25-13.31.40:811][386]LogUObjectHash: Compacting FUObjectHashTables data took   1.95ms
+[2021.09.25-13.31.40:833][386]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.09.25-13.31.40:876][386]AssetCheck: New page: Asset Save: Enemy_Forest
+[2021.09.25-13.31.40:876][386]LogContentValidation: Display: Validating Blueprint /Game/Enemy_Forest.Enemy_Forest
+[2021.09.25-13.31.44:028][543]LogMetaData: Removing '/Game/_AI/Enemy_Forest.Enemy_Forest_C' ref from Metadata '/Game/Enemy_Forest.PackageMetaData'
+[2021.09.25-13.31.44:028][543]LogMetaData: Removing '/Game/_AI/Enemy_Forest.SKEL_Enemy_Forest_C' ref from Metadata '/Game/Enemy_Forest.PackageMetaData'
+[2021.09.25-13.31.44:028][543]LogMetaData: Removing '/Game/_AI/Enemy_Forest.SKEL_Enemy_Forest_C:UserConstructionScript' ref from Metadata '/Game/Enemy_Forest.PackageMetaData'
+[2021.09.25-13.31.44:028][543]LogMetaData: Removing '/Game/_AI/Enemy_Forest.Enemy_Forest:UserConstructionScript.K2Node_FunctionEntry_0' ref from Metadata '/Game/Enemy_Forest.PackageMetaData'
+[2021.09.25-13.31.44:028][543]LogMetaData: Removing '/Game/_AI/Enemy_Forest.Enemy_Forest:EventGraph.K2Node_Event_0' ref from Metadata '/Game/Enemy_Forest.PackageMetaData'
+[2021.09.25-13.31.44:028][543]LogMetaData: Removing '/Game/_AI/Enemy_Forest.Enemy_Forest:EventGraph.K2Node_Event_1' ref from Metadata '/Game/Enemy_Forest.PackageMetaData'
+[2021.09.25-13.31.44:028][543]LogMetaData: Removing '/Game/_AI/Enemy_Forest.Enemy_Forest:EventGraph.K2Node_Event_2' ref from Metadata '/Game/Enemy_Forest.PackageMetaData'
+[2021.09.25-13.31.44:046][543]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/Enemy_Forest" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset" SILENT=true
+[2021.09.25-13.31.44:050][543]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Enemy_Forest77ACA6B240E660F8A29E1CB827880114.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset'
+[2021.09.25-13.31.44:119][543]LogUObjectHash: Compacting FUObjectHashTables data took   2.70ms
+[2021.09.25-13.31.44:147][543]LogUObjectHash: Compacting FUObjectHashTables data took   1.92ms
+[2021.09.25-13.31.44:170][543]LogUObjectHash: Compacting FUObjectHashTables data took   0.58ms
+[2021.09.25-13.31.44:216][543]AssetCheck: New page: Asset Save: Enemy_Forest
+[2021.09.25-13.31.44:216][543]LogContentValidation: Display: Validating Blueprint /Game/_AI/Enemy_Forest.Enemy_Forest
+[2021.09.25-13.31.47:730][632]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_AI/Enemy_Forest.Enemy_Forest
+[2021.09.25-13.31.54:583][782]BlueprintLog: New page: Compile Enemy_Forest
+[2021.09.25-13.31.54:638][782]LogUObjectHash: Compacting FUObjectHashTables data took   2.91ms
+[2021.09.25-13.31.54:674][782]LogSlate: Took 0.007724 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.25-13.31.55:467][828]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/Enemy_Forest" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset" SILENT=true
+[2021.09.25-13.31.55:471][828]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Enemy_Forest5691666D465CADD9B39AD9BB1A8D2B75.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset'
+[2021.09.25-13.31.55:480][828]AssetCheck: New page: Asset Save: Enemy_Forest
+[2021.09.25-13.31.55:481][828]LogContentValidation: Display: Validating Blueprint /Game/_AI/Enemy_Forest.Enemy_Forest
+[2021.09.25-13.31.56:918][913]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/Enemy_Forest" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset" SILENT=true
+[2021.09.25-13.31.56:922][913]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Enemy_ForestF8D2592C4BAA096AB97092A656502B22.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset'
+[2021.09.25-13.31.56:931][913]AssetCheck: New page: Asset Save: Enemy_Forest
+[2021.09.25-13.31.56:931][913]LogContentValidation: Display: Validating Blueprint /Game/_AI/Enemy_Forest.Enemy_Forest
+[2021.09.25-13.33.22:551][736]LogEditorViewport: Clicking on Actor (LMB): SkeletalMeshActor (Heavy Armor Lt. Belica)
+[2021.09.25-13.35.10:152][199]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/Enemy_Forest" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset" SILENT=true
+[2021.09.25-13.35.10:162][199]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Enemy_ForestA5630F024A7485A5A912599CC23C0455.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset'
+[2021.09.25-13.35.10:176][199]AssetCheck: New page: Asset Save: Enemy_Forest
+[2021.09.25-13.35.10:176][199]LogContentValidation: Display: Validating Blueprint /Game/_AI/Enemy_Forest.Enemy_Forest
+[2021.09.25-13.35.29:260][977]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_AI/BP_EnemyBase.BP_EnemyBase
