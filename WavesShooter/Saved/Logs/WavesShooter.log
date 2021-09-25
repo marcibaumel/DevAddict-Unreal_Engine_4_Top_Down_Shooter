@@ -952,3 +952,232 @@ Script call stack:
 [2021.09.25-14.39.28:150][404]LogSlate: Took 0.000167 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2021.09.25-14.39.28:241][405]LogSlate: Took 0.000213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2021.09.25-14.39.34:483][746]LogSlate: Window 'BP_Laser' being destroyed
+[2021.09.25-14.40.22:600][497]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/BP_EnemyBase" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset" SILENT=true
+[2021.09.25-14.40.22:608][497]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_EnemyBaseE86D4A534C17CD7F1DDD7CBFF0F3E8E8.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset'
+[2021.09.25-14.40.22:621][497]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2021.09.25-14.40.22:621][497]LogContentValidation: Display: Validating Blueprint /Game/_AI/BP_EnemyBase.BP_EnemyBase
+[2021.09.25-14.40.23:331][540]BlueprintLog: New page: Compile BP_EnemyBase
+[2021.09.25-14.40.23:409][540]LogUObjectHash: Compacting FUObjectHashTables data took   2.12ms
+[2021.09.25-14.40.45:891][707]LogEditorTransaction: Undo Move Node
+[2021.09.25-14.40.47:485][780]LogEditorTransaction: Undo Move Node
+[2021.09.25-14.40.49:203][882]LogEditorTransaction: Undo Add Node
+[2021.09.25-14.41.24:533][647]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.25-14.41.43:287][354]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.25-14.41.52:656][427]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.25-14.42.03:635][556]LogSlate: Window 'Color Picker' being destroyed
+[2021.09.25-14.42.08:053][794]BlueprintLog: New page: Compile BP_EnemyBase
+[2021.09.25-14.42.08:128][794]LogUObjectHash: Compacting FUObjectHashTables data took   2.33ms
+[2021.09.25-14.42.13:379][894]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-14.42.13:383][894]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.25-14.42.13:383][894]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 18:42:13)
+[2021.09.25-14.42.13:384][894]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.09.25-14.42.13:385][894]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.09.25-14.42.13:385][894]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-14.42.13:396][894]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010673s)
+[2021.09.25-14.42.13:397][894]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-14.42.13:397][894]LogPlayLevel: PIE: World Init took: (0.001049s)
+[2021.09.25-14.42.13:397][894]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011844s)
+[2021.09.25-14.42.13:422][894]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.09.25-14.42.13:422][894]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.09.25-14.42.13:422][894]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-14.42.13:422][894]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-14.42.13:422][894]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-14.42.13:422][894]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-14.42.13:422][894]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-14.42.13:422][894]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-14.42.13:422][894]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-14.42.13:422][894]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-14.42.13:423][894]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-14.42.13:423][894]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-14.42.13:423][894]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-14.42.13:423][894]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-14.42.13:425][894]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-14.42.13:425][894]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-14.42.13:431][894]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-14.42.13:431][894]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-14.42.13:431][894]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-14.42.13:431][894]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-14.42.13:431][894]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-14.42.13:431][894]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-14.42.13:431][894]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-14.42.13:432][894]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-14.42.13:432][894]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-14.42.13:432][894]LogInit: FAudioDevice initialized.
+[2021.09.25-14.42.13:432][894]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-14.42.13:485][894]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-14.42.13:489][894]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-14.42.13:490][894]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.42.13:491][894]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-16.42.13
+[2021.09.25-14.42.13:492][894]LogWorld: Bringing up level for play took: 0.002475
+[2021.09.25-14.42.13:492][894]LogOnline: OSS: Creating online subsystem instance for: :Context_7
+[2021.09.25-14.42.13:498][894]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.09.25-14.42.13:499][894]PIE: Server logged in
+[2021.09.25-14.42.13:500][894]PIE: Play in editor total start time 0,118 seconds.
+[2021.09.25-14.42.15:402][985]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.09.25-14.42.18:652][180]LogBlueprintUserMessages: [BP_Laser_C_0] Wall11
+[2021.09.25-14.42.20:268][277]LogBlueprintUserMessages: [Enemy_Forest_2] Enemy Die
+[2021.09.25-14.42.25:785][606]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-14.42.25:785][606]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-14.42.25:786][606]LogSlate: Window 'WavesShooter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.25-14.42.25:790][606]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-14.42.25:791][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-14.42.25:800][606]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-14.42.25:804][606]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-14.42.25:833][606]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.25-14.42.25:833][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-14.42.25:834][606]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-14.42.25:855][606]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.09.25-14.42.25:869][607]LogPlayLevel: Display: Destroying online subsystem :Context_7
+[2021.09.25-14.42.48:063][891]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-14.42.48:067][891]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.25-14.42.48:069][891]LogPlayLevel: [PlayLevel] Compiling BP_EnemyBase before play...
+[2021.09.25-14.42.48:069][891]LogPlayLevel: [PlayLevel]   Compiling Enemy_Forest as a dependent...
+[2021.09.25-14.42.48:160][891]LogUObjectHash: Compacting FUObjectHashTables data took   3.10ms
+[2021.09.25-14.42.48:165][891]LogPlayLevel: PlayLevel: Blueprint regeneration took 98 ms (2 blueprints)
+[2021.09.25-14.42.48:165][891]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 18:42:48)
+[2021.09.25-14.42.48:166][891]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-14.42.48:174][891]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007747s)
+[2021.09.25-14.42.48:175][891]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-14.42.48:176][891]LogPlayLevel: PIE: World Init took: (0.001603s)
+[2021.09.25-14.42.48:176][891]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009483s)
+[2021.09.25-14.42.48:207][891]LogUObjectHash: Compacting FUObjectHashTables data took   2.23ms
+[2021.09.25-14.42.48:207][891]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.09.25-14.42.48:207][891]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-14.42.48:207][891]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-14.42.48:207][891]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-14.42.48:207][891]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-14.42.48:207][891]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-14.42.48:207][891]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-14.42.48:207][891]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-14.42.48:207][891]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-14.42.48:207][891]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-14.42.48:208][891]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-14.42.48:208][891]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-14.42.48:208][891]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-14.42.48:209][891]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-14.42.48:209][891]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-14.42.48:215][891]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-14.42.48:215][891]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-14.42.48:215][891]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-14.42.48:215][891]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-14.42.48:216][891]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-14.42.48:216][891]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-14.42.48:216][891]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-14.42.48:217][891]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-14.42.48:217][891]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-14.42.48:217][891]LogInit: FAudioDevice initialized.
+[2021.09.25-14.42.48:217][891]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-14.42.48:265][891]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-14.42.48:265][891]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-14.42.48:267][891]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.42.48:268][891]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-16.42.48
+[2021.09.25-14.42.48:268][891]LogWorld: Bringing up level for play took: 0.002531
+[2021.09.25-14.42.48:268][891]LogOnline: OSS: Creating online subsystem instance for: :Context_8
+[2021.09.25-14.42.48:271][891]PIE: Server logged in
+[2021.09.25-14.42.48:271][891]PIE: Play in editor total start time 0,205 seconds.
+[2021.09.25-14.42.50:414][  4]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.09.25-14.42.53:414][184]LogBlueprintUserMessages: [BP_Laser_C_0] Wall11
+[2021.09.25-14.42.53:914][214]LogBlueprintUserMessages: [BP_Laser_C_1] Wall11
+[2021.09.25-14.42.54:331][239]LogBlueprintUserMessages: [BP_Laser_C_2] Wall11
+[2021.09.25-14.42.55:626][315]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-14.42.55:626][315]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-14.42.55:626][315]LogSlate: Window 'WavesShooter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.25-14.42.55:631][315]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-14.42.55:632][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-14.42.55:638][315]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-14.42.55:642][315]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-14.42.55:669][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-14.42.55:670][315]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-14.42.55:675][315]LogUObjectHash: Compacting FUObjectHashTables data took   2.26ms
+[2021.09.25-14.42.55:707][317]LogPlayLevel: Display: Destroying online subsystem :Context_8
+[2021.09.25-14.43.20:624][722]LogEditorTransaction: Undo Move Node
+[2021.09.25-14.43.21:457][750]LogEditorTransaction: Undo Add Node
+[2021.09.25-14.43.27:079][ 82]BlueprintLog: New page: Compile BP_EnemyBase
+[2021.09.25-14.43.27:159][ 82]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.09.25-14.43.44:035][ 62]LogSlate: Took 0.015797 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansFallback.ttf' (3848K)
+[2021.09.25-14.43.59:793][912]BlueprintLog: New page: Compile BP_EnemyBase
+[2021.09.25-14.43.59:872][912]LogUObjectHash: Compacting FUObjectHashTables data took   3.22ms
+[2021.09.25-14.44.00:513][941]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/BP_EnemyBase" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset" SILENT=true
+[2021.09.25-14.44.00:524][941]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_EnemyBaseE8B86C92406A0EE2187D5D8643E5ED67.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset'
+[2021.09.25-14.44.00:534][941]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2021.09.25-14.44.00:534][941]LogContentValidation: Display: Validating Blueprint /Game/_AI/BP_EnemyBase.BP_EnemyBase
+[2021.09.25-14.44.01:459][992]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-14.44.01:463][992]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.25-14.44.01:463][992]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 18:44:01)
+[2021.09.25-14.44.01:464][992]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-14.44.01:471][992]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007551s)
+[2021.09.25-14.44.01:472][992]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-14.44.01:472][992]LogPlayLevel: PIE: World Init took: (0.001202s)
+[2021.09.25-14.44.01:472][992]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008884s)
+[2021.09.25-14.44.01:502][992]LogUObjectHash: Compacting FUObjectHashTables data took   3.05ms
+[2021.09.25-14.44.01:503][992]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.09.25-14.44.01:503][992]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-14.44.01:503][992]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-14.44.01:503][992]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-14.44.01:503][992]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-14.44.01:503][992]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-14.44.01:503][992]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-14.44.01:503][992]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-14.44.01:503][992]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-14.44.01:504][992]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-14.44.01:504][992]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-14.44.01:504][992]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-14.44.01:504][992]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-14.44.01:505][992]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-14.44.01:505][992]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-14.44.01:511][992]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-14.44.01:512][992]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-14.44.01:512][992]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-14.44.01:512][992]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-14.44.01:512][992]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-14.44.01:512][992]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-14.44.01:512][992]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-14.44.01:513][992]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-14.44.01:513][992]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-14.44.01:513][992]LogInit: FAudioDevice initialized.
+[2021.09.25-14.44.01:513][992]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-14.44.01:560][992]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-14.44.01:560][992]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-14.44.01:561][992]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.44.01:562][992]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-16.44.01
+[2021.09.25-14.44.01:563][992]LogWorld: Bringing up level for play took: 0.002527
+[2021.09.25-14.44.01:563][992]LogOnline: OSS: Creating online subsystem instance for: :Context_9
+[2021.09.25-14.44.01:566][992]PIE: Server logged in
+[2021.09.25-14.44.01:566][992]PIE: Play in editor total start time 0,104 seconds.
+[2021.09.25-14.44.03:807][111]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.09.25-14.44.06:824][292]LogBlueprintUserMessages: [BP_Laser_C_0] Linear_Stair_StaticMesh
+[2021.09.25-14.44.10:474][511]LogBlueprintUserMessages: [Enemy_Forest_2] Enemy Die
+[2021.09.25-14.44.11:235][555]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-14.44.11:235][555]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-14.44.11:237][555]LogSlate: Window 'WavesShooter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.25-14.44.11:242][555]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-14.44.11:242][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-14.44.11:252][555]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-14.44.11:256][555]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-14.44.11:282][555]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.25-14.44.11:283][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-14.44.11:284][555]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-14.44.11:288][555]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2021.09.25-14.44.11:320][557]LogPlayLevel: Display: Destroying online subsystem :Context_9
+[2021.09.25-14.44.13:120][665]LogEditorTransaction: Undo Move Node
+[2021.09.25-14.44.13:549][675]LogEditorTransaction: Undo Create Pin Link
+[2021.09.25-14.44.14:061][698]LogEditorTransaction: Undo Move Node
+[2021.09.25-14.44.14:711][735]LogEditorTransaction: Undo Add Node
+[2021.09.25-14.44.15:769][795]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/BP_EnemyBase" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset" SILENT=true
+[2021.09.25-14.44.15:777][795]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_EnemyBase6A36A67F4618B4F3A5B50D9464394A1B.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset'
+[2021.09.25-14.44.15:793][795]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2021.09.25-14.44.15:793][795]LogContentValidation: Display: Validating Blueprint /Game/_AI/BP_EnemyBase.BP_EnemyBase
+[2021.09.25-14.44.16:652][846]BlueprintLog: New page: Compile BP_EnemyBase
+[2021.09.25-14.44.16:731][846]LogUObjectHash: Compacting FUObjectHashTables data took   3.24ms
