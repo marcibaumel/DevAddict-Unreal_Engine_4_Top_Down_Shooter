@@ -946,3 +946,36 @@ Script call stack:
 [2021.09.25-10.29.41:708][114]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.25-10.29.41:708][114]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.09.25-10.29.41:708][114]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.25-10.45.03:237][934]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f9140aa9-c79e-45ad-b3b1-89f9e39f3e7e}.
+[2021.09.25-10.45.03:237][934]LogAudioMixer: Resetting audio stream to device id 
+[2021.09.25-10.45.03:240][934]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-10.45.03:240][934]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-11.56.56:727][690]LogD3D11RHI: Timed out while waiting for GPU to catch up. (0.5 s) (ErrorCode 00000001) (00000000)
+[2021.09.25-11.56.57:291][704]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{32351533-35de-4127-ad27-782b7d2da3d5}.
+[2021.09.25-11.56.57:291][704]LogAudioMixer: Resetting audio stream to device id 
+[2021.09.25-11.56.57:356][704]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-11.56.57:356][704]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-11.57.04:121][108]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.09.25-11.57.04:287][108]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.09.25-11.57.04:989][108]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Laser.BP_Laser
+[2021.09.25-11.57.05:308][108]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-11.57.05:312][108]LogSlate: Took 0.000159 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.25-11.57.05:389][109]LogSlate: Took 0.000688 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.25-11.57.07:578][235]LogSlate: Window 'BP_Laser' being destroyed
+[2021.09.25-11.57.09:379][337]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-11.57.09:414][337]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-11.57.09:463][337]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonCharacter1985BC934697BA218025CB822201B5E4.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.09.25-11.57.09:485][337]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.09.25-11.57.09:485][337]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
