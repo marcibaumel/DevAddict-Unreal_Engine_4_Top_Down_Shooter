@@ -940,3 +940,9 @@ Script call stack:
 [2021.09.25-10.29.33:473][  1]LogAssetRegistry: Asset discovery search completed in 4.8900 seconds
 [2021.09.25-10.29.33:477][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000002 seconds (updated 0 objects)
 [2021.09.25-10.29.34:355][ 50]LogSlate: Took 0.000910 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.25-10.29.41:563][114]LogUObjectHash: Compacting FUObjectHashTables data took   0.60ms
+[2021.09.25-10.29.41:583][114]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMapDD783A7A40A1BE324926F587A3D21E67.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.25-10.29.41:699][114]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMap_BuiltData4CB2289B4724D1978CF152BB37D1D947.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.09.25-10.29.41:708][114]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.25-10.29.41:708][114]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.09.25-10.29.41:708][114]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
