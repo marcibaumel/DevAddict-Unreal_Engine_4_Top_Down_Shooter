@@ -938,3 +938,932 @@ Script call stack:
 [2021.09.25-05.35.54:973][  1]LogAssetRegistry: Asset discovery search completed in 6.9060 seconds
 [2021.09.25-05.35.54:979][  1]LogCollectionManager: Fixed up redirectors for 0 collections in 0.000003 seconds (updated 0 objects)
 [2021.09.25-05.35.56:317][  5]LogSlate: Took 0.005820 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.25-05.38.13:510][241]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-05.38.13:515][241]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.25-05.38.13:526][241]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 9:38:13)
+[2021.09.25-05.38.13:528][241]LogOnline: OSS: Creating online subsystem instance for: NULL
+[2021.09.25-05.38.13:530][241]LogOnline: OSS: TryLoadSubsystemAndSetDefault: Loaded subsystem for module [NULL]
+[2021.09.25-05.38.13:530][241]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-05.38.13:540][241]LogPlayLevel: PIE: StaticDuplicateObject took: (0.011034s)
+[2021.09.25-05.38.13:541][241]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-05.38.13:542][241]LogPlayLevel: PIE: World Init took: (0.001357s)
+[2021.09.25-05.38.13:542][241]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.012794s)
+[2021.09.25-05.38.13:548][241]LogUObjectHash: Compacting FUObjectHashTables data took   0.73ms
+[2021.09.25-05.38.13:549][241]LogAudio: Display: Creating Audio Device:                 Id: 2, Scope: Unique, Realtime: True
+[2021.09.25-05.38.13:549][241]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-05.38.13:549][241]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-05.38.13:549][241]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-05.38.13:549][241]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-05.38.13:549][241]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-05.38.13:549][241]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-05.38.13:549][241]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-05.38.13:549][241]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-05.38.13:550][241]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-05.38.13:550][241]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-05.38.13:550][241]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-05.38.13:550][241]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-05.38.13:553][241]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-05.38.13:553][241]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-05.38.13:560][241]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-05.38.13:560][241]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-05.38.13:560][241]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-05.38.13:560][241]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-05.38.13:560][241]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-05.38.13:560][241]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-05.38.13:560][241]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-05.38.13:561][241]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-05.38.13:561][241]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-05.38.13:561][241]LogInit: FAudioDevice initialized.
+[2021.09.25-05.38.13:561][241]LogAudio: Display: Audio Device (ID: 2) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-05.38.13:573][241]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-05.38.13:574][241]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.38.13:575][241]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-07.38.13
+[2021.09.25-05.38.13:575][241]LogWorld: Bringing up level for play took: 0.001528
+[2021.09.25-05.38.13:575][241]LogOnline: OSS: Creating online subsystem instance for: :Context_2
+[2021.09.25-05.38.13:588][241]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'MovieSceneCapture' in 0.0003 seconds. Added 20 classes and 0 folders.
+[2021.09.25-05.38.13:590][241]PIE: Server logged in
+[2021.09.25-05.38.13:591][241]PIE: Play in editor total start time 0,077 seconds.
+[2021.09.25-05.38.15:861][373]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.09.25-05.38.25:811][970]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Firing
+[2021.09.25-05.38.26:060][985]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Firing
+[2021.09.25-05.38.26:294][999]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Firing
+[2021.09.25-05.38.26:560][ 15]LogBlueprintUserMessages: [ThirdPersonCharacter_167] Firing
+[2021.09.25-05.38.28:543][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-05.38.28:543][132]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-05.38.28:543][132]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-05.38.28:543][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-05.38.28:553][132]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-05.38.28:555][132]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-05.38.28:560][132]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.25-05.38.28:560][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-05.38.28:561][132]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-05.38.28:563][132]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-05.38.28:565][132]LogUObjectHash: Compacting FUObjectHashTables data took   0.92ms
+[2021.09.25-05.38.28:624][135]LogPlayLevel: Display: Destroying online subsystem :Context_2
+[2021.09.25-05.38.39:338][776]LogSlate: Took 0.000103 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Light.ttf' (167K)
+[2021.09.25-05.38.46:870][215]LogEditorViewport: Clicking on Actor (LMB): ThirdPersonCharacter_C (ThirdPersonCharacter)
+[2021.09.25-05.38.48:608][303]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.09.25-05.38.49:205][303]LogNativeClassHierarchy: Verbose: Native class hierarchy updated for 'BlueprintGraph' in 0.0005 seconds. Added 126 classes and 0 folders.
+[2021.09.25-05.38.49:983][303]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.38.49:986][303]LogSlate: Took 0.000196 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2021.09.25-05.38.51:971][414]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.38.53:056][468]LogSlate: Took 0.004213 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2021.09.25-05.41.21:230][ 48]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.41.21:231][ 48]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.41.21:241][ 48]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.41.24:343][101]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.09.25-05.41.24:361][101]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.41.24:394][101]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.41.24:395][101]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.41.24:397][101]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.41.24:471][101]LogUObjectHash: Compacting FUObjectHashTables data took   2.15ms
+[2021.09.25-05.41.24:476][101]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.41.24:478][101]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.41.24:485][101]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.41.24:486][101]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.41.24:517][101]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.41.25:703][169]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.41.25:722][169]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.41.25:762][169]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonCharacter09C6F02642E98E67CB73E0ADAC0C35F4.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.09.25-05.41.25:780][169]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.09.25-05.41.25:780][169]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.09.25-05.41.47:091][359]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/BP_Laser.BP_Laser
+[2021.09.25-05.41.49:525][467]LogSlate: Window 'BP_Laser' being destroyed
+[2021.09.25-05.43.59:472][550]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-05.43.59:476][550]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.25-05.43.59:476][550]LogPlayLevel: [PlayLevel] Compiling BP_Laser before play...
+[2021.09.25-05.43.59:511][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.08ms
+[2021.09.25-05.43.59:514][550]LogPlayLevel: PlayLevel: Blueprint regeneration took 38 ms (1 blueprints)
+[2021.09.25-05.43.59:514][550]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 9:43:59)
+[2021.09.25-05.43.59:515][550]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-05.43.59:523][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008070s)
+[2021.09.25-05.43.59:525][550]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-05.43.59:525][550]LogPlayLevel: PIE: World Init took: (0.001416s)
+[2021.09.25-05.43.59:525][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009631s)
+[2021.09.25-05.43.59:545][550]LogUObjectHash: Compacting FUObjectHashTables data took   1.67ms
+[2021.09.25-05.43.59:546][550]LogAudio: Display: Creating Audio Device:                 Id: 3, Scope: Unique, Realtime: True
+[2021.09.25-05.43.59:546][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-05.43.59:546][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-05.43.59:546][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-05.43.59:546][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-05.43.59:546][550]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-05.43.59:546][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-05.43.59:546][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-05.43.59:546][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-05.43.59:546][550]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-05.43.59:546][550]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-05.43.59:546][550]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-05.43.59:546][550]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-05.43.59:548][550]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-05.43.59:548][550]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-05.43.59:555][550]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-05.43.59:555][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-05.43.59:555][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-05.43.59:555][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-05.43.59:555][550]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-05.43.59:555][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-05.43.59:555][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-05.43.59:556][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-05.43.59:556][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-05.43.59:556][550]LogInit: FAudioDevice initialized.
+[2021.09.25-05.43.59:556][550]LogAudio: Display: Audio Device (ID: 3) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-05.43.59:603][550]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-05.43.59:603][550]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-05.43.59:605][550]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.43.59:606][550]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-07.43.59
+[2021.09.25-05.43.59:606][550]LogWorld: Bringing up level for play took: 0.001933
+[2021.09.25-05.43.59:606][550]LogOnline: OSS: Creating online subsystem instance for: :Context_10
+[2021.09.25-05.43.59:609][550]PIE: Server logged in
+[2021.09.25-05.43.59:610][550]PIE: Play in editor total start time 0,135 seconds.
+[2021.09.25-05.44.01:789][674]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-05.44.01:789][674]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-05.44.01:789][674]LogSlate: Window 'WavesShooter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.25-05.44.01:791][674]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-05.44.01:792][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-05.44.01:799][674]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-05.44.01:830][674]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-05.44.01:848][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-05.44.01:849][674]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-05.44.01:853][674]LogUObjectHash: Compacting FUObjectHashTables data took   1.90ms
+[2021.09.25-05.44.01:862][675]LogPlayLevel: Display: Destroying online subsystem :Context_10
+[2021.09.25-05.45.42:645][446]BlueprintLog: New page: Compile BP_Laser
+[2021.09.25-05.45.42:682][446]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.09.25-05.45.43:768][503]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Laser" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/BP_Laser.uasset" SILENT=true
+[2021.09.25-05.45.43:776][503]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_LaserEF6EF8D844264766F98E94864B3D98AC.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/BP_Laser.uasset'
+[2021.09.25-05.45.43:786][503]AssetCheck: New page: Asset Save: BP_Laser
+[2021.09.25-05.45.43:786][503]LogContentValidation: Display: Validating Blueprint /Game/BP_Laser.BP_Laser
+[2021.09.25-05.45.44:598][549]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.47.36:989][299]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.47.36:991][299]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.47.36:992][299]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.47.36:993][299]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.47.37:010][299]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.47.47:686][607]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.47.47:688][607]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.47.47:690][607]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.47.47:691][607]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.47.47:704][607]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.08:129][746]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.09.25-05.48.08:133][746]LogBlueprint: Error: [AssetLog] C:\REPOS\DevAddict-Unreal_Engine_4_Top_Down_Shooter\WavesShooter\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Begin Deferred Actor Spawn from Class' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2021.09.25-05.48.08:134][746]LogBlueprint: Error: [AssetLog] C:\REPOS\DevAddict-Unreal_Engine_4_Top_Down_Shooter\WavesShooter\Content\ThirdPersonBP\Blueprints\ThirdPersonCharacter.uasset: [Compiler] The current value of the ' Spawn Transform ' pin is invalid: 'Spawn Transform' in action 'Finish Spawning Actor' must have an input wired into it ("by ref" params expect a valid input to operate on).
+[2021.09.25-05.48.08:138][746]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.08:166][746]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.08:167][746]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.08:168][746]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.08:169][746]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.08:170][746]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.08:170][746]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.08:171][746]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.08:231][746]LogUObjectHash: Compacting FUObjectHashTables data took   2.27ms
+[2021.09.25-05.48.08:232][746]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.08:233][746]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.08:233][746]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.08:234][746]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.08:234][746]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.08:237][746]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.08:237][746]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.08:238][746]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.08:238][746]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.08:263][746]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.08:288][746]LogSlate: Took 0.007271 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2021.09.25-05.48.20:629][277]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.20:630][277]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.20:631][277]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.20:632][277]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.48.20:642][277]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.09:549][ 67]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.09.25-05.49.09:557][ 67]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.09:588][ 67]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.09:589][ 67]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.09:590][ 67]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.09:591][ 67]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.09:592][ 67]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.09:593][ 67]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.09:594][ 67]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.09:654][ 67]LogUObjectHash: Compacting FUObjectHashTables data took   2.16ms
+[2021.09.25-05.49.09:657][ 67]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.09:658][ 67]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.09:659][ 67]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.09:660][ 67]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.09:661][ 67]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.09:668][ 67]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.09:669][ 67]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.09:670][ 67]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.09:671][ 67]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.14:492][137]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonCharacter478133A94695F3F67456BB8C0FB9C52D.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.09.25-05.49.14:512][137]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.09.25-05.49.14:512][137]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.09.25-05.49.28:157][821]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.59:550][361]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-05.49.59:554][361]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.25-05.49.59:555][361]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 9:49:59)
+[2021.09.25-05.49.59:555][361]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-05.49.59:563][361]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007898s)
+[2021.09.25-05.49.59:564][361]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-05.49.59:564][361]LogPlayLevel: PIE: World Init took: (0.001181s)
+[2021.09.25-05.49.59:564][361]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009219s)
+[2021.09.25-05.49.59:585][361]LogUObjectHash: Compacting FUObjectHashTables data took   1.99ms
+[2021.09.25-05.49.59:586][361]LogAudio: Display: Creating Audio Device:                 Id: 4, Scope: Unique, Realtime: True
+[2021.09.25-05.49.59:587][361]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-05.49.59:587][361]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-05.49.59:587][361]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-05.49.59:587][361]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-05.49.59:587][361]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-05.49.59:587][361]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-05.49.59:587][361]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-05.49.59:587][361]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-05.49.59:587][361]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-05.49.59:587][361]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-05.49.59:587][361]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-05.49.59:587][361]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-05.49.59:589][361]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-05.49.59:589][361]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-05.49.59:595][361]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-05.49.59:596][361]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-05.49.59:596][361]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-05.49.59:596][361]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-05.49.59:596][361]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-05.49.59:596][361]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-05.49.59:596][361]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-05.49.59:597][361]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-05.49.59:597][361]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-05.49.59:597][361]LogInit: FAudioDevice initialized.
+[2021.09.25-05.49.59:597][361]LogAudio: Display: Audio Device (ID: 4) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-05.49.59:651][361]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-05.49.59:651][361]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-05.49.59:653][361]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.49.59:653][361]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-07.49.59
+[2021.09.25-05.49.59:654][361]LogWorld: Bringing up level for play took: 0.001979
+[2021.09.25-05.49.59:654][361]LogOnline: OSS: Creating online subsystem instance for: :Context_11
+[2021.09.25-05.49.59:657][361]PIE: Server logged in
+[2021.09.25-05.49.59:657][361]PIE: Play in editor total start time 0,103 seconds.
+[2021.09.25-05.50.01:888][489]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.09.25-05.50.12:992][153]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-05.50.12:992][153]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-05.50.12:993][153]LogSlate: Window 'WavesShooter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.25-05.50.12:997][153]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-05.50.12:997][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-05.50.13:011][153]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-05.50.13:042][153]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-05.50.13:060][153]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.25-05.50.13:060][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-05.50.13:061][153]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-05.50.13:065][153]LogUObjectHash: Compacting FUObjectHashTables data took   1.64ms
+[2021.09.25-05.50.13:084][153]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.50.13:095][154]LogPlayLevel: Display: Destroying online subsystem :Context_11
+[2021.09.25-05.50.50:301][981]BlueprintLog: New page: Compile BP_Laser
+[2021.09.25-05.50.50:338][981]LogUObjectHash: Compacting FUObjectHashTables data took   2.20ms
+[2021.09.25-05.50.50:342][981]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.50.50:344][981]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.50.50:345][981]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.50.50:345][981]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.50.50:351][981]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.50.50:353][981]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.50.50:354][981]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.50.50:356][981]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.50.52:871][ 49]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-05.50.52:877][ 49]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.25-05.50.52:877][ 49]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 9:50:52)
+[2021.09.25-05.50.52:877][ 49]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-05.50.52:884][ 49]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007531s)
+[2021.09.25-05.50.52:885][ 49]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-05.50.52:885][ 49]LogPlayLevel: PIE: World Init took: (0.001317s)
+[2021.09.25-05.50.52:885][ 49]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008990s)
+[2021.09.25-05.50.52:906][ 49]LogUObjectHash: Compacting FUObjectHashTables data took   1.88ms
+[2021.09.25-05.50.52:907][ 49]LogAudio: Display: Creating Audio Device:                 Id: 5, Scope: Unique, Realtime: True
+[2021.09.25-05.50.52:907][ 49]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-05.50.52:907][ 49]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-05.50.52:907][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-05.50.52:907][ 49]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-05.50.52:907][ 49]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-05.50.52:907][ 49]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-05.50.52:907][ 49]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-05.50.52:907][ 49]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-05.50.52:907][ 49]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-05.50.52:907][ 49]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-05.50.52:907][ 49]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-05.50.52:907][ 49]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-05.50.52:909][ 49]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-05.50.52:909][ 49]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-05.50.52:915][ 49]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-05.50.52:915][ 49]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-05.50.52:915][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-05.50.52:915][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-05.50.52:915][ 49]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-05.50.52:915][ 49]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-05.50.52:915][ 49]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-05.50.52:916][ 49]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-05.50.52:916][ 49]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-05.50.52:916][ 49]LogInit: FAudioDevice initialized.
+[2021.09.25-05.50.52:916][ 49]LogAudio: Display: Audio Device (ID: 5) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-05.50.52:970][ 49]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-05.50.52:970][ 49]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-05.50.52:971][ 49]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.50.52:972][ 49]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-07.50.52
+[2021.09.25-05.50.52:973][ 49]LogWorld: Bringing up level for play took: 0.002086
+[2021.09.25-05.50.52:973][ 49]LogOnline: OSS: Creating online subsystem instance for: :Context_12
+[2021.09.25-05.50.52:975][ 49]PIE: Server logged in
+[2021.09.25-05.50.52:976][ 49]PIE: Play in editor total start time 0,102 seconds.
+[2021.09.25-05.50.54:904][160]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.09.25-05.51.05:933][820]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-05.51.05:933][820]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-05.51.05:934][820]LogSlate: Window 'WavesShooter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.25-05.51.05:937][820]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-05.51.05:938][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-05.51.05:948][820]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-05.51.05:979][820]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-05.51.05:996][820]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.25-05.51.05:997][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-05.51.05:998][820]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-05.51.06:001][820]LogUObjectHash: Compacting FUObjectHashTables data took   1.61ms
+[2021.09.25-05.51.06:016][821]LogPlayLevel: Display: Destroying online subsystem :Context_12
+[2021.09.25-05.51.27:377][ 94]LogUObjectHash: Compacting FUObjectHashTables data took   1.70ms
+[2021.09.25-05.51.27:393][ 94]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMap_Auto18D2CA80C4FDC66E16E44B89BEB154BC9.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto1.umap'
+[2021.09.25-05.51.27:394][ 94]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.037
+[2021.09.25-05.51.27:394][ 94]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.037
+[2021.09.25-05.51.27:394][ 94]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/BP_Laser] ([2] browsable assets)...
+[2021.09.25-05.51.27:406][ 94]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/BP_Laser.BP_Laser]
+[2021.09.25-05.51.27:406][ 94]OBJ SavePackage: Finished generating thumbnails for package [/Game/BP_Laser]
+[2021.09.25-05.51.27:406][ 94]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Laser" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Autosaves/Game/BP_Laser_Auto1.uasset" SILENT=false AUTOSAVING=true
+[2021.09.25-05.51.27:414][ 94]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_Laser_Auto1800FE66A41427550DAA44882701C01B0.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Autosaves/Game/BP_Laser_Auto1.uasset'
+[2021.09.25-05.51.27:415][ 94]LogFileHelpers: Auto-saving content packages took 0.021
+[2021.09.25-05.51.32:740][403]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Laser" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/BP_Laser.uasset" SILENT=true
+[2021.09.25-05.51.32:744][403]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_LaserDB323A3D46EDF712E11BCAA3215AAF5D.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/BP_Laser.uasset'
+[2021.09.25-05.51.32:754][403]AssetCheck: New page: Asset Save: BP_Laser
+[2021.09.25-05.51.32:755][403]LogContentValidation: Display: Validating Blueprint /Game/BP_Laser.BP_Laser
+[2021.09.25-05.55.05:547][711]BlueprintLog: New page: Compile ThirdPersonCharacter
+[2021.09.25-05.55.05:556][711]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.55.05:587][711]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.55.05:588][711]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.55.05:589][711]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.55.05:590][711]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.55.05:591][711]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.55.05:592][711]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.55.05:593][711]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.55.05:654][711]LogUObjectHash: Compacting FUObjectHashTables data took   1.97ms
+[2021.09.25-05.55.05:656][711]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.55.05:657][711]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.55.05:659][711]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.55.05:660][711]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.55.05:660][711]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.55.05:669][711]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.55.05:670][711]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.55.05:671][711]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.55.05:672][711]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.55.06:903][775]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonCharacter4961C5BD403F74D0E31414B7D99B06DB.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.09.25-05.55.06:927][775]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.09.25-05.55.06:927][775]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.09.25-05.55.08:199][848]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-05.55.08:203][848]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.25-05.55.08:203][848]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 9:55:08)
+[2021.09.25-05.55.08:203][848]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-05.55.08:211][848]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007718s)
+[2021.09.25-05.55.08:212][848]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-05.55.08:212][848]LogPlayLevel: PIE: World Init took: (0.001053s)
+[2021.09.25-05.55.08:212][848]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008880s)
+[2021.09.25-05.55.08:233][848]LogUObjectHash: Compacting FUObjectHashTables data took   2.00ms
+[2021.09.25-05.55.08:234][848]LogAudio: Display: Creating Audio Device:                 Id: 6, Scope: Unique, Realtime: True
+[2021.09.25-05.55.08:234][848]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-05.55.08:234][848]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-05.55.08:234][848]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-05.55.08:234][848]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-05.55.08:234][848]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-05.55.08:234][848]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-05.55.08:234][848]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-05.55.08:234][848]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-05.55.08:234][848]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-05.55.08:234][848]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-05.55.08:234][848]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-05.55.08:234][848]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-05.55.08:236][848]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-05.55.08:236][848]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-05.55.08:243][848]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-05.55.08:243][848]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-05.55.08:243][848]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-05.55.08:243][848]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-05.55.08:243][848]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-05.55.08:243][848]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-05.55.08:243][848]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-05.55.08:244][848]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-05.55.08:244][848]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-05.55.08:244][848]LogInit: FAudioDevice initialized.
+[2021.09.25-05.55.08:244][848]LogAudio: Display: Audio Device (ID: 6) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-05.55.08:297][848]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-05.55.08:297][848]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-05.55.08:298][848]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.55.08:299][848]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-07.55.08
+[2021.09.25-05.55.08:299][848]LogWorld: Bringing up level for play took: 0.002041
+[2021.09.25-05.55.08:299][848]LogOnline: OSS: Creating online subsystem instance for: :Context_13
+[2021.09.25-05.55.08:303][848]PIE: Server logged in
+[2021.09.25-05.55.08:304][848]PIE: Play in editor total start time 0,102 seconds.
+[2021.09.25-05.55.10:746][926]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.09.25-05.55.26:064][706]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-05.55.26:064][706]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-05.55.26:064][706]LogSlate: Window 'WavesShooter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.25-05.55.26:071][706]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-05.55.26:072][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-05.55.26:092][706]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-05.55.26:125][706]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-05.55.26:144][706]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.25-05.55.26:144][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-05.55.26:145][706]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-05.55.26:149][706]LogUObjectHash: Compacting FUObjectHashTables data took   1.62ms
+[2021.09.25-05.55.26:367][707]LogPlayLevel: Display: Destroying online subsystem :Context_13
+[2021.09.25-05.56.13:338][150]BlueprintLog: New page: Compile BP_Laser
+[2021.09.25-05.56.13:376][150]LogUObjectHash: Compacting FUObjectHashTables data took   1.86ms
+[2021.09.25-05.56.13:379][150]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.56.13:381][150]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.56.13:382][150]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.56.13:382][150]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.56.13:387][150]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.56.13:388][150]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.56.13:389][150]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.56.13:390][150]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.56.33:533][316]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-05.56.33:537][316]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.25-05.56.33:538][316]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 9:56:33)
+[2021.09.25-05.56.33:538][316]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-05.56.33:547][316]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008527s)
+[2021.09.25-05.56.33:547][316]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-05.56.33:547][316]LogPlayLevel: PIE: World Init took: (0.000933s)
+[2021.09.25-05.56.33:548][316]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009581s)
+[2021.09.25-05.56.33:583][316]LogUObjectHash: Compacting FUObjectHashTables data took   1.94ms
+[2021.09.25-05.56.33:584][316]LogAudio: Display: Creating Audio Device:                 Id: 7, Scope: Unique, Realtime: True
+[2021.09.25-05.56.33:584][316]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-05.56.33:584][316]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-05.56.33:584][316]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-05.56.33:584][316]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-05.56.33:584][316]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-05.56.33:584][316]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-05.56.33:584][316]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-05.56.33:584][316]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-05.56.33:584][316]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-05.56.33:584][316]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-05.56.33:584][316]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-05.56.33:584][316]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-05.56.33:586][316]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-05.56.33:586][316]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-05.56.33:592][316]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-05.56.33:592][316]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-05.56.33:592][316]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-05.56.33:592][316]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-05.56.33:592][316]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-05.56.33:592][316]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-05.56.33:592][316]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-05.56.33:593][316]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-05.56.33:593][316]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-05.56.33:593][316]LogInit: FAudioDevice initialized.
+[2021.09.25-05.56.33:593][316]LogAudio: Display: Audio Device (ID: 7) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-05.56.33:645][316]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-05.56.33:645][316]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-05.56.33:647][316]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-05.56.33:647][316]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-07.56.33
+[2021.09.25-05.56.33:648][316]LogWorld: Bringing up level for play took: 0.002051
+[2021.09.25-05.56.33:648][316]LogOnline: OSS: Creating online subsystem instance for: :Context_14
+[2021.09.25-05.56.33:651][316]PIE: Server logged in
+[2021.09.25-05.56.33:652][316]PIE: Play in editor total start time 0,115 seconds.
+[2021.09.25-05.56.35:861][444]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.09.25-05.56.51:433][376]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-05.56.51:433][376]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-05.56.51:435][376]LogSlate: Window 'WavesShooter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.25-05.56.51:439][376]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-05.56.51:439][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-05.56.51:453][376]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-05.56.51:485][376]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-05.56.51:503][376]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.25-05.56.51:503][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-05.56.51:504][376]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-05.56.51:508][376]LogUObjectHash: Compacting FUObjectHashTables data took   1.78ms
+[2021.09.25-05.56.51:519][377]LogPlayLevel: Display: Destroying online subsystem :Context_14
