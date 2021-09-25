@@ -2209,3 +2209,1351 @@ Script call stack:
 [2021.09.25-13.35.10:176][199]AssetCheck: New page: Asset Save: Enemy_Forest
 [2021.09.25-13.35.10:176][199]LogContentValidation: Display: Validating Blueprint /Game/_AI/Enemy_Forest.Enemy_Forest
 [2021.09.25-13.35.29:260][977]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/_AI/BP_EnemyBase.BP_EnemyBase
+[2021.09.25-13.36.29:323][ 57]LogSlate: Took 0.005166 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2021.09.25-13.36.34:286][189]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/BP_EnemyBase" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset" SILENT=true
+[2021.09.25-13.36.34:289][189]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_EnemyBase27085C254A684FA4CCAE0BB6577DC10B.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset'
+[2021.09.25-13.36.34:299][189]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2021.09.25-13.36.34:299][189]LogContentValidation: Display: Validating Blueprint /Game/_AI/BP_EnemyBase.BP_EnemyBase
+[2021.09.25-13.36.35:335][252]BlueprintLog: New page: Compile BP_EnemyBase
+[2021.09.25-13.36.35:396][252]LogUObjectHash: Compacting FUObjectHashTables data took   3.14ms
+[2021.09.25-13.37.03:930][458]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/BP_EnemyBase" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset" SILENT=true
+[2021.09.25-13.37.03:934][458]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_EnemyBase0D706F6A464F70B8C7148E91AC7B0A3F.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset'
+[2021.09.25-13.37.03:946][458]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2021.09.25-13.37.03:946][458]LogContentValidation: Display: Validating Blueprint /Game/_AI/BP_EnemyBase.BP_EnemyBase
+[2021.09.25-13.37.04:393][484]BlueprintLog: New page: Compile BP_EnemyBase
+[2021.09.25-13.37.04:457][484]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.09.25-13.37.08:247][630]BlueprintLog: New page: Compile Enemy_Forest
+[2021.09.25-13.37.08:303][630]LogUObjectHash: Compacting FUObjectHashTables data took   3.19ms
+[2021.09.25-13.37.16:266][ 92]BlueprintLog: New page: Compile Enemy_Forest
+[2021.09.25-13.37.16:322][ 92]LogUObjectHash: Compacting FUObjectHashTables data took   2.87ms
+[2021.09.25-13.37.28:769][814]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-13.37.28:773][814]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.25-13.37.28:773][814]PIE: New page: PIE session: LtBelica (2021. szept. 25. 17:37:28)
+[2021.09.25-13.37.28:773][814]LogPlayLevel: Creating play world package: /Game/ParagonLtBelica/Characters/Maps/UEDPIE_0_LtBelica
+[2021.09.25-13.37.28:775][814]LogPlayLevel: PIE: StaticDuplicateObject took: (0.002030s)
+[2021.09.25-13.37.28:776][814]LogAIModule: Creating AISystem for world LtBelica
+[2021.09.25-13.37.28:776][814]LogPlayLevel: PIE: World Init took: (0.000813s)
+[2021.09.25-13.37.28:776][814]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ParagonLtBelica/Characters/Maps/LtBelica.LtBelica to /Game/ParagonLtBelica/Characters/Maps/UEDPIE_0_LtBelica.LtBelica (0.002936s)
+[2021.09.25-13.37.28:806][814]LogUObjectHash: Compacting FUObjectHashTables data took   2.89ms
+[2021.09.25-13.37.28:806][814]LogAudio: Display: Creating Audio Device:                 Id: 10, Scope: Unique, Realtime: True
+[2021.09.25-13.37.28:806][814]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-13.37.28:806][814]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-13.37.28:806][814]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-13.37.28:806][814]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-13.37.28:806][814]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-13.37.28:806][814]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-13.37.28:806][814]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-13.37.28:806][814]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-13.37.28:807][814]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-13.37.28:807][814]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-13.37.28:807][814]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-13.37.28:807][814]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-13.37.28:809][814]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-13.37.28:809][814]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-13.37.28:815][814]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-13.37.28:815][814]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-13.37.28:815][814]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-13.37.28:815][814]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-13.37.28:816][814]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-13.37.28:816][814]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-13.37.28:816][814]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-13.37.28:817][814]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-13.37.28:817][814]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-13.37.28:817][814]LogInit: FAudioDevice initialized.
+[2021.09.25-13.37.28:817][814]LogAudio: Display: Audio Device (ID: 10) registered with world 'LtBelica'.
+[2021.09.25-13.37.28:870][814]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-13.37.28:870][814]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-13.37.28:873][814]LogWorld: Bringing World /Game/ParagonLtBelica/Characters/Maps/UEDPIE_0_LtBelica.LtBelica up for play (max tick rate 60) at 2021.09.25-15.37.28
+[2021.09.25-13.37.28:873][814]LogWorld: Bringing up level for play took: 0.002625
+[2021.09.25-13.37.28:873][814]LogOnline: OSS: Creating online subsystem instance for: :Context_21
+[2021.09.25-13.37.28:875][814]LogGameMode: FindPlayerStart: PATHS NOT DEFINED or NO PLAYERSTART with positive rating
+[2021.09.25-13.37.28:877][814]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.37.28:880][814]LogSpawn: Warning: SpawnActor failed because of collision at the spawn location [X=0.000 Y=0.000 Z=0.000] for [ThirdPersonCharacter_C]
+[2021.09.25-13.37.28:880][814]LogGameMode: Warning: SpawnDefaultPawnAtTransform: Couldn't spawn Pawn of type ThirdPersonCharacter_C at Rotation: Pitch 0.000000 Yaw 0.000000 Roll 0.000000
+Translation: 0.000000 0.000000 0.000000
+Scale3D: 1.000000 1.000000 1.000000
+
+[2021.09.25-13.37.28:881][814]PIE: Server logged in
+[2021.09.25-13.37.28:881][814]PIE: Play in editor total start time 0,11 seconds.
+[2021.09.25-13.37.30:989][932]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-13.37.30:989][932]LogWorld: BeginTearingDown for /Game/ParagonLtBelica/Characters/Maps/UEDPIE_0_LtBelica
+[2021.09.25-13.37.30:991][932]LogSlate: Window 'WavesShooter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.25-13.37.30:994][932]LogWorld: UWorld::CleanupWorld for LtBelica, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-13.37.30:995][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.37.31:006][932]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-13.37.31:023][932]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.37.31:051][932]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.25-13.37.31:051][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-13.37.31:052][932]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-13.37.31:057][932]LogUObjectHash: Compacting FUObjectHashTables data took   2.31ms
+[2021.09.25-13.37.31:072][933]LogPlayLevel: Display: Destroying online subsystem :Context_21
+[2021.09.25-13.37.34:791][151]BlueprintLog: New page: Compile Enemy_Forest
+[2021.09.25-13.37.34:845][151]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.09.25-13.37.40:648][257]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/Enemy_Forest" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset" SILENT=true
+[2021.09.25-13.37.40:655][257]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Enemy_ForestD6E6BFE14E207DFC6151A09F3B3B3D82.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset'
+[2021.09.25-13.37.40:667][257]AssetCheck: New page: Asset Save: Enemy_Forest
+[2021.09.25-13.37.40:667][257]LogContentValidation: Display: Validating Blueprint /Game/_AI/Enemy_Forest.Enemy_Forest
+[2021.09.25-13.37.59:549][ 69]BlueprintLog: New page: Compile BP_EnemyBase
+[2021.09.25-13.37.59:620][ 69]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2021.09.25-13.38.04:679][354]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/Enemy_Forest" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset" SILENT=true
+[2021.09.25-13.38.04:687][354]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Enemy_Forest46B9E60542E802EE8A2646AF5DCC9757.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset'
+[2021.09.25-13.38.04:697][354]AssetCheck: New page: Asset Save: Enemy_Forest
+[2021.09.25-13.38.04:698][354]LogContentValidation: Display: Validating Blueprint /Game/_AI/Enemy_Forest.Enemy_Forest
+[2021.09.25-13.38.56:020][306]BlueprintLog: New page: Compile BP_Laser
+[2021.09.25-13.38.56:076][306]LogUObjectHash: Compacting FUObjectHashTables data took   3.41ms
+[2021.09.25-13.38.56:082][306]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.38.56:084][306]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.38.56:085][306]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.38.56:087][306]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.38.56:092][306]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.38.56:093][306]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.38.56:094][306]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.38.56:095][306]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.38.56:846][347]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Laser" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/BP_Laser.uasset" SILENT=true
+[2021.09.25-13.38.56:856][347]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_LaserDC2BD1C0489B52988048B0A7ED3C5D3A.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/BP_Laser.uasset'
+[2021.09.25-13.38.56:868][347]AssetCheck: New page: Asset Save: BP_Laser
+[2021.09.25-13.38.56:868][347]LogContentValidation: Display: Validating Blueprint /Game/BP_Laser.BP_Laser
+[2021.09.25-13.39.25:157][908]LogUObjectHash: Compacting FUObjectHashTables data took   3.00ms
+[2021.09.25-13.39.32:737][908]LogSlate: Window 'Save Content' being destroyed
+[2021.09.25-13.39.32:758][908]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/BP_EnemyBase" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset" SILENT=true
+[2021.09.25-13.39.32:762][908]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_EnemyBase0432E0B64CBDCD630008279761B57228.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset'
+[2021.09.25-13.39.32:764][908]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.39.32:797][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.09.25-13.39.32:813][908]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMap2A76F2A7446154701B55A280961BD566.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.25-13.39.32:816][908]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.39.32:817][908]LogFileHelpers: Saving map 'ThirdPersonExampleMap' took 0.055
+[2021.09.25-13.39.32:836][908]LogAssetEditorSubsystem: Opening Asset editor for World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.25-13.39.32:836][908]Cmd: MAP LOAD FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2021.09.25-13.39.32:836][908]LightingResults: New page: Lighting Build
+[2021.09.25-13.39.32:836][908]LoadErrors: New page: Loading map: ThirdPersonExampleMap.umap
+[2021.09.25-13.39.32:838][908]LogWorld: UWorld::CleanupWorld for LtBelica, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-13.39.32:838][908]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.39.32:838][908]MapCheck: New page: Map Check
+[2021.09.25-13.39.32:838][908]LightingResults: New page: Lighting Build
+[2021.09.25-13.39.32:866][908]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.25-13.39.32:871][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2021.09.25-13.39.32:871][908]LogAudio: Display: Audio Device (ID: 1) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-13.39.32:872][908]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.39.32:874][908]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2021.09.25-13.39.32:874][908]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-13.39.32:906][908]LogUObjectHash: Compacting FUObjectHashTables data took   2.42ms
+[2021.09.25-13.39.32:909][908]Cmd: MAP CHECKDEP NOCLEARLOG
+[2021.09.25-13.39.32:910][908]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,101ms to complete.
+[2021.09.25-13.39.32:910][908]LogFileHelpers: Loading map 'ThirdPersonExampleMap' took 0.074
+[2021.09.25-13.39.32:931][908]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.25-13.39.32:931][908]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.25-13.39.32:931][908]LogContentValidation: Display: Validating Blueprint /Game/_AI/BP_EnemyBase.BP_EnemyBase
+[2021.09.25-13.39.43:904][329]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-13.39.43:908][329]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.25-13.39.43:908][329]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 17:39:43)
+[2021.09.25-13.39.43:908][329]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-13.39.43:916][329]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008509s)
+[2021.09.25-13.39.43:917][329]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-13.39.43:918][329]LogPlayLevel: PIE: World Init took: (0.001085s)
+[2021.09.25-13.39.43:918][329]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009731s)
+[2021.09.25-13.39.43:948][329]LogUObjectHash: Compacting FUObjectHashTables data took   2.38ms
+[2021.09.25-13.39.43:949][329]LogAudio: Display: Creating Audio Device:                 Id: 11, Scope: Unique, Realtime: True
+[2021.09.25-13.39.43:949][329]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-13.39.43:949][329]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-13.39.43:949][329]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-13.39.43:949][329]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-13.39.43:949][329]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-13.39.43:949][329]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-13.39.43:949][329]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-13.39.43:949][329]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-13.39.43:950][329]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-13.39.43:950][329]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-13.39.43:950][329]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-13.39.43:950][329]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-13.39.43:952][329]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-13.39.43:952][329]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-13.39.43:957][329]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-13.39.43:957][329]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-13.39.43:958][329]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-13.39.43:958][329]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-13.39.43:958][329]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-13.39.43:958][329]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-13.39.43:958][329]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-13.39.43:959][329]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-13.39.43:959][329]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-13.39.43:959][329]LogInit: FAudioDevice initialized.
+[2021.09.25-13.39.43:959][329]LogAudio: Display: Audio Device (ID: 11) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-13.39.43:973][329]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-13.39.43:974][329]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.39.43:975][329]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-15.39.43
+[2021.09.25-13.39.43:975][329]LogWorld: Bringing up level for play took: 0.001371
+[2021.09.25-13.39.43:975][329]LogOnline: OSS: Creating online subsystem instance for: :Context_22
+[2021.09.25-13.39.43:977][329]PIE: Server logged in
+[2021.09.25-13.39.43:977][329]PIE: Play in editor total start time 0,07 seconds.
+[2021.09.25-13.39.46:507][399]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.09.25-13.39.48:548][520]LogBlueprintUserMessages: [BP_Laser_C_0] Linear_Stair_StaticMesh
+[2021.09.25-13.39.49:658][587]LogBlueprintUserMessages: [BP_Laser_C_1] Wall10
+[2021.09.25-13.39.49:658][587]LogBlueprintUserMessages: [BP_Laser_C_2] Bump_StaticMesh
+[2021.09.25-13.39.50:208][620]LogBlueprintUserMessages: [BP_Laser_C_3] Wall10
+[2021.09.25-13.39.50:442][634]LogBlueprintUserMessages: [BP_Laser_C_4] Wall10
+[2021.09.25-13.39.50:625][645]LogBlueprintUserMessages: [BP_Laser_C_6] Ramp_StaticMesh
+[2021.09.25-13.39.50:675][648]LogBlueprintUserMessages: [BP_Laser_C_5] BP_Laser4
+[2021.09.25-13.39.50:675][648]LogBlueprintUserMessages: [BP_Laser_C_4] BP_Laser5
+[2021.09.25-13.39.50:891][661]LogBlueprintUserMessages: [BP_Laser_C_7] LeftArm_StaticMesh
+[2021.09.25-13.39.51:474][696]LogBlueprintUserMessages: [BP_Laser_C_8] Wall10
+[2021.09.25-13.39.51:791][715]LogBlueprintUserMessages: [BP_Laser_C_10] LeftArm_StaticMesh
+[2021.09.25-13.39.51:992][727]LogBlueprintUserMessages: [BP_Laser_C_9] Wall10
+[2021.09.25-13.39.52:041][730]LogBlueprintUserMessages: [BP_Laser_C_11] BP_Laser10
+[2021.09.25-13.39.52:041][730]LogBlueprintUserMessages: [BP_Laser_C_10] BP_Laser11
+[2021.09.25-13.39.52:608][764]LogBlueprintUserMessages: [BP_Laser_C_12] Wall10
+[2021.09.25-13.39.52:875][780]LogBlueprintUserMessages: [BP_Laser_C_13] Wall10
+[2021.09.25-13.39.53:242][802]LogBlueprintUserMessages: [BP_Laser_C_15] CubeMesh
+[2021.09.25-13.39.53:292][805]LogBlueprintUserMessages: [BP_Laser_C_14] Wall10
+[2021.09.25-13.39.53:425][813]LogBlueprintUserMessages: [BP_Laser_C_16] BP_Laser15
+[2021.09.25-13.39.53:425][813]LogBlueprintUserMessages: [BP_Laser_C_15] BP_Laser16
+[2021.09.25-13.39.54:209][860]LogBlueprintUserMessages: [BP_Laser_C_17] Wall10
+[2021.09.25-13.39.54:442][874]LogBlueprintUserMessages: [BP_Laser_C_18] Wall10
+[2021.09.25-13.39.54:676][888]LogBlueprintUserMessages: [BP_Laser_C_19] Wall10
+[2021.09.25-13.39.55:176][918]LogBlueprintUserMessages: [BP_Laser_C_20] Wall7
+[2021.09.25-13.39.55:358][929]LogBlueprintUserMessages: [BP_Laser_C_21] Wall7
+[2021.09.25-13.39.55:425][933]LogBlueprintUserMessages: [BP_Laser_C_22] Wall10
+[2021.09.25-13.39.55:592][943]LogBlueprintUserMessages: [BP_Laser_C_23] Wall10
+[2021.09.25-13.39.56:775][ 14]LogBlueprintUserMessages: [BP_Laser_C_24] Wall7
+[2021.09.25-13.39.57:008][ 28]LogBlueprintUserMessages: [BP_Laser_C_25] Wall7
+[2021.09.25-13.39.57:208][ 40]LogBlueprintUserMessages: [BP_Laser_C_26] BP_Laser25
+[2021.09.25-13.39.57:208][ 40]LogBlueprintUserMessages: [BP_Laser_C_25] BP_Laser26
+[2021.09.25-13.39.57:391][ 51]LogBlueprintUserMessages: [BP_Laser_C_27] BP_Laser26
+[2021.09.25-13.39.57:391][ 51]LogBlueprintUserMessages: [BP_Laser_C_26] BP_Laser27
+[2021.09.25-13.39.57:608][ 64]LogBlueprintUserMessages: [BP_Laser_C_28] Wall10
+[2021.09.25-13.39.57:842][ 78]LogBlueprintUserMessages: [BP_Laser_C_29] Wall7
+[2021.09.25-13.39.58:241][102]LogBlueprintUserMessages: [BP_Laser_C_30] Wall7
+[2021.09.25-13.39.58:391][111]LogBlueprintUserMessages: [BP_Laser_C_31] LeftArm_StaticMesh
+[2021.09.25-13.39.58:641][126]LogBlueprintUserMessages: [BP_Laser_C_32] Wall7
+[2021.09.25-13.39.58:925][143]LogBlueprintUserMessages: [BP_Laser_C_33] Wall7
+[2021.09.25-13.39.59:025][149]LogBlueprintUserMessages: [BP_Laser_C_34] LeftArm_StaticMesh
+[2021.09.25-13.39.59:792][195]LogBlueprintUserMessages: [BP_Laser_C_35] Wall11
+[2021.09.25-13.39.59:991][207]LogBlueprintUserMessages: [BP_Laser_C_36] Wall11
+[2021.09.25-13.40.00:175][218]LogBlueprintUserMessages: [BP_Laser_C_37] BP_Laser36
+[2021.09.25-13.40.00:175][218]LogBlueprintUserMessages: [BP_Laser_C_36] BP_Laser37
+[2021.09.25-13.40.00:621][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-13.40.00:621][242]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-13.40.00:621][242]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-13.40.00:621][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.40.00:630][242]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-13.40.00:634][242]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.40.00:663][242]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.25-13.40.00:664][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-13.40.00:665][242]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-13.40.00:666][242]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-13.40.00:670][242]LogUObjectHash: Compacting FUObjectHashTables data took   2.41ms
+[2021.09.25-13.40.00:691][243]LogPlayLevel: Display: Destroying online subsystem :Context_22
+[2021.09.25-13.40.37:406][234]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-13.40.37:415][234]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.25-13.40.37:415][234]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 17:40:37)
+[2021.09.25-13.40.37:415][234]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-13.40.37:428][234]LogPlayLevel: PIE: StaticDuplicateObject took: (0.012961s)
+[2021.09.25-13.40.37:429][234]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-13.40.37:429][234]LogPlayLevel: PIE: World Init took: (0.001278s)
+[2021.09.25-13.40.37:429][234]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.014400s)
+[2021.09.25-13.40.37:464][234]LogUObjectHash: Compacting FUObjectHashTables data took   2.46ms
+[2021.09.25-13.40.37:466][234]LogAudio: Display: Creating Audio Device:                 Id: 12, Scope: Unique, Realtime: True
+[2021.09.25-13.40.37:466][234]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-13.40.37:466][234]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-13.40.37:466][234]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-13.40.37:466][234]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-13.40.37:466][234]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-13.40.37:466][234]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-13.40.37:466][234]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-13.40.37:466][234]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-13.40.37:466][234]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-13.40.37:466][234]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-13.40.37:466][234]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-13.40.37:466][234]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-13.40.37:468][234]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-13.40.37:468][234]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-13.40.37:475][234]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-13.40.37:475][234]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-13.40.37:475][234]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-13.40.37:475][234]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-13.40.37:476][234]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-13.40.37:476][234]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-13.40.37:476][234]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-13.40.37:476][234]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-13.40.37:476][234]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-13.40.37:476][234]LogInit: FAudioDevice initialized.
+[2021.09.25-13.40.37:477][234]LogAudio: Display: Audio Device (ID: 12) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-13.40.37:483][234]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-13.40.37:484][234]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.40.37:485][234]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-15.40.37
+[2021.09.25-13.40.37:488][234]LogWorld: Bringing up level for play took: 0.004686
+[2021.09.25-13.40.37:488][234]LogOnline: OSS: Creating online subsystem instance for: :Context_23
+[2021.09.25-13.40.37:490][234]PIE: Server logged in
+[2021.09.25-13.40.37:491][234]PIE: Play in editor total start time 0,08 seconds.
+[2021.09.25-13.40.39:742][365]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.09.25-13.40.43:893][614]LogBlueprintUserMessages: [BP_Laser_C_0] Linear_Stair_StaticMesh
+[2021.09.25-13.40.44:692][662]LogBlueprintUserMessages: [BP_Laser_C_1] Wall11
+[2021.09.25-13.40.45:242][695]LogBlueprintUserMessages: [BP_Laser_C_2] Wall7
+[2021.09.25-13.40.45:242][695]LogBlueprintUserMessages: [BP_Laser_C_3] Wall11
+[2021.09.25-13.40.45:426][706]LogBlueprintUserMessages: [BP_Laser_C_4] Wall11
+[2021.09.25-13.40.45:677][721]LogBlueprintUserMessages: [BP_Laser_C_5] BP_Laser4
+[2021.09.25-13.40.45:678][721]LogBlueprintUserMessages: [BP_Laser_C_4] BP_Laser5
+[2021.09.25-13.40.46:026][742]LogBlueprintUserMessages: [BP_Laser_C_6] Wall11
+[2021.09.25-13.40.46:476][769]LogBlueprintUserMessages: [BP_Laser_C_7] BP_Laser5
+[2021.09.25-13.40.46:477][769]LogBlueprintUserMessages: [BP_Laser_C_5] BP_Laser7
+[2021.09.25-13.40.46:859][792]LogBlueprintUserMessages: [BP_Laser_C_8] Wall11
+[2021.09.25-13.40.47:259][816]LogBlueprintUserMessages: [BP_Laser_C_9] Wall11
+[2021.09.25-13.40.47:542][833]LogBlueprintUserMessages: [BP_Laser_C_10] BP_Laser9
+[2021.09.25-13.40.47:542][833]LogBlueprintUserMessages: [BP_Laser_C_9] BP_Laser10
+[2021.09.25-13.40.47:966][858]LogBlueprintUserMessages: [BP_Laser_C_11] BP_Laser8
+[2021.09.25-13.40.47:966][858]LogBlueprintUserMessages: [BP_Laser_C_8] BP_Laser11
+[2021.09.25-13.40.51:209][ 53]LogBlueprintUserMessages: [BP_Laser_C_12] Wall9
+[2021.09.25-13.40.51:793][ 88]LogBlueprintUserMessages: [BP_Laser_C_13] BP_Laser12
+[2021.09.25-13.40.51:793][ 88]LogBlueprintUserMessages: [BP_Laser_C_12] BP_Laser13
+[2021.09.25-13.40.52:061][104]LogBlueprintUserMessages: [BP_Laser_C_14] BP_Laser13
+[2021.09.25-13.40.52:061][104]LogBlueprintUserMessages: [BP_Laser_C_13] BP_Laser14
+[2021.09.25-13.40.52:293][118]LogBlueprintUserMessages: [BP_Laser_C_15] BP_Laser14
+[2021.09.25-13.40.52:293][118]LogBlueprintUserMessages: [BP_Laser_C_14] BP_Laser15
+[2021.09.25-13.40.52:526][132]LogBlueprintUserMessages: [BP_Laser_C_16] BP_Laser15
+[2021.09.25-13.40.52:526][132]LogBlueprintUserMessages: [BP_Laser_C_15] BP_Laser16
+[2021.09.25-13.40.52:792][148]LogBlueprintUserMessages: [BP_Laser_C_17] BP_Laser16
+[2021.09.25-13.40.52:792][148]LogBlueprintUserMessages: [BP_Laser_C_16] BP_Laser17
+[2021.09.25-13.40.53:076][165]LogBlueprintUserMessages: [BP_Laser_C_18] BP_Laser17
+[2021.09.25-13.40.53:076][165]LogBlueprintUserMessages: [BP_Laser_C_17] BP_Laser18
+[2021.09.25-13.40.53:726][204]LogBlueprintUserMessages: [BP_Laser_C_19] BP_Laser18
+[2021.09.25-13.40.53:726][204]LogBlueprintUserMessages: [BP_Laser_C_18] BP_Laser19
+[2021.09.25-13.40.53:977][219]LogBlueprintUserMessages: [BP_Laser_C_20] BP_Laser19
+[2021.09.25-13.40.53:977][219]LogBlueprintUserMessages: [BP_Laser_C_19] BP_Laser20
+[2021.09.25-13.40.56:709][383]LogBlueprintUserMessages: [BP_Laser_C_21] Wall9
+[2021.09.25-13.40.57:009][401]LogBlueprintUserMessages: [BP_Laser_C_22] BP_Laser21
+[2021.09.25-13.40.57:009][401]LogBlueprintUserMessages: [BP_Laser_C_21] BP_Laser22
+[2021.09.25-13.40.57:259][416]LogBlueprintUserMessages: [BP_Laser_C_23] BP_Laser22
+[2021.09.25-13.40.57:259][416]LogBlueprintUserMessages: [BP_Laser_C_22] BP_Laser23
+[2021.09.25-13.40.57:492][430]LogBlueprintUserMessages: [BP_Laser_C_24] BP_Laser23
+[2021.09.25-13.40.57:492][430]LogBlueprintUserMessages: [BP_Laser_C_23] BP_Laser24
+[2021.09.25-13.40.57:759][446]LogBlueprintUserMessages: [BP_Laser_C_25] BP_Laser24
+[2021.09.25-13.40.57:759][446]LogBlueprintUserMessages: [BP_Laser_C_24] BP_Laser25
+[2021.09.25-13.40.58:212][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-13.40.58:212][471]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-13.40.58:212][471]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-13.40.58:212][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.40.58:223][471]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-13.40.58:257][471]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.40.58:287][471]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.25-13.40.58:287][471]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-13.40.58:288][471]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-13.40.58:290][471]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-13.40.58:294][471]LogUObjectHash: Compacting FUObjectHashTables data took   2.76ms
+[2021.09.25-13.40.58:339][472]LogPlayLevel: Display: Destroying online subsystem :Context_23
+[2021.09.25-13.41.39:013][162]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/Enemy_Forest" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset" SILENT=true
+[2021.09.25-13.41.39:017][162]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Enemy_ForestE8AC954E4D284EE00D41B6B226E9F35A.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset'
+[2021.09.25-13.41.39:029][162]AssetCheck: New page: Asset Save: Enemy_Forest
+[2021.09.25-13.41.39:029][162]LogContentValidation: Display: Validating Blueprint /Game/_AI/Enemy_Forest.Enemy_Forest
+[2021.09.25-13.41.52:715][978]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-13.41.52:720][978]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.25-13.41.52:720][978]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 17:41:52)
+[2021.09.25-13.41.52:720][978]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-13.41.52:728][978]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007688s)
+[2021.09.25-13.41.52:729][978]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-13.41.52:729][978]LogPlayLevel: PIE: World Init took: (0.001318s)
+[2021.09.25-13.41.52:729][978]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009179s)
+[2021.09.25-13.41.52:763][978]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.09.25-13.41.52:765][978]LogAudio: Display: Creating Audio Device:                 Id: 13, Scope: Unique, Realtime: True
+[2021.09.25-13.41.52:765][978]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-13.41.52:765][978]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-13.41.52:765][978]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-13.41.52:765][978]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-13.41.52:765][978]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-13.41.52:765][978]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-13.41.52:765][978]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-13.41.52:765][978]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-13.41.52:766][978]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-13.41.52:766][978]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-13.41.52:766][978]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-13.41.52:766][978]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-13.41.52:768][978]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-13.41.52:768][978]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-13.41.52:774][978]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-13.41.52:774][978]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-13.41.52:774][978]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-13.41.52:774][978]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-13.41.52:774][978]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-13.41.52:774][978]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-13.41.52:774][978]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-13.41.52:775][978]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-13.41.52:775][978]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-13.41.52:775][978]LogInit: FAudioDevice initialized.
+[2021.09.25-13.41.52:775][978]LogAudio: Display: Audio Device (ID: 13) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-13.41.52:817][978]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-13.41.52:817][978]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-13.41.52:819][978]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.41.52:820][978]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-15.41.52
+[2021.09.25-13.41.52:821][978]LogWorld: Bringing up level for play took: 0.002774
+[2021.09.25-13.41.52:821][978]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2021.09.25-13.41.52:824][978]PIE: Server logged in
+[2021.09.25-13.41.52:825][978]PIE: Play in editor total start time 0,106 seconds.
+[2021.09.25-13.41.55:067][109]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.09.25-13.42.00:501][435]LogBlueprintUserMessages: [BP_Laser_C_0] Wall11
+[2021.09.25-13.42.00:872][456]LogBlueprintUserMessages: [BP_Laser_C_1] BP_Laser
+[2021.09.25-13.42.00:872][456]LogBlueprintUserMessages: [BP_Laser_C_0] BP_Laser1
+[2021.09.25-13.42.01:855][515]LogBlueprintUserMessages: [BP_Laser_C_2] Wall11
+[2021.09.25-13.42.03:339][604]LogBlueprintUserMessages: [BP_Laser_C_3] Wall11
+[2021.09.25-13.42.04:005][644]LogBlueprintUserMessages: [BP_Laser_C_4] Wall11
+[2021.09.25-13.42.04:572][678]LogBlueprintUserMessages: [BP_Laser_C_5] BP_Laser4
+[2021.09.25-13.42.04:572][678]LogBlueprintUserMessages: [BP_Laser_C_4] BP_Laser5
+[2021.09.25-13.42.04:922][699]LogBlueprintUserMessages: [BP_Laser_C_6] BP_Laser5
+[2021.09.25-13.42.04:922][699]LogBlueprintUserMessages: [BP_Laser_C_5] BP_Laser6
+[2021.09.25-13.42.05:388][727]LogBlueprintUserMessages: [BP_Laser_C_7] BP_Laser6
+[2021.09.25-13.42.05:388][727]LogBlueprintUserMessages: [BP_Laser_C_6] BP_Laser7
+[2021.09.25-13.42.06:210][774]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-13.42.06:210][774]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-13.42.06:212][774]LogSlate: Window 'WavesShooter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.25-13.42.06:215][774]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-13.42.06:215][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.42.06:230][774]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-13.42.06:267][774]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.42.06:297][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-13.42.06:298][774]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-13.42.06:303][774]LogUObjectHash: Compacting FUObjectHashTables data took   2.85ms
+[2021.09.25-13.42.06:316][775]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2021.09.25-13.42.54:056][374]BlueprintLog: New page: Compile Enemy_Forest
+[2021.09.25-13.42.54:185][374]LogUObjectHash: Compacting FUObjectHashTables data took   2.53ms
+[2021.09.25-13.42.54:886][406]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/Enemy_Forest" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset" SILENT=true
+[2021.09.25-13.42.54:893][406]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Enemy_Forest28231A084A8ED939C590C0A6B2D78A5C.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset'
+[2021.09.25-13.42.54:903][406]AssetCheck: New page: Asset Save: Enemy_Forest
+[2021.09.25-13.42.54:903][406]LogContentValidation: Display: Validating Blueprint /Game/_AI/Enemy_Forest.Enemy_Forest
+[2021.09.25-13.43.48:808][583]BlueprintLog: New page: Compile Enemy_Forest
+[2021.09.25-13.43.48:934][583]LogUObjectHash: Compacting FUObjectHashTables data took   3.47ms
+[2021.09.25-13.43.49:687][622]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/Enemy_Forest" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset" SILENT=true
+[2021.09.25-13.43.49:694][622]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Enemy_ForestC15638FB48BC4F9A2B550888B55D07B3.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset'
+[2021.09.25-13.43.49:704][622]AssetCheck: New page: Asset Save: Enemy_Forest
+[2021.09.25-13.43.49:704][622]LogContentValidation: Display: Validating Blueprint /Game/_AI/Enemy_Forest.Enemy_Forest
+[2021.09.25-13.44.13:159][472]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-13.44.13:163][472]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.25-13.44.13:163][472]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 17:44:13)
+[2021.09.25-13.44.13:163][472]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-13.44.13:172][472]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008806s)
+[2021.09.25-13.44.13:173][472]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-13.44.13:173][472]LogPlayLevel: PIE: World Init took: (0.001162s)
+[2021.09.25-13.44.13:173][472]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010097s)
+[2021.09.25-13.44.13:204][472]LogUObjectHash: Compacting FUObjectHashTables data took   2.93ms
+[2021.09.25-13.44.13:206][472]LogAudio: Display: Creating Audio Device:                 Id: 14, Scope: Unique, Realtime: True
+[2021.09.25-13.44.13:206][472]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-13.44.13:206][472]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-13.44.13:206][472]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-13.44.13:206][472]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-13.44.13:206][472]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-13.44.13:206][472]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-13.44.13:206][472]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-13.44.13:206][472]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-13.44.13:206][472]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-13.44.13:207][472]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-13.44.13:207][472]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-13.44.13:207][472]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-13.44.13:208][472]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-13.44.13:208][472]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-13.44.13:214][472]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-13.44.13:214][472]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-13.44.13:215][472]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-13.44.13:215][472]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-13.44.13:215][472]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-13.44.13:215][472]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-13.44.13:215][472]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-13.44.13:216][472]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-13.44.13:216][472]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-13.44.13:216][472]LogInit: FAudioDevice initialized.
+[2021.09.25-13.44.13:216][472]LogAudio: Display: Audio Device (ID: 14) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-13.44.13:223][472]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-13.44.13:224][472]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.44.13:225][472]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-15.44.13
+[2021.09.25-13.44.13:225][472]LogWorld: Bringing up level for play took: 0.001907
+[2021.09.25-13.44.13:225][472]LogOnline: OSS: Creating online subsystem instance for: :Context_25
+[2021.09.25-13.44.13:228][472]PIE: Server logged in
+[2021.09.25-13.44.13:228][472]PIE: Play in editor total start time 0,066 seconds.
+[2021.09.25-13.44.15:183][578]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.09.25-13.44.18:316][766]LogBlueprintUserMessages: [BP_Laser_C_0] Wall11
+[2021.09.25-13.44.18:767][793]LogBlueprintUserMessages: [BP_Laser_C_1] Wall11
+[2021.09.25-13.44.33:217][660]LogBlueprintUserMessages: [BP_Laser_C_2] Wall11
+[2021.09.25-13.44.34:100][713]LogBlueprintUserMessages: [BP_Laser_C_3] BP_Laser2
+[2021.09.25-13.44.34:100][713]LogBlueprintUserMessages: [BP_Laser_C_2] BP_Laser3
+[2021.09.25-13.44.34:650][746]LogBlueprintUserMessages: [BP_Laser_C_4] BP_Laser3
+[2021.09.25-13.44.34:650][746]LogBlueprintUserMessages: [BP_Laser_C_3] BP_Laser4
+[2021.09.25-13.44.37:267][903]LogBlueprintUserMessages: [BP_Laser_C_5] Wall11
+[2021.09.25-13.44.37:700][929]LogBlueprintUserMessages: [BP_Laser_C_6] Wall11
+[2021.09.25-13.44.37:867][939]LogBlueprintUserMessages: [BP_Laser_C_7] BP_Laser6
+[2021.09.25-13.44.37:867][939]LogBlueprintUserMessages: [BP_Laser_C_6] BP_Laser7
+[2021.09.25-13.44.38:067][951]LogBlueprintUserMessages: [BP_Laser_C_8] BP_Laser7
+[2021.09.25-13.44.38:067][951]LogBlueprintUserMessages: [BP_Laser_C_7] BP_Laser8
+[2021.09.25-13.44.38:351][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-13.44.38:351][966]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-13.44.38:351][966]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-13.44.38:351][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.44.38:362][966]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-13.44.38:394][966]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.44.38:420][966]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.25-13.44.38:420][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-13.44.38:422][966]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-13.44.38:423][966]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-13.44.38:427][966]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.09.25-13.44.38:467][967]LogPlayLevel: Display: Destroying online subsystem :Context_25
+[2021.09.25-13.46.07:047][ 20]BlueprintLog: New page: Compile Enemy_Forest
+[2021.09.25-13.46.07:168][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   2.61ms
+[2021.09.25-13.46.07:771][ 52]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/Enemy_Forest" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset" SILENT=true
+[2021.09.25-13.46.07:778][ 52]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Enemy_Forest8D98A2C24CB56F320135568F0644E1EE.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset'
+[2021.09.25-13.46.07:789][ 52]AssetCheck: New page: Asset Save: Enemy_Forest
+[2021.09.25-13.46.07:790][ 52]LogContentValidation: Display: Validating Blueprint /Game/_AI/Enemy_Forest.Enemy_Forest
+[2021.09.25-13.46.12:512][316]LogUObjectHash: Compacting FUObjectHashTables data took   2.83ms
+[2021.09.25-13.46.12:525][316]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMap8315F7E24F53AA8052E9E4B1FAF9E542.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.25-13.46.12:638][316]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMap_BuiltData4612F4594A9401F5E89044906A4A22DB.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.09.25-13.46.12:648][316]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.25-13.46.12:648][316]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.25-13.46.12:648][316]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.09.25-13.46.13:876][386]LogUObjectHash: Compacting FUObjectHashTables data took   2.34ms
+[2021.09.25-13.46.13:888][386]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMap293C0D284035979B8CE23BB4855EB73C.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.25-13.46.13:971][386]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMap_BuiltData48EF763447B0C0D89C185DB20E514FB5.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.09.25-13.46.13:982][386]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.25-13.46.13:982][386]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.25-13.46.13:983][386]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.09.25-13.46.16:782][550]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-13.46.16:787][550]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.25-13.46.16:787][550]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 17:46:16)
+[2021.09.25-13.46.16:787][550]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-13.46.16:795][550]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008270s)
+[2021.09.25-13.46.16:796][550]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-13.46.16:796][550]LogPlayLevel: PIE: World Init took: (0.001144s)
+[2021.09.25-13.46.16:796][550]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009532s)
+[2021.09.25-13.46.16:826][550]LogUObjectHash: Compacting FUObjectHashTables data took   2.45ms
+[2021.09.25-13.46.16:828][550]LogAudio: Display: Creating Audio Device:                 Id: 15, Scope: Unique, Realtime: True
+[2021.09.25-13.46.16:828][550]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-13.46.16:828][550]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-13.46.16:828][550]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-13.46.16:828][550]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-13.46.16:828][550]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-13.46.16:828][550]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-13.46.16:828][550]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-13.46.16:828][550]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-13.46.16:828][550]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-13.46.16:828][550]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-13.46.16:828][550]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-13.46.16:828][550]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-13.46.16:830][550]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-13.46.16:830][550]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-13.46.16:836][550]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-13.46.16:836][550]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-13.46.16:836][550]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-13.46.16:836][550]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-13.46.16:837][550]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-13.46.16:837][550]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-13.46.16:837][550]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-13.46.16:838][550]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-13.46.16:838][550]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-13.46.16:838][550]LogInit: FAudioDevice initialized.
+[2021.09.25-13.46.16:838][550]LogAudio: Display: Audio Device (ID: 15) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-13.46.16:843][550]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-13.46.16:844][550]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.46.16:845][550]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-15.46.16
+[2021.09.25-13.46.16:845][550]LogWorld: Bringing up level for play took: 0.001844
+[2021.09.25-13.46.16:845][550]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2021.09.25-13.46.16:847][550]PIE: Server logged in
+[2021.09.25-13.46.16:848][550]PIE: Play in editor total start time 0,063 seconds.
+[2021.09.25-13.46.19:127][685]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.09.25-13.46.21:810][846]LogBlueprintUserMessages: [BP_Laser_C_0] Wall11
+[2021.09.25-13.46.21:976][856]LogBlueprintUserMessages: [BP_Laser_C_1] Enemy_Forest
+[2021.09.25-13.46.22:243][872]LogBlueprintUserMessages: [BP_Laser_C_2] BP_Laser1
+[2021.09.25-13.46.22:243][872]LogBlueprintUserMessages: [BP_Laser_C_1] BP_Laser2
+[2021.09.25-13.46.30:344][358]LogBlueprintUserMessages: [BP_Laser_C_3] Enemy_Forest
+[2021.09.25-13.46.30:894][391]LogBlueprintUserMessages: [BP_Laser_C_4] BP_Laser3
+[2021.09.25-13.46.30:894][391]LogBlueprintUserMessages: [BP_Laser_C_3] BP_Laser4
+[2021.09.25-13.46.31:194][409]LogBlueprintUserMessages: [BP_Laser_C_5] BP_Laser4
+[2021.09.25-13.46.31:194][409]LogBlueprintUserMessages: [BP_Laser_C_4] BP_Laser5
+[2021.09.25-13.46.31:394][421]LogBlueprintUserMessages: [BP_Laser_C_6] BP_Laser5
+[2021.09.25-13.46.31:394][421]LogBlueprintUserMessages: [BP_Laser_C_5] BP_Laser6
+[2021.09.25-13.46.31:610][434]LogBlueprintUserMessages: [BP_Laser_C_7] BP_Laser6
+[2021.09.25-13.46.31:611][434]LogBlueprintUserMessages: [BP_Laser_C_6] BP_Laser7
+[2021.09.25-13.46.36:553][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-13.46.36:553][729]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-13.46.36:553][729]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-13.46.36:553][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.46.36:559][729]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-13.46.36:591][729]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.46.36:618][729]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-13.46.36:619][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-13.46.36:619][729]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-13.46.36:625][729]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.09.25-13.46.36:665][730]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2021.09.25-13.50.33:692][708]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/BP_EnemyBase" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset" SILENT=true
+[2021.09.25-13.50.33:696][708]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_EnemyBaseAFDE48FE40A7D83827B5AF97F088724F.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset'
+[2021.09.25-13.50.33:709][708]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2021.09.25-13.50.33:709][708]LogContentValidation: Display: Validating Blueprint /Game/_AI/BP_EnemyBase.BP_EnemyBase
+[2021.09.25-13.50.43:108][146]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/Enemy_Forest" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset" SILENT=true
+[2021.09.25-13.50.43:116][146]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Enemy_Forest0826146E494E3B2A7A42D5A765547E1A.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/Enemy_Forest.uasset'
+[2021.09.25-13.50.43:125][146]AssetCheck: New page: Asset Save: Enemy_Forest
+[2021.09.25-13.50.43:126][146]LogContentValidation: Display: Validating Blueprint /Game/_AI/Enemy_Forest.Enemy_Forest
+[2021.09.25-13.50.43:908][193]BlueprintLog: New page: Compile Enemy_Forest
+[2021.09.25-13.50.44:024][193]LogUObjectHash: Compacting FUObjectHashTables data took   2.69ms
+[2021.09.25-13.50.46:292][319]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Laser" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/BP_Laser.uasset" SILENT=true
+[2021.09.25-13.50.46:300][319]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_LaserFD3A5F2147A5D999B13C27BAE769D6D1.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/BP_Laser.uasset'
+[2021.09.25-13.50.46:311][319]AssetCheck: New page: Asset Save: BP_Laser
+[2021.09.25-13.50.46:311][319]LogContentValidation: Display: Validating Blueprint /Game/BP_Laser.BP_Laser
+[2021.09.25-13.50.46:959][358]BlueprintLog: New page: Compile BP_Laser
+[2021.09.25-13.50.47:011][358]LogUObjectHash: Compacting FUObjectHashTables data took   3.27ms
+[2021.09.25-13.50.47:017][358]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.50.47:018][358]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.50.47:019][358]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.50.47:020][358]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.50.47:025][358]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.50.47:026][358]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.50.47:027][358]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.50.47:028][358]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.52.43:286][365]BlueprintLog: New page: Compile BP_Laser
+[2021.09.25-13.52.43:335][365]LogUObjectHash: Compacting FUObjectHashTables data took   3.31ms
+[2021.09.25-13.52.43:341][365]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.52.43:342][365]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.52.43:344][365]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.52.43:345][365]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.52.43:350][365]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.52.43:351][365]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.52.43:352][365]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.52.43:353][365]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.52.45:069][466]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-13.52.45:075][466]BlueprintLog: New page: Pre-Play auto-recompile
+[2021.09.25-13.52.45:075][466]LogPlayLevel: [PlayLevel] Compiling BP_EnemyBase before play...
+[2021.09.25-13.52.45:075][466]LogPlayLevel: [PlayLevel]   Compiling Enemy_Forest as a dependent...
+[2021.09.25-13.52.45:200][466]LogUObjectHash: Compacting FUObjectHashTables data took   3.09ms
+[2021.09.25-13.52.45:200][466]LogPlayLevel: PlayLevel: Blueprint regeneration took 125 ms (2 blueprints)
+[2021.09.25-13.52.45:200][466]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 17:52:45)
+[2021.09.25-13.52.45:200][466]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-13.52.45:209][466]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008640s)
+[2021.09.25-13.52.45:210][466]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-13.52.45:210][466]LogPlayLevel: PIE: World Init took: (0.001356s)
+[2021.09.25-13.52.45:210][466]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.010153s)
+[2021.09.25-13.52.45:241][466]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.09.25-13.52.45:242][466]LogAudio: Display: Creating Audio Device:                 Id: 16, Scope: Unique, Realtime: True
+[2021.09.25-13.52.45:242][466]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-13.52.45:242][466]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-13.52.45:242][466]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-13.52.45:242][466]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-13.52.45:242][466]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-13.52.45:242][466]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-13.52.45:242][466]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-13.52.45:242][466]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-13.52.45:243][466]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-13.52.45:243][466]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-13.52.45:243][466]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-13.52.45:243][466]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-13.52.45:245][466]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-13.52.45:245][466]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-13.52.45:251][466]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-13.52.45:251][466]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-13.52.45:251][466]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-13.52.45:251][466]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-13.52.45:252][466]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-13.52.45:252][466]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-13.52.45:252][466]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-13.52.45:253][466]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-13.52.45:253][466]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-13.52.45:253][466]LogInit: FAudioDevice initialized.
+[2021.09.25-13.52.45:253][466]LogAudio: Display: Audio Device (ID: 16) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-13.52.45:289][466]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-13.52.45:289][466]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-13.52.45:290][466]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.52.45:292][466]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-15.52.45
+[2021.09.25-13.52.45:292][466]LogWorld: Bringing up level for play took: 0.002607
+[2021.09.25-13.52.45:292][466]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2021.09.25-13.52.45:295][466]PIE: Server logged in
+[2021.09.25-13.52.45:296][466]PIE: Play in editor total start time 0,223 seconds.
+[2021.09.25-13.52.47:419][589]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.09.25-13.52.50:785][791]LogBlueprintUserMessages: [BP_Laser_C_0] CubeMesh
+[2021.09.25-13.52.51:902][858]LogBlueprintUserMessages: [BP_Laser_C_1] CubeMesh
+[2021.09.25-13.52.52:319][883]LogBlueprintUserMessages: [BP_Laser_C_2] CubeMesh
+[2021.09.25-13.52.52:752][909]LogBlueprintUserMessages: [BP_Laser_C_3] CubeMesh
+[2021.09.25-13.52.53:470][952]LogBlueprintUserMessages: [BP_Laser_C_4] Wall10
+[2021.09.25-13.52.53:953][981]LogBlueprintUserMessages: [BP_Laser_C_5] Wall10
+[2021.09.25-13.52.54:269][  0]LogBlueprintUserMessages: [BP_Laser_C_6] Wall10
+[2021.09.25-13.52.54:435][ 10]LogBlueprintUserMessages: [BP_Laser_C_7] Wall10
+[2021.09.25-13.52.54:752][ 29]LogBlueprintUserMessages: [BP_Laser_C_8] Wall10
+[2021.09.25-13.52.54:936][ 40]LogBlueprintUserMessages: [BP_Laser_C_9] Wall10
+[2021.09.25-13.52.55:364][ 63]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-13.52.55:364][ 63]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-13.52.55:365][ 63]LogSlate: Window 'WavesShooter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.25-13.52.55:370][ 63]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-13.52.55:370][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.52.55:381][ 63]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-13.52.55:414][ 63]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.52.55:441][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-13.52.55:442][ 63]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-13.52.55:447][ 63]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.09.25-13.52.55:463][ 64]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2021.09.25-13.53.38:751][996]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2021.09.25-13.55.24:827][994]BlueprintLog: New page: Compile BP_Laser
+[2021.09.25-13.55.24:881][994]LogUObjectHash: Compacting FUObjectHashTables data took   3.58ms
+[2021.09.25-13.55.24:887][994]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.55.24:889][994]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.55.24:890][994]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.55.24:891][994]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.55.24:897][994]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.55.24:898][994]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.55.24:899][994]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.55.24:901][994]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.55.26:520][ 86]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Laser" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/BP_Laser.uasset" SILENT=true
+[2021.09.25-13.55.26:531][ 86]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_Laser3390D6C349D4CCF4885E15BF19C92A1B.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/BP_Laser.uasset'
+[2021.09.25-13.55.26:543][ 86]AssetCheck: New page: Asset Save: BP_Laser
+[2021.09.25-13.55.26:544][ 86]LogContentValidation: Display: Validating Blueprint /Game/BP_Laser.BP_Laser
+[2021.09.25-13.57.26:689][370]LogEditorTransaction: Undo Create Pin Link
+[2021.09.25-13.57.48:317][ 75]BlueprintLog: New page: Compile BP_EnemyBase
+[2021.09.25-13.57.48:429][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   3.18ms
+[2021.09.25-13.57.49:301][117]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/BP_EnemyBase" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset" SILENT=true
+[2021.09.25-13.57.49:305][117]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_EnemyBase68E70A224B67C8F292A24C9912FA7095.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset'
+[2021.09.25-13.57.49:317][117]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2021.09.25-13.57.49:317][117]LogContentValidation: Display: Validating Blueprint /Game/_AI/BP_EnemyBase.BP_EnemyBase
+[2021.09.25-13.57.51:203][224]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-13.57.51:207][224]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.25-13.57.51:207][224]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 17:57:51)
+[2021.09.25-13.57.51:207][224]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-13.57.51:216][224]LogPlayLevel: PIE: StaticDuplicateObject took: (0.008260s)
+[2021.09.25-13.57.51:217][224]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-13.57.51:217][224]LogPlayLevel: PIE: World Init took: (0.001096s)
+[2021.09.25-13.57.51:217][224]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009496s)
+[2021.09.25-13.57.51:249][224]LogUObjectHash: Compacting FUObjectHashTables data took   2.94ms
+[2021.09.25-13.57.51:250][224]LogAudio: Display: Creating Audio Device:                 Id: 17, Scope: Unique, Realtime: True
+[2021.09.25-13.57.51:250][224]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-13.57.51:250][224]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-13.57.51:250][224]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-13.57.51:250][224]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-13.57.51:250][224]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-13.57.51:250][224]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-13.57.51:250][224]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-13.57.51:250][224]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-13.57.51:250][224]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-13.57.51:251][224]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-13.57.51:251][224]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-13.57.51:251][224]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-13.57.51:252][224]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-13.57.51:252][224]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-13.57.51:258][224]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-13.57.51:258][224]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-13.57.51:258][224]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-13.57.51:258][224]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-13.57.51:258][224]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-13.57.51:258][224]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-13.57.51:259][224]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-13.57.51:259][224]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-13.57.51:259][224]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-13.57.51:259][224]LogInit: FAudioDevice initialized.
+[2021.09.25-13.57.51:259][224]LogAudio: Display: Audio Device (ID: 17) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-13.57.51:315][224]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-13.57.51:315][224]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-13.57.51:317][224]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.57.51:318][224]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-15.57.51
+[2021.09.25-13.57.51:318][224]LogWorld: Bringing up level for play took: 0.002659
+[2021.09.25-13.57.51:318][224]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2021.09.25-13.57.51:322][224]PIE: Server logged in
+[2021.09.25-13.57.51:323][224]PIE: Play in editor total start time 0,117 seconds.
+[2021.09.25-13.57.53:547][342]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.09.25-13.57.57:964][607]LogBlueprintUserMessages: [BP_Laser_C_2] BP_Laser1
+[2021.09.25-13.57.57:971][607]LogScript: Warning: Attempted to access BP_Laser_C_2 via property K2Node_Event_Other, but BP_Laser_C_2 is pending kill
+	BP_Laser_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Laser_C_1
+	Function /Game/BP_Laser.BP_Laser_C:ExecuteUbergraph_BP_Laser:00DF
+[2021.09.25-13.57.57:971][607]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Laser_C_2 via property K2Node_Event_Other, but BP_Laser_C_2 is pending kill". Blueprint:  BP_Laser Function:  Execute Ubergraph BP Laser Graph:  EventGraph Node:  Branch
+[2021.09.25-13.57.57:971][607]LogBlueprintUserMessages: [BP_Laser_C_1] BP_Laser2
+[2021.09.25-13.57.59:097][675]LogBlueprintUserMessages: [BP_Laser_C_4] BP_Laser3
+[2021.09.25-13.57.59:097][675]LogScript: Warning: Attempted to access BP_Laser_C_4 via property K2Node_Event_Other, but BP_Laser_C_4 is pending kill
+	BP_Laser_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Laser_C_3
+	Function /Game/BP_Laser.BP_Laser_C:ExecuteUbergraph_BP_Laser:00DF
+[2021.09.25-13.57.59:097][675]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Laser_C_4 via property K2Node_Event_Other, but BP_Laser_C_4 is pending kill". Blueprint:  BP_Laser Function:  Execute Ubergraph BP Laser Graph:  EventGraph Node:  Branch
+[2021.09.25-13.57.59:097][675]LogBlueprintUserMessages: [BP_Laser_C_3] BP_Laser4
+[2021.09.25-13.58.00:265][745]LogBlueprintUserMessages: [BP_Laser_C_6] BP_Laser5
+[2021.09.25-13.58.00:265][745]LogScript: Warning: Attempted to access BP_Laser_C_6 via property K2Node_Event_Other, but BP_Laser_C_6 is pending kill
+	BP_Laser_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Laser_C_5
+	Function /Game/BP_Laser.BP_Laser_C:ExecuteUbergraph_BP_Laser:00DF
+[2021.09.25-13.58.00:265][745]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Laser_C_6 via property K2Node_Event_Other, but BP_Laser_C_6 is pending kill". Blueprint:  BP_Laser Function:  Execute Ubergraph BP Laser Graph:  EventGraph Node:  Branch
+[2021.09.25-13.58.00:265][745]LogBlueprintUserMessages: [BP_Laser_C_5] BP_Laser6
+[2021.09.25-13.58.01:036][789]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-13.58.01:036][789]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-13.58.01:036][789]LogSlate: Window 'WavesShooter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.25-13.58.01:040][789]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-13.58.01:041][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.58.01:048][789]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-13.58.01:081][789]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.58.01:111][789]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.25-13.58.01:111][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-13.58.01:112][789]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-13.58.01:118][789]LogUObjectHash: Compacting FUObjectHashTables data took   2.57ms
+[2021.09.25-13.58.01:207][790]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2021.09.25-13.58.06:225][826]LogSlate: Window 'Message Log' being destroyed
+[2021.09.25-13.58.06:247][826]LogSlate: Window 'Message Log' being destroyed
+[2021.09.25-13.58.26:675][571]BlueprintLog: New page: Compile BP_Laser
+[2021.09.25-13.58.26:733][571]LogUObjectHash: Compacting FUObjectHashTables data took   3.44ms
+[2021.09.25-13.58.26:740][571]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.58.26:741][571]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.58.26:743][571]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.58.26:745][571]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.58.26:750][571]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.58.26:751][571]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.58.26:752][571]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.58.26:753][571]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.58.35:787][980]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Laser" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/BP_Laser.uasset" SILENT=true
+[2021.09.25-13.58.35:797][980]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_Laser201F77A64276A0F54FDB4B93DD6CA0FE.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/BP_Laser.uasset'
+[2021.09.25-13.58.35:810][980]AssetCheck: New page: Asset Save: BP_Laser
+[2021.09.25-13.58.35:810][980]LogContentValidation: Display: Validating Blueprint /Game/BP_Laser.BP_Laser
+[2021.09.25-13.58.38:251][122]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-13.58.38:255][122]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.25-13.58.38:255][122]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 17:58:38)
+[2021.09.25-13.58.38:256][122]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-13.58.38:263][122]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007770s)
+[2021.09.25-13.58.38:264][122]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-13.58.38:265][122]LogPlayLevel: PIE: World Init took: (0.001192s)
+[2021.09.25-13.58.38:265][122]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.009120s)
+[2021.09.25-13.58.38:296][122]LogUObjectHash: Compacting FUObjectHashTables data took   3.12ms
+[2021.09.25-13.58.38:297][122]LogAudio: Display: Creating Audio Device:                 Id: 18, Scope: Unique, Realtime: True
+[2021.09.25-13.58.38:297][122]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-13.58.38:297][122]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-13.58.38:297][122]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-13.58.38:297][122]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-13.58.38:297][122]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-13.58.38:297][122]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-13.58.38:297][122]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-13.58.38:297][122]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-13.58.38:298][122]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-13.58.38:298][122]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-13.58.38:298][122]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-13.58.38:298][122]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-13.58.38:299][122]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-13.58.38:299][122]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-13.58.38:305][122]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-13.58.38:306][122]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-13.58.38:306][122]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-13.58.38:306][122]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-13.58.38:306][122]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-13.58.38:306][122]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-13.58.38:306][122]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-13.58.38:307][122]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-13.58.38:307][122]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-13.58.38:307][122]LogInit: FAudioDevice initialized.
+[2021.09.25-13.58.38:307][122]LogAudio: Display: Audio Device (ID: 18) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-13.58.38:332][122]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-13.58.38:333][122]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-13.58.38:334][122]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.58.38:335][122]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-15.58.38
+[2021.09.25-13.58.38:335][122]LogWorld: Bringing up level for play took: 0.002491
+[2021.09.25-13.58.38:336][122]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2021.09.25-13.58.38:339][122]PIE: Server logged in
+[2021.09.25-13.58.38:340][122]PIE: Play in editor total start time 0,085 seconds.
+[2021.09.25-13.58.40:644][219]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.09.25-13.58.42:977][359]LogBlueprintUserMessages: [BP_Laser_C_0] Linear_Stair_StaticMesh
+[2021.09.25-13.58.44:460][448]LogBlueprintUserMessages: [BP_Laser_C_1] Wall11
+[2021.09.25-13.58.45:259][496]LogBlueprintUserMessages: [BP_Laser_C_2] Wall11
+[2021.09.25-13.58.46:143][549]LogBlueprintUserMessages: [BP_Laser_C_3] Wall11
+[2021.09.25-13.58.46:617][577]LogBlueprintUserMessages: [Enemy_Forest_2] 25.0
+[2021.09.25-13.58.47:643][639]LogBlueprintUserMessages: [BP_Laser_C_5] BP_Laser4
+[2021.09.25-13.58.47:643][639]LogScript: Warning: Attempted to access BP_Laser_C_5 via property K2Node_Event_Other, but BP_Laser_C_5 is pending kill
+	BP_Laser_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Laser_C_4
+	Function /Game/BP_Laser.BP_Laser_C:ExecuteUbergraph_BP_Laser:0079
+[2021.09.25-13.58.47:643][639]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Laser_C_5 via property K2Node_Event_Other, but BP_Laser_C_5 is pending kill". Blueprint:  BP_Laser Function:  Execute Ubergraph BP Laser Graph:  EventGraph Node:  Branch
+[2021.09.25-13.58.47:643][639]LogBlueprintUserMessages: [BP_Laser_C_4] BP_Laser5
+[2021.09.25-13.58.48:143][669]LogBlueprintUserMessages: [Enemy_Forest_2] 25.0
+[2021.09.25-13.58.48:576][695]LogBlueprintUserMessages: [BP_Laser_C_7] BP_Laser6
+[2021.09.25-13.58.48:576][695]LogScript: Warning: Attempted to access BP_Laser_C_7 via property K2Node_Event_Other, but BP_Laser_C_7 is pending kill
+	BP_Laser_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Laser_C_6
+	Function /Game/BP_Laser.BP_Laser_C:ExecuteUbergraph_BP_Laser:0079
+[2021.09.25-13.58.48:577][695]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Laser_C_7 via property K2Node_Event_Other, but BP_Laser_C_7 is pending kill". Blueprint:  BP_Laser Function:  Execute Ubergraph BP Laser Graph:  EventGraph Node:  Branch
+[2021.09.25-13.58.48:577][695]LogBlueprintUserMessages: [BP_Laser_C_6] BP_Laser7
+[2021.09.25-13.58.48:910][715]LogBlueprintUserMessages: [Enemy_Forest_2] 25.0
+[2021.09.25-13.58.49:293][738]LogBlueprintUserMessages: [BP_Laser_C_9] BP_Laser8
+[2021.09.25-13.58.49:293][738]LogScript: Warning: Attempted to access BP_Laser_C_9 via property K2Node_Event_Other, but BP_Laser_C_9 is pending kill
+	BP_Laser_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Laser_C_8
+	Function /Game/BP_Laser.BP_Laser_C:ExecuteUbergraph_BP_Laser:0079
+[2021.09.25-13.58.49:293][738]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Laser_C_9 via property K2Node_Event_Other, but BP_Laser_C_9 is pending kill". Blueprint:  BP_Laser Function:  Execute Ubergraph BP Laser Graph:  EventGraph Node:  Branch
+[2021.09.25-13.58.49:293][738]LogBlueprintUserMessages: [BP_Laser_C_8] BP_Laser9
+[2021.09.25-13.58.49:577][755]LogBlueprintUserMessages: [Enemy_Forest_2] 25.0
+[2021.09.25-13.58.49:877][773]LogBlueprintUserMessages: [BP_Laser_C_11] BP_Laser10
+[2021.09.25-13.58.49:877][773]LogScript: Warning: Attempted to access BP_Laser_C_11 via property K2Node_Event_Other, but BP_Laser_C_11 is pending kill
+	BP_Laser_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Laser_C_10
+	Function /Game/BP_Laser.BP_Laser_C:ExecuteUbergraph_BP_Laser:0079
+[2021.09.25-13.58.49:877][773]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Laser_C_11 via property K2Node_Event_Other, but BP_Laser_C_11 is pending kill". Blueprint:  BP_Laser Function:  Execute Ubergraph BP Laser Graph:  EventGraph Node:  Branch
+[2021.09.25-13.58.49:877][773]LogBlueprintUserMessages: [BP_Laser_C_10] BP_Laser11
+[2021.09.25-13.58.50:159][790]LogBlueprintUserMessages: [Enemy_Forest_2] 25.0
+[2021.09.25-13.58.50:426][806]LogBlueprintUserMessages: [BP_Laser_C_13] BP_Laser12
+[2021.09.25-13.58.50:426][806]LogScript: Warning: Attempted to access BP_Laser_C_13 via property K2Node_Event_Other, but BP_Laser_C_13 is pending kill
+	BP_Laser_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Laser_C_12
+	Function /Game/BP_Laser.BP_Laser_C:ExecuteUbergraph_BP_Laser:0079
+[2021.09.25-13.58.50:426][806]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Laser_C_13 via property K2Node_Event_Other, but BP_Laser_C_13 is pending kill". Blueprint:  BP_Laser Function:  Execute Ubergraph BP Laser Graph:  EventGraph Node:  Branch
+[2021.09.25-13.58.50:426][806]LogBlueprintUserMessages: [BP_Laser_C_12] BP_Laser13
+[2021.09.25-13.58.50:677][821]LogBlueprintUserMessages: [Enemy_Forest_2] 25.0
+[2021.09.25-13.58.50:910][835]LogBlueprintUserMessages: [BP_Laser_C_15] BP_Laser14
+[2021.09.25-13.58.50:910][835]LogScript: Warning: Attempted to access BP_Laser_C_15 via property K2Node_Event_Other, but BP_Laser_C_15 is pending kill
+	BP_Laser_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Laser_C_14
+	Function /Game/BP_Laser.BP_Laser_C:ExecuteUbergraph_BP_Laser:0079
+[2021.09.25-13.58.50:910][835]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Laser_C_15 via property K2Node_Event_Other, but BP_Laser_C_15 is pending kill". Blueprint:  BP_Laser Function:  Execute Ubergraph BP Laser Graph:  EventGraph Node:  Branch
+[2021.09.25-13.58.50:910][835]LogBlueprintUserMessages: [BP_Laser_C_14] BP_Laser15
+[2021.09.25-13.58.51:427][864]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-13.58.51:427][864]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-13.58.51:428][864]LogSlate: Window 'WavesShooter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.25-13.58.51:432][864]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-13.58.51:432][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.58.51:441][864]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-13.58.51:474][864]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-13.58.51:503][864]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.25-13.58.51:503][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-13.58.51:504][864]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-13.58.51:510][864]LogUObjectHash: Compacting FUObjectHashTables data took   2.28ms
+[2021.09.25-13.58.51:592][865]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2021.09.25-13.59.18:164][803]LogSlate: Window 'Message Log' being destroyed
+[2021.09.25-13.59.18:168][803]LogSlate: Window 'Message Log' being destroyed
+[2021.09.25-13.59.49:809][667]LogUObjectHash: Compacting FUObjectHashTables data took   2.51ms
+[2021.09.25-13.59.49:821][667]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMap_Auto4E6594E054C6577E5A0DBA4A779AE8ACB.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto4.umap'
+[2021.09.25-13.59.49:823][667]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.044
+[2021.09.25-13.59.49:823][667]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.044
+[2021.09.25-13.59.50:141][684]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-13.59.50:146][684]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.25-13.59.50:146][684]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 17:59:50)
+[2021.09.25-13.59.50:146][684]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-13.59.50:154][684]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007604s)
+[2021.09.25-13.59.50:154][684]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-13.59.50:155][684]LogPlayLevel: PIE: World Init took: (0.000844s)
+[2021.09.25-13.59.50:155][684]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.008562s)
+[2021.09.25-13.59.50:185][684]LogUObjectHash: Compacting FUObjectHashTables data took   2.37ms
+[2021.09.25-13.59.50:185][684]LogAudio: Display: Creating Audio Device:                 Id: 19, Scope: Unique, Realtime: True
+[2021.09.25-13.59.50:185][684]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-13.59.50:185][684]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-13.59.50:185][684]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-13.59.50:185][684]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-13.59.50:185][684]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-13.59.50:185][684]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-13.59.50:185][684]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-13.59.50:185][684]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-13.59.50:186][684]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-13.59.50:186][684]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-13.59.50:186][684]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-13.59.50:186][684]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-13.59.50:188][684]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-13.59.50:188][684]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-13.59.50:194][684]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-13.59.50:194][684]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-13.59.50:194][684]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-13.59.50:194][684]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-13.59.50:194][684]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-13.59.50:194][684]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-13.59.50:194][684]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-13.59.50:195][684]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-13.59.50:195][684]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-13.59.50:195][684]LogInit: FAudioDevice initialized.
+[2021.09.25-13.59.50:195][684]LogAudio: Display: Audio Device (ID: 19) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-13.59.50:242][684]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-13.59.50:242][684]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-13.59.50:243][684]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-13.59.50:244][684]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-15.59.50
+[2021.09.25-13.59.50:245][684]LogWorld: Bringing up level for play took: 0.002587
+[2021.09.25-13.59.50:245][684]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2021.09.25-13.59.50:248][684]PIE: Server logged in
+[2021.09.25-13.59.50:249][684]PIE: Play in editor total start time 0,105 seconds.
+[2021.09.25-13.59.52:480][802]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.09.25-13.59.59:563][227]LogBlueprintUserMessages: [Enemy_Forest_2] 25.0
+[2021.09.25-13.59.59:830][243]LogBlueprintUserMessages: [BP_Laser_C_1] BP_Laser
+[2021.09.25-13.59.59:830][243]LogScript: Warning: Attempted to access BP_Laser_C_1 via property K2Node_Event_Other, but BP_Laser_C_1 is pending kill
+	BP_Laser_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Laser_C_0
+	Function /Game/BP_Laser.BP_Laser_C:ExecuteUbergraph_BP_Laser:0079
+[2021.09.25-13.59.59:830][243]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Laser_C_1 via property K2Node_Event_Other, but BP_Laser_C_1 is pending kill". Blueprint:  BP_Laser Function:  Execute Ubergraph BP Laser Graph:  EventGraph Node:  Branch
+[2021.09.25-13.59.59:830][243]LogBlueprintUserMessages: [BP_Laser_C_0] BP_Laser1
+[2021.09.25-14.00.00:063][257]LogBlueprintUserMessages: [Enemy_Forest_2] 25.0
+[2021.09.25-14.00.00:263][269]LogBlueprintUserMessages: [BP_Laser_C_3] BP_Laser2
+[2021.09.25-14.00.00:263][269]LogScript: Warning: Attempted to access BP_Laser_C_3 via property K2Node_Event_Other, but BP_Laser_C_3 is pending kill
+	BP_Laser_C /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap:PersistentLevel.BP_Laser_C_2
+	Function /Game/BP_Laser.BP_Laser_C:ExecuteUbergraph_BP_Laser:0079
+[2021.09.25-14.00.00:263][269]PIE: Error: Blueprint Runtime Error: "Attempted to access BP_Laser_C_3 via property K2Node_Event_Other, but BP_Laser_C_3 is pending kill". Blueprint:  BP_Laser Function:  Execute Ubergraph BP Laser Graph:  EventGraph Node:  Branch
+[2021.09.25-14.00.00:263][269]LogBlueprintUserMessages: [BP_Laser_C_2] BP_Laser3
+[2021.09.25-14.00.01:687][352]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-14.00.01:687][352]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-14.00.01:688][352]LogSlate: Window 'WavesShooter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.25-14.00.01:692][352]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-14.00.01:693][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-14.00.01:701][352]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-14.00.01:733][352]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-14.00.01:760][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-14.00.01:761][352]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-14.00.01:767][352]LogUObjectHash: Compacting FUObjectHashTables data took   2.39ms
+[2021.09.25-14.00.01:869][353]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2021.09.25-14.00.18:081][313]LogSlate: Window 'Message Log' being destroyed
+[2021.09.25-14.00.18:085][313]LogSlate: Window 'Message Log' being destroyed
+[2021.09.25-14.27.25:669][536]BlueprintLog: New page: Compile BP_Laser
+[2021.09.25-14.27.25:732][536]LogUObjectHash: Compacting FUObjectHashTables data took   3.62ms
+[2021.09.25-14.27.25:739][536]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.27.25:740][536]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.27.25:741][536]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.27.25:743][536]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.27.25:749][536]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.27.25:750][536]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.27.25:751][536]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.27.25:753][536]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.27.47:821][839]BlueprintLog: New page: Compile BP_Laser
+[2021.09.25-14.27.47:875][839]LogUObjectHash: Compacting FUObjectHashTables data took   3.88ms
+[2021.09.25-14.27.47:881][839]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.27.47:882][839]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.27.47:884][839]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.27.47:885][839]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.27.47:891][839]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.27.47:892][839]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.27.47:893][839]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.27.47:894][839]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.27.48:921][891]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/BP_Laser" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/BP_Laser.uasset" SILENT=true
+[2021.09.25-14.27.48:933][891]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_LaserFDCBC4F6479CAB9E6CCFE8B769ACABBE.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/BP_Laser.uasset'
+[2021.09.25-14.27.48:946][891]AssetCheck: New page: Asset Save: BP_Laser
+[2021.09.25-14.27.48:946][891]LogContentValidation: Display: Validating Blueprint /Game/BP_Laser.BP_Laser
+[2021.09.25-14.27.50:206][965]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-14.27.50:210][965]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.25-14.27.50:210][965]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 18:27:50)
+[2021.09.25-14.27.50:210][965]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-14.27.50:220][965]LogPlayLevel: PIE: StaticDuplicateObject took: (0.009210s)
+[2021.09.25-14.27.50:221][965]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-14.27.50:222][965]LogPlayLevel: PIE: World Init took: (0.001887s)
+[2021.09.25-14.27.50:222][965]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.011320s)
+[2021.09.25-14.27.50:256][965]LogUObjectHash: Compacting FUObjectHashTables data took   3.81ms
+[2021.09.25-14.27.50:257][965]LogAudio: Display: Creating Audio Device:                 Id: 20, Scope: Unique, Realtime: True
+[2021.09.25-14.27.50:258][965]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-14.27.50:258][965]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-14.27.50:258][965]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-14.27.50:258][965]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-14.27.50:258][965]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-14.27.50:258][965]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-14.27.50:258][965]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-14.27.50:258][965]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-14.27.50:258][965]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-14.27.50:258][965]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-14.27.50:258][965]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-14.27.50:258][965]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-14.27.50:260][965]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-14.27.50:260][965]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-14.27.50:267][965]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-14.27.50:267][965]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-14.27.50:267][965]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-14.27.50:267][965]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-14.27.50:267][965]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-14.27.50:267][965]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-14.27.50:267][965]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-14.27.50:269][965]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-14.27.50:269][965]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-14.27.50:269][965]LogInit: FAudioDevice initialized.
+[2021.09.25-14.27.50:269][965]LogAudio: Display: Audio Device (ID: 20) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-14.27.50:322][965]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-14.27.50:322][965]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-14.27.50:324][965]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-14.27.50:325][965]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-16.27.50
+[2021.09.25-14.27.50:325][965]LogWorld: Bringing up level for play took: 0.002791
+[2021.09.25-14.27.50:326][965]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2021.09.25-14.27.50:329][965]PIE: Server logged in
+[2021.09.25-14.27.50:331][965]PIE: Play in editor total start time 0,121 seconds.
+[2021.09.25-14.27.52:555][ 90]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.09.25-14.27.55:222][250]LogBlueprintUserMessages: [BP_Laser_C_0] Wall11
+[2021.09.25-14.27.55:555][270]LogBlueprintUserMessages: [Enemy_Forest_2] 25.0
+[2021.09.25-14.27.56:005][297]LogBlueprintUserMessages: [BP_Laser_C_2] Wall11
+[2021.09.25-14.27.56:422][322]LogBlueprintUserMessages: [BP_Laser_C_3] Wall9
+[2021.09.25-14.27.57:106][363]LogBlueprintUserMessages: [Enemy_Forest_2] 25.0
+[2021.09.25-14.27.57:305][375]LogBlueprintUserMessages: [Enemy_Forest_2] 25.0
+[2021.09.25-14.27.57:739][401]LogBlueprintUserMessages: [BP_Laser_C_6] Wall11
+[2021.09.25-14.27.58:106][423]LogBlueprintUserMessages: [BP_Laser_C_7] Wall9
+[2021.09.25-14.27.58:589][452]LogBlueprintUserMessages: [BP_Laser_C_8] Bump_StaticMesh
+[2021.09.25-14.27.58:656][456]LogBlueprintUserMessages: [Enemy_Forest_2] 25.0
+[2021.09.25-14.27.58:822][466]LogBlueprintUserMessages: [Enemy_Forest_2] 25.0
+[2021.09.25-14.27.59:022][478]LogBlueprintUserMessages: [Enemy_Forest_2] 25.0
+[2021.09.25-14.27.59:223][490]LogBlueprintUserMessages: [Enemy_Forest_2] 25.0
+[2021.09.25-14.27.59:422][502]LogBlueprintUserMessages: [Enemy_Forest_2] 25.0
+[2021.09.25-14.27.59:622][514]LogBlueprintUserMessages: [Enemy_Forest_2] 25.0
+[2021.09.25-14.28.00:067][539]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-14.28.00:067][539]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-14.28.00:067][539]LogSlate: Window 'WavesShooter Preview [NetMode: Standalone]  (64-bit/Windows) ' being destroyed
+[2021.09.25-14.28.00:072][539]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-14.28.00:072][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-14.28.00:083][539]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-14.28.00:120][539]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-14.28.00:150][539]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.25-14.28.00:151][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-14.28.00:151][539]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-14.28.00:157][539]LogUObjectHash: Compacting FUObjectHashTables data took   2.63ms
+[2021.09.25-14.28.00:175][540]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2021.09.25-14.28.52:661][909]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2021.09.25-14.29.00:085][ 30]LogWorld: UWorld::CleanupWorld for World_12, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-14.29.00:085][ 30]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-14.30.08:075][522]BlueprintLog: New page: Compile BP_EnemyBase
+[2021.09.25-14.30.08:189][522]LogUObjectHash: Compacting FUObjectHashTables data took   3.33ms
+[2021.09.25-14.30.08:451][530]BlueprintLog: New page: Compile BP_EnemyBase
+[2021.09.25-14.30.08:561][530]LogUObjectHash: Compacting FUObjectHashTables data took   3.23ms
+[2021.09.25-14.30.31:881][256]BlueprintLog: New page: Compile BP_EnemyBase
+[2021.09.25-14.30.31:999][256]LogUObjectHash: Compacting FUObjectHashTables data took   4.23ms
+[2021.09.25-14.30.32:518][282]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/_AI/BP_EnemyBase" FILE="../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset" SILENT=true
+[2021.09.25-14.30.32:524][282]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/BP_EnemyBase0C1D82CA401FFB44952DC195A9CC4172.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/_AI/BP_EnemyBase.uasset'
+[2021.09.25-14.30.32:538][282]AssetCheck: New page: Asset Save: BP_EnemyBase
+[2021.09.25-14.30.32:538][282]LogContentValidation: Display: Validating Blueprint /Game/_AI/BP_EnemyBase.BP_EnemyBase
