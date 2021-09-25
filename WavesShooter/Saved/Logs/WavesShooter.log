@@ -1907,3 +1907,177 @@ Script call stack:
 [2021.09.25-09.32.03:475][379]AssetCheck: New page: Asset Save: multiple assets
 [2021.09.25-09.32.03:475][379]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
 [2021.09.25-09.32.03:476][379]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
+[2021.09.25-09.32.59:010][796]LogTemp: Repeating last play command: Selected Viewport
+[2021.09.25-09.32.59:014][796]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2021.09.25-09.32.59:014][796]PIE: New page: PIE session: ThirdPersonExampleMap (2021. szept. 25. 13:32:59)
+[2021.09.25-09.32.59:015][796]LogPlayLevel: Creating play world package: /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-09.32.59:025][796]LogPlayLevel: PIE: StaticDuplicateObject took: (0.010493s)
+[2021.09.25-09.32.59:029][796]LogAIModule: Creating AISystem for world ThirdPersonExampleMap
+[2021.09.25-09.32.59:030][796]LogPlayLevel: PIE: World Init took: (0.004663s)
+[2021.09.25-09.32.59:030][796]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap to /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap (0.015374s)
+[2021.09.25-09.32.59:056][796]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.09.25-09.32.59:059][796]LogAudio: Display: Creating Audio Device:                 Id: 8, Scope: Unique, Realtime: True
+[2021.09.25-09.32.59:059][796]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2021.09.25-09.32.59:059][796]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2021.09.25-09.32.59:059][796]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 1024
+[2021.09.25-09.32.59:059][796]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  1024
+[2021.09.25-09.32.59:059][796]LogAudioMixer: Display: 	Number of buffers to queue:			  2
+[2021.09.25-09.32.59:059][796]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2021.09.25-09.32.59:059][796]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2021.09.25-09.32.59:059][796]LogAudio: Display: AudioDevice MaxSources: 32
+[2021.09.25-09.32.59:059][796]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2021.09.25-09.32.59:059][796]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2021.09.25-09.32.59:059][796]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2021.09.25-09.32.59:059][796]LogAudioMixer: Display: Initializing audio mixer.
+[2021.09.25-09.32.59:062][796]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.25-09.32.59:062][796]LogAudioMixer: Display: 1: FrontRight
+[2021.09.25-09.32.59:068][796]LogAudioMixer: Display: Using Audio Device LG ULTRAWIDE (NVIDIA High Definition Audio)
+[2021.09.25-09.32.59:069][796]LogAudioMixer: Display: Initializing Sound Submixes...
+[2021.09.25-09.32.59:069][796]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2021.09.25-09.32.59:069][796]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2021.09.25-09.32.59:070][796]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2021.09.25-09.32.59:070][796]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2021.09.25-09.32.59:070][796]LogAudioMixer: Display: Output buffers initialized: Frames=1024, Channels=2, Samples=2048
+[2021.09.25-09.32.59:071][796]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2021.09.25-09.32.59:071][796]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2021.09.25-09.32.59:071][796]LogInit: FAudioDevice initialized.
+[2021.09.25-09.32.59:071][796]LogAudio: Display: Audio Device (ID: 8) registered with world 'ThirdPersonExampleMap'.
+[2021.09.25-09.32.59:086][796]LogLoad: Game class is 'ThirdPersonGameMode_C'
+[2021.09.25-09.32.59:091][796]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-09.32.59:092][796]LogWorld: Bringing World /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap.ThirdPersonExampleMap up for play (max tick rate 60) at 2021.09.25-11.32.59
+[2021.09.25-09.32.59:093][796]LogWorld: Bringing up level for play took: 0.004564
+[2021.09.25-09.32.59:093][796]LogOnline: OSS: Creating online subsystem instance for: :Context_15
+[2021.09.25-09.32.59:096][796]PIE: Server logged in
+[2021.09.25-09.32.59:097][796]PIE: Play in editor total start time 0,084 seconds.
+[2021.09.25-09.33.01:358][930]LogParticles: Warning: Particle Notify: Particle system is null for particle notify 'PlayParticleEffect' in anim: '/Game/ParagonLtBelica/Characters/Heroes/Belica/Animations/LevelStart_Montage.LevelStart_Montage'
+[2021.09.25-09.33.11:783][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-09.33.11:783][553]LogWorld: BeginTearingDown for /Game/ThirdPersonBP/Maps/UEDPIE_0_ThirdPersonExampleMap
+[2021.09.25-09.33.11:783][553]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=true
+[2021.09.25-09.33.11:784][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-09.33.11:803][553]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2021.09.25-09.33.11:847][553]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2021.09.25-09.33.11:865][553]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2021.09.25-09.33.11:865][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-09.33.11:866][553]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2021.09.25-09.33.11:867][553]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2021.09.25-09.33.11:872][553]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2021.09.25-09.33.11:949][554]LogPlayLevel: Display: Destroying online subsystem :Context_15
+[2021.09.25-09.33.13:102][616]MapCheck: New page: Map Check
+[2021.09.25-09.33.13:150][616]Cmd: MAP REBUILD ALLVISIBLE
+[2021.09.25-09.33.13:150][616]LogEditorServer: Rebuildmap Clear paths rebuilt
+[2021.09.25-09.33.13:158][616]LogWorld: UWorld::CleanupWorld for ThirdPersonExampleMap, bSessionEnded=true, bCleanupResources=false
+[2021.09.25-09.33.13:162][616]LogScript: Warning: Script Msg: Divide by zero detected: 0.000000 / 0
+Script call stack:
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:BlueprintUpdateAnimation
+	Function /Game/ParagonLtBelica/Characters/Heroes/Belica/LtBelica_AnimBlueprint.LtBelica_AnimBlueprint_C:ExecuteUbergraph_LtBelica_AnimBlueprint
+
+[2021.09.25-09.33.13:190][616]LogNavigationDataBuild: Display: UNavigationSystemV1::Build started...
+[2021.09.25-09.33.13:190][616]LogNavigationDataBuild: Display:    Building navigation data using PHYSICS_INTERFACE_PHYSX.
+[2021.09.25-09.33.13:190][616]LogNavigationDataBuild: Display:    Building navigation data using WITH_PHYSX.
+[2021.09.25-09.33.13:211][616]LogUObjectHash: Compacting FUObjectHashTables data took   1.96ms
+[2021.09.25-09.33.13:422][616]LogLevel: Display: Export Material TexCoord Scales took 0.208 seconds.
+[2021.09.25-09.33.13:425][616]TextureStreamingBuild: Display: Build Texture Streaming took 0.003 seconds.
+[2021.09.25-09.33.13:443][616]LogUObjectHash: Compacting FUObjectHashTables data took   0.46ms
+[2021.09.25-09.33.13:445][616]LightingResults: New page: Lighting Build - 2021. szept. 25. 13:33:13
+[2021.09.25-09.33.13:524][616]LogSwarmInterface: [OpenConnection] Registering TCP channel ...
+[2021.09.25-09.33.13:571][616]LogSwarmInterface: [OpenConnection] Connecting to agent ...
+[2021.09.25-09.33.13:596][616]LogSwarmInterface: [TryOpenConnection] Testing the Agent
+[2021.09.25-09.33.14:619][616]LogSwarmInterface: [TryOpenConnection] Opening Connection to Agent
+[2021.09.25-09.33.14:619][616]LogSwarmInterface: [TryOpenConnection] Local Process ID is 15088
+[2021.09.25-09.33.17:269][616]LogStaticLightingSystem: Running Lightmass w/ ImmediateImport mode ENABLED
+[2021.09.25-09.33.17:269][616]LogStaticLightingSystem: Running Lightmass w/ ImmediateProcess mode ENABLED
+[2021.09.25-09.33.17:269][616]LogStaticLightingSystem: Running Lightmass w/ Sorting mode ENABLED
+[2021.09.25-09.33.17:269][616]LogStaticLightingSystem: Running Lightmass w/ Mapping paddings ENABLED
+[2021.09.25-09.33.17:269][616]LogStaticLightingSystem: Running Lightmass w/ Mapping debug paddings DISABLED
+[2021.09.25-09.33.17:461][616]Cmd: MAP CHECK DONTDISPLAYDIALOG
+[2021.09.25-09.33.17:461][616]MapCheck: New page: ThirdPersonExampleMap - 2021. szept. 25. 13:33:17
+[2021.09.25-09.33.17:464][616]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 2,468ms to complete.
+[2021.09.25-09.33.17:467][616]LogEditorBuildUtils: Build time 0:04
+[2021.09.25-09.33.17:957][616]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: E196F04F6F9970EA62120D75BF8070669BA10977), compiling. 
+[2021.09.25-09.33.17:971][616]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.09.25-09.33.17:973][616]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer MaterialInstanceDynamic_0 in PCD3D_SM5, Default, SM5 (DDC key hash: ED95D2B258450F45B96DD24FF92CD0213EF3DA23), compiling. 
+[2021.09.25-09.33.17:979][616]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.09.25-09.33.17:982][616]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 4
+[2021.09.25-09.33.17:982][616]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 2
+[2021.09.25-09.33.17:982][616]LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2021.09.25-09.33.18:155][617]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer RampMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 62939B7265EE19D074F9D79E7FBB42A6809E52C1), compiling. 
+[2021.09.25-09.33.18:160][617]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.09.25-09.33.18:162][617]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 2
+[2021.09.25-09.33.18:162][617]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.09.25-09.33.18:162][617]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.09.25-09.33.18:162][617]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer RampMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: D8FEC1DF8FD2DBB2046C26FFAB8EC0EA2856CFF3), compiling. 
+[2021.09.25-09.33.18:166][617]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.09.25-09.33.18:423][618]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 765FDBEB5E12D5A450879354BD4B749E5A971C1F), compiling. 
+[2021.09.25-09.33.18:427][618]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.09.25-09.33.18:428][618]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer CubeMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 2E8EDC03AE267D7ED5A5DCBC70BBC3E8C5503031), compiling. 
+[2021.09.25-09.33.18:433][618]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.09.25-09.33.18:455][619]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: 09BE4C7A08E9CF5953A86E83F05117832C1466B9), compiling. Is special engine material.
+[2021.09.25-09.33.18:460][619]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.09.25-09.33.18:464][619]LogMaterial: Display: Missing cached shadermap for FLightmassMaterialRenderer WorldGridMaterial in PCD3D_SM5, Default, SM5 (DDC key hash: A2E71CE4DF26E5630E073D9FE8BE1AFD709D796A), compiling. Is special engine material.
+[2021.09.25-09.33.18:468][619]LogShaderCompilers: Display: Submitted 2 shader compile jobs with 'Low' priority
+[2021.09.25-09.33.19:574][620]LogShaderCompilers: Display: Worker (3/5): shaders left to compile 10
+[2021.09.25-09.33.19:575][620]LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2021.09.25-09.33.19:575][620]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 7
+[2021.09.25-09.33.19:575][620]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.09.25-09.33.19:575][620]LogShaderCompilers: Display: Worker (2/5): shaders left to compile 5
+[2021.09.25-09.33.19:575][620]LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2021.09.25-09.33.19:575][620]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 3
+[2021.09.25-09.33.19:575][620]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.09.25-09.33.19:575][620]LogShaderCompilers: Display: Worker (1/5): shaders left to compile 2
+[2021.09.25-09.33.19:575][620]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.09.25-09.33.19:575][620]LogShaderCompilers: Display: Worker (4/5): shaders left to compile 1
+[2021.09.25-09.33.19:575][620]LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2021.09.25-09.33.19:575][620]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2021.09.25-09.33.19:575][620]LogShaderCompilers: Display: Total job queries 16, among them cache hits 0 (0.00%)
+[2021.09.25-09.33.19:575][620]LogShaderCompilers: Display: Tracking 16 distinct input hashes that result in 8 distinct outputs (50.00%)
+[2021.09.25-09.33.19:575][620]LogShaderCompilers: Display: RAM used: 0.02 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.00%
+[2021.09.25-09.33.19:575][620]LogShaderCompilers: Display: ================================================
+[2021.09.25-09.33.19:867][627]LogUObjectHash: Compacting FUObjectHashTables data took   3.17ms
+[2021.09.25-09.33.23:230][768]Job is a success!
+[2021.09.25-09.33.23:401][769]LogVolumetricLightmapImport: Imported Volumetric Lightmap in 0.009s
+[2021.09.25-09.33.23:401][769]LogVolumetricLightmapImport:      Indirection Texture 16x16x16 = 0.0Mb
+[2021.09.25-09.33.23:401][769]LogVolumetricLightmapImport:      BrickData (all levels) 0.2Mb (trimmed 0.0Mb due to 0.010000 MinBrickError)
+[2021.09.25-09.33.23:401][769]LogVolumetricLightmapImport:      Bricks at depth
+[2021.09.25-09.33.23:401][769]LogVolumetricLightmapImport:          0: 2.3% covering 100.0% of volume
+[2021.09.25-09.33.23:401][769]LogVolumetricLightmapImport:          1: 9.1% covering 6.2% of volume
+[2021.09.25-09.33.23:401][769]LogVolumetricLightmapImport:          2: 88.6% covering 1.0% of volume
+[2021.09.25-09.33.23:401][769]LogVolumetricLightmapImport:      Bricks in each level
+[2021.09.25-09.33.23:401][769]LogVolumetricLightmapImport:          ThirdPersonExampleMap 			 44 bricks 	 100.0% (Persistent Level)
+[2021.09.25-09.33.23:581][769]LogTexture: Display: Building textures: SkyOcclusion1_1 (OODLE_AutoDXT, 1024X512)
+[2021.09.25-09.33.23:582][769]LogTexture: Display: Building textures: HQ_Lightmap1_1 (OODLE_AutoDXT, 1024X1024)
+[2021.09.25-09.33.23:582][769]LogTexture: Display: Building textures: HQ_Lightmap1_2 (OODLE_AutoDXT, 512X512)
+[2021.09.25-09.33.23:582][769]LogTexture: Display: Building textures: SkyOcclusion1_2 (OODLE_AutoDXT, 512X256)
+[2021.09.25-09.33.23:582][769]LogTexture: Display: Building textures: LQ_Lightmap_1_1 (OODLE_DXT1, 1024X1024)
+[2021.09.25-09.33.23:582][769]LogTexture: Display: Building textures: LQ_Lightmap_1_2 (OODLE_DXT1, 512X512)
+[2021.09.25-09.33.23:582][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.25-09.33.23:582][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 512 x 1 to format OODLE_AutoDXT (Oodle OodleTex_BC3) lambda=0 effort=20 
+[2021.09.25-09.33.23:582][769]LogTextureFormatOodle: Display: non-RDO encode 1024 x 1024 x 1 to format OODLE_DXT1 (Oodle OodleTex_BC1_WithTransparency) lambda=0 effort=20 
+[2021.09.25-09.33.23:582][769]LogTexture: Display: Building textures: SkyOcclusion1_3 (OODLE_AutoDXT, 64X32)
+[2021.09.25-09.33.23:582][769]LogTexture: Display: Building textures: HQ_Lightmap1_3 (OODLE_AutoDXT, 64X64)
+[2021.09.25-09.33.23:582][769]LogTexture: Display: Building textures: LQ_Lightmap_1_3 (OODLE_DXT1, 64X64)
+[2021.09.25-09.33.23:782][769]LogTexture: Display: Building textures: ShadowMapTexture2D_3 (G8, 32X32)
+[2021.09.25-09.33.23:849][769]LogTexture: Display: Building textures: ShadowMapTexture2D_2 (G8, 1024X1024)
+[2021.09.25-09.33.23:877][769]LogStaticLightingSystem: ThirdPersonExampleMap_BuiltData storing lightmap data for 12 meshes in 3 LightmapResourceClusters (4.0 Meshes per cluster).
+[2021.09.25-09.33.23:909][769]Lightmass on DESKTOP-VJULLI5: 3.10 sec total, 141 ms importing, 11 ms setup, 596 ms photons, 2.27 sec processing, 0 ms extra exporting [12/12 mappings]. Threads: 15.8 sec total, 4.37 sec processing.
+[2021.09.25-09.33.23:923][769]LogUObjectHash: Compacting FUObjectHashTables data took   2.22ms
+[2021.09.25-09.33.23:939][769]LogStaticLightingSystem: Illumination: 10.4 sec (191 ms encoding lightmaps, 214 ms encoding shadowmaps)
+[2021.09.25-09.33.23:939][769]LogStaticLightingSystem: Lightmap texture memory:  3.3 MB (3.3 MB streaming, 0.0 MB non-streaming), 6 textures
+[2021.09.25-09.33.23:939][769]LogStaticLightingSystem: Shadowmap texture memory: 1.3 MB (1.3 MB streaming, 0.0 MB non-streaming), 2 textures
+[2021.09.25-09.33.24:274][769]DumpUnbuiltLightIteractions
+[2021.09.25-09.33.24:274][769]Lights with unbuilt interactions: 0
+[2021.09.25-09.33.24:274][769]
+[2021.09.25-09.33.24:274][769]Primitives with unbuilt interactions: 0
+[2021.09.25-09.33.24:351][769]LogTexture: Display: Building textures: NewReflectionComponentTexture3884DE244CA9D1E5320A11B1C608A293 (BGRA8, 128X128)
+[2021.09.25-09.33.24:382][770]Cmd: MAP CHECK NOTIFYRESULTS
+[2021.09.25-09.33.24:382][770]MapCheck: New page: ThirdPersonExampleMap - 2021. szept. 25. 13:33:24
+[2021.09.25-09.33.24:382][770]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0,328ms to complete.
+[2021.09.25-09.33.29:781][ 81]LogUObjectHash: Compacting FUObjectHashTables data took   2.13ms
+[2021.09.25-09.33.29:795][ 81]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMap1C998AD041E1B8FBD873D48FCEAC9123.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap.umap'
+[2021.09.25-09.33.29:878][ 81]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMap_BuiltDataF6F7898043FAA229059EDBAE56422EA2.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.uasset'
+[2021.09.25-09.33.29:888][ 81]AssetCheck: New page: Asset Save: multiple assets
+[2021.09.25-09.33.29:888][ 81]LogContentValidation: Display: Validating MapBuildDataRegistry /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_BuiltData.ThirdPersonExampleMap_BuiltData
+[2021.09.25-09.33.29:888][ 81]LogContentValidation: Display: Validating World /Game/ThirdPersonBP/Maps/ThirdPersonExampleMap.ThirdPersonExampleMap
