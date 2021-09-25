@@ -2081,3 +2081,20 @@ Script call stack:
 [2021.09.25-13.20.33:429][160]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonCharacter67A4C0FF41E420E0FD0B4FB96AE48710.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
 [2021.09.25-13.20.33:449][160]AssetCheck: New page: Asset Save: ThirdPersonCharacter
 [2021.09.25-13.20.33:449][160]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.09.25-13.20.58:888][705]LogSlate: Window 'Pick Parent Class' being destroyed
+[2021.09.25-13.20.58:894][705]LogContentBrowser: Deferred new asset file creation: NewBlueprint
+[2021.09.25-13.20.58:904][705]LogContentBrowser: Creating deferred item: NewBlueprint
+[2021.09.25-13.21.07:855][237]LogContentBrowser: Attempting asset rename: NewBlueprint -> BP_EnemyBase
+[2021.09.25-13.21.07:866][237]LogContentBrowser: End creating deferred item NewBlueprint
+[2021.09.25-13.21.15:739][694]LogContentBrowser: Deferred new asset file creation: BP_EnemyBase_Child
+[2021.09.25-13.21.15:748][694]LogContentBrowser: Creating deferred item: BP_EnemyBase_Child
+[2021.09.25-13.21.35:178][579]LogContentBrowser: Attempting asset rename: BP_EnemyBase_Child -> Enemy_Green
+[2021.09.25-13.21.35:181][579]LogContentBrowser: End creating deferred item BP_EnemyBase_Child
+[2021.09.25-13.22.08:111][808]LogUObjectHash: Compacting FUObjectHashTables data took   2.82ms
+[2021.09.25-13.22.08:133][808]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonExampleMap_Auto35541CD4E4FDB33FDC72B0580F9B81FA9.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Autosaves/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap_Auto3.umap'
+[2021.09.25-13.22.08:134][808]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/ThirdPersonBP/Maps/ThirdPersonExampleMap' took 0.047
+[2021.09.25-13.22.08:134][808]LogFileHelpers: Editor autosave (incl. sublevels & external actors) for all levels took 0.047
+[2021.09.25-13.22.08:134][808]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Enemy_Green] ([2] browsable assets)...
+[2021.09.25-13.22.08:134][808]OBJ SavePackage: Finished generating thumbnails for package [/Game/Enemy_Green]
+[2021.09.25-13.22.08:138][808]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Enemy_Green_Auto30CE890D0408DF5CD32B51290CDFB45B6.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/Autosaves/Game/Enemy_Green_Auto3.uasset'
+[2021.09.25-13.22.08:138][808]LogFileHelpers: Auto-saving content packages took 0.004
