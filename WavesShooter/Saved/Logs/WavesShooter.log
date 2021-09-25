@@ -982,3 +982,6 @@ Script call stack:
 [2021.09.25-12.30.26:256][571]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonCharacter342083284352B21F4FF1AEA5C427D327.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
 [2021.09.25-12.30.26:278][571]AssetCheck: New page: Asset Save: ThirdPersonCharacter
 [2021.09.25-12.30.26:279][571]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
+[2021.09.25-12.49.34:102][274]LogSavePackage: Moving '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Saved/ThirdPersonCharacter2B93B7D6426FE00FA114FC84620855DC.tmp' to '../../../../../../REPOS/DevAddict-Unreal_Engine_4_Top_Down_Shooter/WavesShooter/Content/ThirdPersonBP/Blueprints/ThirdPersonCharacter.uasset'
+[2021.09.25-12.49.34:125][274]AssetCheck: New page: Asset Save: ThirdPersonCharacter
+[2021.09.25-12.49.34:125][274]LogContentValidation: Display: Validating Blueprint /Game/ThirdPersonBP/Blueprints/ThirdPersonCharacter.ThirdPersonCharacter
