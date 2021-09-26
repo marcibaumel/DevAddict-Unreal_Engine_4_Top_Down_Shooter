@@ -951,3 +951,7 @@ Script call stack:
 [2021.09.26-06.52.55:242][673]LogSlate: Took 0.000111 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
 [2021.09.26-06.52.55:394][674]LogSlate: Took 0.004919 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
 [2021.09.26-06.52.58:755][852]LogSlate: Window 'BP_Laser' being destroyed
+[2021.09.26-08.44.29:460][394]LogAudioMixer: Warning: Changing default audio render device to new device: {0.0.0.00000000}.{f9140aa9-c79e-45ad-b3b1-89f9e39f3e7e}.
+[2021.09.26-08.44.29:460][394]LogAudioMixer: Resetting audio stream to device id 
+[2021.09.26-08.44.29:469][394]LogAudioMixer: Display: 0: FrontLeft
+[2021.09.26-08.44.29:469][394]LogAudioMixer: Display: 1: FrontRight
